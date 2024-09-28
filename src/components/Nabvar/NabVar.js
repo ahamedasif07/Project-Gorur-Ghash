@@ -1,4 +1,5 @@
-import React from "react";
+"use client";
+import React, { useState } from "react";
 import Section from "../Section/Section";
 import Image from "next/image";
 import brandLogo from "../../asstes/gorur-ghash-home/Header-1-102x42.png";
@@ -7,42 +8,163 @@ import { BsHandbag } from "react-icons/bs";
 import { FaUser } from "react-icons/fa";
 import { IoSearch } from "react-icons/io5";
 import { TbCurrencyTaka } from "react-icons/tb";
+import { usePathname } from "next/navigation";
+import { RiMenu3Fill } from "react-icons/ri";
+import { RxCross2 } from "react-icons/rx";
+
 const NabVar = () => {
+  const [isMenuOpen, setIsMenuOpne] = useState(false);
+  const pathname = usePathname(); // Get current route
+
+  const isActive = (path) => pathname === path; // Check if the current path matches
+
   return (
     <div className="bg-[#FBDD02] py-3">
       <Section>
-        <div className=" flex justify-around px-3 items-center ">
-          <Image src={brandLogo} alt="image"></Image>
-          <div>
-            <ul className="flex gap-5 ">
-              <Link className="uppercase text-[14px] font-bold" href="/">
+        <div className="flex md:justify-around justify-between px-3 items-center">
+          <Image
+            className="w-[68px] md:w-[90px]"
+            src={brandLogo}
+            alt="Brand Logo"
+          />
+          {/* -----------main navbar start ------------- */}
+          <div className="hidden md:block">
+            <ul className="flex gap-5">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/") ? "text-white border-b-2 border-white" : "null"
+                }`}
+                href="/"
+              >
                 Home
               </Link>
-              <Link className="uppercase text-[14px] font-bold" href="/">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/women") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/women"
+              >
                 Women
               </Link>
-              <Link className="uppercase text-[14px] font-bold" href="/">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/men") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/men"
+              >
                 Men
               </Link>
-              <Link className="uppercase text-[14px] font-bold" href="/">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/kids") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/kids"
+              >
                 Kids
               </Link>
-              <Link className="uppercase text-[14px] font-bold" href="/">
-                Accessorice
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/accessories")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/accessories"
+              >
+                Accessories
               </Link>
-              <Link className="uppercase text-[14px] font-bold" href="/">
-                Accessorice
-              </Link>
-              <Link className="uppercase text-[14px] font-bold" href="/">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/collabs")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/collabs"
+              >
                 Collabs
               </Link>
-              <Link className="uppercase text-[14px] font-bold" href="/">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/policies")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/policies"
+              >
                 Policies
               </Link>
             </ul>
           </div>
-          <div className="flex items-center gap-4">
-            <h2 className="text-[18px] flex  items-center font-bold text-[#54595F]">
+          {/* -----------main navbar end ------------- */}
+          {/* -----------------mini devide nav strat---------- */}
+          {/* <div className="md:hidden block">
+            <ul className="flex flex-col gap-5">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/") ? "text-white border-b-2 border-white" : "null"
+                }`}
+                href="/"
+              >
+                Home
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/women") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/women"
+              >
+                Women
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/men") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/men"
+              >
+                Men
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/kids") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/kids"
+              >
+                Kids
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/accessories")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/accessories"
+              >
+                Accessories
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/collabs")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/collabs"
+              >
+                Collabs
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/policies")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/policies"
+              >
+                Policies
+              </Link>
+            </ul>
+          </div> */}
+          {/* -----------------mini devide nav strat---------- */}
+          <div className="hidden md:flex items-center gap-4">
+            <h2 className="text-[18px] flex items-center font-bold text-[#54595F]">
               Cart/
               <span className="text-[22px] font-bold">
                 <TbCurrencyTaka />
@@ -59,7 +181,93 @@ const NabVar = () => {
               <IoSearch />
             </span>
           </div>
+          {isMenuOpen ? (
+            <button
+              onClick={() => setIsMenuOpne(!isMenuOpen)}
+              className="md:hidden text-[22px] block"
+            >
+              <RxCross2 />
+            </button>
+          ) : (
+            <button
+              onClick={() => setIsMenuOpne(!isMenuOpen)}
+              className="md:hidden text-[22px] block"
+            >
+              <RiMenu3Fill />
+            </button>
+          )}
         </div>
+
+        {/* -----------------mini devide nav strat---------- */}
+        {isMenuOpen && (
+          <div className="md:hidden  px-3 pt-6 block">
+            <ul className="flex flex-col gap-5">
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/") ? "text-white border-b-2 border-white" : "null"
+                }`}
+                href="/"
+              >
+                Home
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/women") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/women"
+              >
+                Women
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/men") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/men"
+              >
+                Men
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/kids") ? "text-white border-b-2 border-white" : ""
+                }`}
+                href="/kids"
+              >
+                Kids
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/accessories")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/accessories"
+              >
+                Accessories
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/collabs")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/collabs"
+              >
+                Collabs
+              </Link>
+              <Link
+                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                  isActive("/policies")
+                    ? "text-white border-b-2 border-white"
+                    : ""
+                }`}
+                href="/policies"
+              >
+                Policies
+              </Link>
+            </ul>
+          </div>
+        )}
+        {/* -----------------mini devide nav strat---------- */}
       </Section>
     </div>
   );
