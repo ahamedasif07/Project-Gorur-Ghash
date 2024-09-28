@@ -11,9 +11,12 @@ import { TbCurrencyTaka } from "react-icons/tb";
 import { usePathname } from "next/navigation";
 import { RiMenu3Fill } from "react-icons/ri";
 import { RxCross2 } from "react-icons/rx";
+import { FaAngleDown } from "react-icons/fa6";
+import { FaChevronUp } from "react-icons/fa";
 
 const NabVar = () => {
   const [isMenuOpen, setIsMenuOpne] = useState(false);
+  const [menuItem, setMenuItem] = useState(false);
   const pathname = usePathname(); // Get current route
 
   const isActive = (path) => pathname === path; // Check if the current path matches
@@ -70,33 +73,49 @@ const NabVar = () => {
               >
                 Accessories
               </Link>
-              <div className="relative group bottom-[3px]">
+              <div
+                onClick={() => setMenuItem(!menuItem)}
+                className="relative top-[1px]"
+              >
                 <Link
                   className={`uppercase  hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
                     isActive("/collabs") ? "text-white border-b-2" : ""
                   }`}
                   href=""
                 >
-                  Collabs
+                  <h2 className="flex items-center gap-2">
+                    Collabs
+                    {menuItem ? (
+                      <span>
+                        <FaChevronUp />
+                      </span>
+                    ) : (
+                      <span>
+                        <FaAngleDown />
+                      </span>
+                    )}
+                  </h2>
                 </Link>
-                <ul className="absolute  left-0 hidden group-hover:block bg-gray-100 text-white px-2">
-                  <li>
-                    <Link
-                      className="block px-4 py-2 hover:bg-gray-700"
-                      href="/collabs/item1"
-                    >
-                      Collab Item 1
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      className="block px-4 py-2 hover:bg-gray-700"
-                      href="/collabs/item2"
-                    >
-                      Collab Item 2
-                    </Link>
-                  </li>
-                </ul>
+                {menuItem && (
+                  <ul className="absolute md:w-[250px] transition-all duration-700 ease-in-out top-[44px] left-0 bg-gray-100 text-white px-2">
+                    <li>
+                      <Link
+                        className="block uppercase  hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black "
+                        href="/collabs/item1"
+                      >
+                        gorurghash-x-cheez
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className="block uppercase   transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black "
+                        href="/collabs/item2"
+                      >
+                        plaantik-x-gg
+                      </Link>
+                    </li>
+                  </ul>
+                )}
               </div>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
@@ -189,14 +208,50 @@ const NabVar = () => {
               >
                 Accessories
               </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/collabs") ? "text-white " : ""
-                }`}
-                href="/collabs"
+              <div
+                onClick={() => setMenuItem(!menuItem)}
+                className="relative top-[1px]"
               >
-                Collabs
-              </Link>
+                <Link
+                  className={`uppercase  hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                    isActive("/collabs") ? "text-white border-b-2" : ""
+                  }`}
+                  href=""
+                >
+                  <h2 className="flex items-center gap-2">
+                    Collabs
+                    {menuItem ? (
+                      <span>
+                        <FaChevronUp />
+                      </span>
+                    ) : (
+                      <span>
+                        <FaAngleDown />
+                      </span>
+                    )}
+                  </h2>
+                </Link>
+                {menuItem && (
+                  <ul className="absolute md:w-[250px] transition-all duration-700 ease-in-out top-[44px] left-0 bg-gray-100 text-white px-2">
+                    <li>
+                      <Link
+                        className="block uppercase  hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black "
+                        href="/collabs/item1"
+                      >
+                        gorurghash-x-cheez
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className="block uppercase   transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black "
+                        href="/collabs/item2"
+                      >
+                        plaantik-x-gg
+                      </Link>
+                    </li>
+                  </ul>
+                )}
+              </div>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
                   isActive("/policies") ? "text-white " : ""
