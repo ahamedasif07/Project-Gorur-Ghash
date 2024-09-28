@@ -1,16 +1,12 @@
-import localFont from "next/font/local";
+import { Poppins } from "next/font/google";
 import "./globals.css";
 import NabVar from "@/components/Nabvar/NabVar";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
+// Import Poppins font from Google Fonts
+const poppins = Poppins({
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+  subsets: ["latin"],
+  variable: "--font-poppins",
 });
 
 export const metadata = {
@@ -25,9 +21,7 @@ export default function RootLayout({ children }) {
         {/* Correct favicon path, without 'public' in the path */}
         <link rel="icon" href="/download (1).png" type="image/png" />
       </head>
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${poppins.variable} antialiased`}>
         <div>
           <NabVar />
           {children}

@@ -7,7 +7,7 @@ import WomenBaner from "../../asstes/gorur-ghash-home/3.png";
 const MainCatagoris = () => {
   return (
     <div>
-      <div className="flex md:max-w-screen-lg px-4 justify-center pt-12 mx-auto gap-5 md:flex-row flex-col">
+      <div className="flex md:max-w-screen-lg px-4 justify-center pt-[30px] pb-[20px] mx-auto gap-5">
         <div className="w-full">
           <Image src={menBaner} alt="image" layout="responsive" />
         </div>
