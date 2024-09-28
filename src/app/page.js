@@ -14,6 +14,8 @@ import caps from "../asstes/gorur-ghash-home/10.png";
 import jewalary from "../asstes/gorur-ghash-home/jwelary.png";
 import giftCards from "../asstes/gorur-ghash-home/11.png";
 import stpeler from "../asstes/gorur-ghash-home/12.png";
+import OnSell from "@/components/Home/OnSell";
+import Delibery from "@/components/Home/Delibery";
 
 export const metadata = {
   title: "Gorur Ghash - Home",
@@ -30,6 +32,8 @@ export default function Home() {
       <Catagories image1={jacket} image2={officeWare}></Catagories>
       <Catagories image1={caps} image2={jewalary}></Catagories>
       <Catagories image1={giftCards} image2={stpeler}></Catagories>
+      <OnSell></OnSell>
+      <Delibery></Delibery>
     </div>
   );
 }
