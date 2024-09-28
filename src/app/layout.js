@@ -22,14 +22,14 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Favicon linked from the public folder */}
-        <link rel="icon" href="/public/Header-1.png" type="image/png" />
+        {/* Correct favicon path, without 'public' in the path */}
+        <link rel="icon" href="/download (1).png" type="image/png" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <div>
-          <NabVar></NabVar>
+          <NabVar />
           {children}
         </div>
       </body>
