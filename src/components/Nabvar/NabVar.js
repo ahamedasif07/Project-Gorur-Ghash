@@ -18,9 +18,9 @@ const NabVar = () => {
   const [isMenuOpen, setIsMenuOpne] = useState(false);
   const [menuItem, setMenuItem] = useState(false);
   const [isSearch, setIsSearch] = useState(false);
-  const pathname = usePathname(); // Get current route
+  const pathname = usePathname();
 
-  const isActive = (path) => pathname === path; // Check if the current path matches
+  const isActive = (path) => pathname === path;
 
   return (
     <div className="relative">
@@ -33,7 +33,7 @@ const NabVar = () => {
                 src={brandLogo}
                 alt="Brand Logo"
               />
-              {/* -----------main navbar start ------------- */}
+              {/* Main navbar */}
               <div className="hidden md:block">
                 <ul className="flex gap-5">
                   <Link
@@ -81,29 +81,21 @@ const NabVar = () => {
                     className="relative top-[1px]"
                   >
                     <Link
-                      className={`uppercase  hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                      className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
                         isActive("/collabs") ? "text-white border-b-2" : ""
                       }`}
                       href=""
                     >
                       <h2 className="flex items-center gap-2">
                         Collabs
-                        {menuItem ? (
-                          <span>
-                            <FaChevronUp />
-                          </span>
-                        ) : (
-                          <span>
-                            <FaAngleDown />
-                          </span>
-                        )}
+                        {menuItem ? <FaChevronUp /> : <FaAngleDown />}
                       </h2>
                     </Link>
                     {menuItem && (
                       <ul className="absolute md:w-[250px] transition-all duration-700 ease-in-out top-[44px] left-0 bg-gray-100 text-white px-2">
                         <li>
                           <Link
-                            className="block uppercase  hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black "
+                            className="block uppercase hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black"
                             href="/collabs/item1"
                           >
                             gorurghash-x-cheez
@@ -111,7 +103,7 @@ const NabVar = () => {
                         </li>
                         <li>
                           <Link
-                            className="block uppercase   transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black "
+                            className="block uppercase transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black"
                             href="/collabs/item2"
                           >
                             plaantik-x-gg
@@ -131,7 +123,7 @@ const NabVar = () => {
                 </ul>
               </div>
 
-              {/* ---------------menu item icons open and closs start --------------- */}
+              {/* Menu item icons */}
               <div className="hidden md:flex items-center gap-4">
                 <h2 className="text-[18px] flex items-center font-bold text-[#54595F]">
                   Cart/
@@ -169,11 +161,9 @@ const NabVar = () => {
                 </button>
               )}
             </div>
-            {/* ---------------menu item icons open and closs start --------------- */}
-
-            {/* -----------------mini devide nav strat---------- */}
+            {/* Mini nav for mobile devices */}
             {isMenuOpen && (
-              <div className="md:hidden  px-3 pt-6 block">
+              <div className="md:hidden px-3 pt-6 block">
                 <ul className="flex flex-col gap-5">
                   <Link
                     className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
@@ -220,29 +210,21 @@ const NabVar = () => {
                     className="relative top-[1px]"
                   >
                     <Link
-                      className={`uppercase  hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                      className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
                         isActive("/collabs") ? "text-white border-b-2" : ""
                       }`}
                       href=""
                     >
                       <h2 className="flex items-center gap-2">
                         Collabs
-                        {menuItem ? (
-                          <span>
-                            <FaChevronUp />
-                          </span>
-                        ) : (
-                          <span>
-                            <FaAngleDown />
-                          </span>
-                        )}
+                        {menuItem ? <FaChevronUp /> : <FaAngleDown />}
                       </h2>
                     </Link>
                     {menuItem && (
                       <ul className="absolute md:w-[250px] transition-all duration-700 ease-in-out top-[44px] left-0 bg-gray-100 text-white px-2">
                         <li>
                           <Link
-                            className="block uppercase  hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black "
+                            className="block uppercase hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black"
                             href="/collabs/item1"
                           >
                             gorurghash-x-cheez
@@ -250,7 +232,7 @@ const NabVar = () => {
                         </li>
                         <li>
                           <Link
-                            className="block uppercase   transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black "
+                            className="block uppercase transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black"
                             href="/collabs/item2"
                           >
                             plaantik-x-gg
@@ -270,29 +252,33 @@ const NabVar = () => {
                 </ul>
               </div>
             )}
-            {/* -----------------mini devide nav end---------- */}
           </div>
         </Section>
       </div>
-      {/* ------------sacach bar start--------- */}
 
+      {/* Search bar */}
       {isSearch && (
-        <div className="bg-[#FBDD02] transition-all duration-300 items-center ease-in-out gap-2 flex  justify-center absolute z-10 w-full bottom-0 py-3">
-          <input
-            type="search"
-            className="w-[450px] py-2 bg-transparent focus:border-b-2 focus:border-black border-b-2 border-gray-400"
-            placeholder="Secarh"
-          />
-          <span
-            className="text-[20px] text-gray-500"
-            onClick={() => setIsSearch(!isSearch)}
-          >
-            <RxCross2 />
-          </span>
+        <div
+          className={`bg-[#FBDD02] transition-transform duration-700 ease-in-out absolute z-10 w-full py-3 ${
+            isSearch ? "translate-y-0" : "-translate-y-full"
+          }`}
+          style={{ top: 0 }} // Positions the search bar at the top
+        >
+          <div className="flex items-center justify-center gap-2">
+            <input
+              type="search"
+              className="w-[450px] outline-none py-2  bg-transparent focus:border-b-2 focus:border-black border-b-2 border-gray-400"
+              placeholder="Search"
+            />
+            <span
+              className="text-[20px] text-gray-500 cursor-pointer"
+              onClick={() => setIsSearch(false)} // Close the search when clicked
+            >
+              <RxCross2 />
+            </span>
+          </div>
         </div>
       )}
-
-      {/* ------------sacach bar end--------- */}
     </div>
   );
 };
