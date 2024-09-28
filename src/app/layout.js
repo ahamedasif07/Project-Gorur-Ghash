@@ -1,6 +1,7 @@
 import { Poppins } from "next/font/google";
 import "./globals.css";
 import NabVar from "@/components/Nabvar/NabVar";
+import Footer from "@/components/Footer/Footer";
 
 // Import Poppins font from Google Fonts
 const poppins = Poppins({
@@ -25,6 +26,7 @@ export default function RootLayout({ children }) {
         <div>
           <NabVar />
           {children}
+          <Footer />
         </div>
       </body>
     </html>
