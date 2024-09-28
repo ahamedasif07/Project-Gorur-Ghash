@@ -32,7 +32,7 @@ const NabVar = () => {
             <ul className="flex gap-5">
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/") ? "text-white border-b-2 border-white" : "null"
+                  isActive("/") ? "text-white border-b-2" : ""
                 }`}
                 href="/"
               >
@@ -40,7 +40,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/women") ? "text-white border-b-2 border-white" : ""
+                  isActive("/women") ? "text-white border-b-2" : ""
                 }`}
                 href="/women"
               >
@@ -48,7 +48,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/men") ? "text-white border-b-2 border-white" : ""
+                  isActive("/men") ? "text-white border-b-2" : ""
                 }`}
                 href="/men"
               >
@@ -56,7 +56,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/kids") ? "text-white border-b-2 border-white" : ""
+                  isActive("/kids") ? "text-white border-b-2" : ""
                 }`}
                 href="/kids"
               >
@@ -64,29 +64,43 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/accessories")
-                    ? "text-white border-b-2 border-white"
-                    : ""
+                  isActive("/accessories") ? "text-white border-b-2" : ""
                 }`}
                 href="/accessories"
               >
                 Accessories
               </Link>
+              <div className="relative group bottom-[3px]">
+                <Link
+                  className={`uppercase  hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
+                    isActive("/collabs") ? "text-white border-b-2" : ""
+                  }`}
+                  href=""
+                >
+                  Collabs
+                </Link>
+                <ul className="absolute  left-0 hidden group-hover:block bg-gray-100 text-white px-2">
+                  <li>
+                    <Link
+                      className="block px-4 py-2 hover:bg-gray-700"
+                      href="/collabs/item1"
+                    >
+                      Collab Item 1
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      className="block px-4 py-2 hover:bg-gray-700"
+                      href="/collabs/item2"
+                    >
+                      Collab Item 2
+                    </Link>
+                  </li>
+                </ul>
+              </div>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/collabs")
-                    ? "text-white border-b-2 border-white"
-                    : ""
-                }`}
-                href="/collabs"
-              >
-                Collabs
-              </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/policies")
-                    ? "text-white border-b-2 border-white"
-                    : ""
+                  isActive("/policies") ? "text-white border-b-2" : ""
                 }`}
                 href="/policies"
               >
@@ -94,75 +108,8 @@ const NabVar = () => {
               </Link>
             </ul>
           </div>
-          {/* -----------main navbar end ------------- */}
-          {/* -----------------mini devide nav strat---------- */}
-          {/* <div className="md:hidden block">
-            <ul className="flex flex-col gap-5">
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/") ? "text-white border-b-2 border-white" : "null"
-                }`}
-                href="/"
-              >
-                Home
-              </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/women") ? "text-white border-b-2 border-white" : ""
-                }`}
-                href="/women"
-              >
-                Women
-              </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/men") ? "text-white border-b-2 border-white" : ""
-                }`}
-                href="/men"
-              >
-                Men
-              </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/kids") ? "text-white border-b-2 border-white" : ""
-                }`}
-                href="/kids"
-              >
-                Kids
-              </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/accessories")
-                    ? "text-white border-b-2 border-white"
-                    : ""
-                }`}
-                href="/accessories"
-              >
-                Accessories
-              </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/collabs")
-                    ? "text-white border-b-2 border-white"
-                    : ""
-                }`}
-                href="/collabs"
-              >
-                Collabs
-              </Link>
-              <Link
-                className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/policies")
-                    ? "text-white border-b-2 border-white"
-                    : ""
-                }`}
-                href="/policies"
-              >
-                Policies
-              </Link>
-            </ul>
-          </div> */}
-          {/* -----------------mini devide nav strat---------- */}
+
+          {/* ---------------menu item icons open and closs --------------- */}
           <div className="hidden md:flex items-center gap-4">
             <h2 className="text-[18px] flex items-center font-bold text-[#54595F]">
               Cart/
@@ -204,7 +151,7 @@ const NabVar = () => {
             <ul className="flex flex-col gap-5">
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/") ? "text-white border-b-2 border-white" : "null"
+                  isActive("/") ? "text-white " : "null"
                 }`}
                 href="/"
               >
@@ -212,7 +159,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/women") ? "text-white border-b-2 border-white" : ""
+                  isActive("/women") ? "text-white " : ""
                 }`}
                 href="/women"
               >
@@ -220,7 +167,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/men") ? "text-white border-b-2 border-white" : ""
+                  isActive("/men") ? "text-white " : ""
                 }`}
                 href="/men"
               >
@@ -228,7 +175,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/kids") ? "text-white border-b-2 border-white" : ""
+                  isActive("/kids") ? "text-white " : ""
                 }`}
                 href="/kids"
               >
@@ -236,9 +183,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/accessories")
-                    ? "text-white border-b-2 border-white"
-                    : ""
+                  isActive("/accessories") ? "text-white " : ""
                 }`}
                 href="/accessories"
               >
@@ -246,9 +191,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/collabs")
-                    ? "text-white border-b-2 border-white"
-                    : ""
+                  isActive("/collabs") ? "text-white " : ""
                 }`}
                 href="/collabs"
               >
@@ -256,9 +199,7 @@ const NabVar = () => {
               </Link>
               <Link
                 className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
-                  isActive("/policies")
-                    ? "text-white border-b-2 border-white"
-                    : ""
+                  isActive("/policies") ? "text-white " : ""
                 }`}
                 href="/policies"
               >
@@ -267,7 +208,7 @@ const NabVar = () => {
             </ul>
           </div>
         )}
-        {/* -----------------mini devide nav strat---------- */}
+        {/* -----------------mini devide nav end---------- */}
       </Section>
     </div>
   );
