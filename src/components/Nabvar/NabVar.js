@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Section from "../Section/Section";
 import Image from "next/image";
 import brandLogo from "../../asstes/gorur-ghash-home/Header-1-102x42.png";
@@ -18,12 +18,38 @@ const NabVar = () => {
   const [isMenuOpen, setIsMenuOpne] = useState(false);
   const [menuItem, setMenuItem] = useState(false);
   const [isSearch, setIsSearch] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
   const pathname = usePathname();
 
   const isActive = (path) => pathname === path;
 
+  useEffect(() => {
+    const handleScroll = () => {
+      // Set the scroll threshold to trigger navbar becoming fixed
+      if (window.scrollY > 100) {
+        setIsScrolled(true);
+      } else {
+        setIsScrolled(false);
+      }
+    };
+
+    // Add the scroll event listener
+    window.addEventListener("scroll", handleScroll);
+
+    // Cleanup event listener on component unmount
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
   return (
-    <div className="relative">
+    <div
+      className={` ${
+        isScrolled
+          ? "fixed top-0 w-full z-50 nav-slide-down" // Add a class for sliding down
+          : "nav-slide-up" // Add a class for sliding up when not scrolled
+      }`}
+    >
       <div className="bg-[#FBDD02] py-3">
         <Section>
           <div className="">
