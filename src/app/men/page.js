@@ -1,3 +1,4 @@
+import CatagoryContainer from "@/components/CatagoryContainer/CatagoryContainer";
 import React from "react";
 
 const Men = () => {
@@ -15,12 +16,12 @@ const Men = () => {
     {
       category: "SWEATSHIRTS",
       products: 1,
-      image: "phttps://i.postimg.cc/8kwhk8wx/605-A4269-300x300.jpg",
+      image: "https://i.postimg.cc/8kwhk8wx/605-A4269-300x300.jpg",
     },
     {
       category: "TANK TOPS",
       products: 3,
-      image: "phttps://i.postimg.cc/c42t6d3k/605-A9260-300x300.jpg",
+      image: "https://i.postimg.cc/c42t6d3k/605-A9260-300x300.jpg",
     },
     {
       category: "SHIRT",
@@ -35,12 +36,12 @@ const Men = () => {
     {
       category: "PANTS",
       products: 26,
-      image: "phttps://i.postimg.cc/nrQZWfLM/605-A9338-copy-300x300.jpg",
+      image: "https://i.postimg.cc/nrQZWfLM/605-A9338-copy-300x300.jpg",
     },
     {
       category: "HOODIE BLACK",
       products: 1,
-      image: "phttps://i.postimg.cc/tCWn1LzX/605-A9517-300x300.jpg",
+      image: "https://i.postimg.cc/tCWn1LzX/605-A9517-300x300.jpg",
     },
     {
       category: "TURTLENECK",
@@ -55,11 +56,17 @@ const Men = () => {
     {
       category: "JACKET",
       products: 0, // Sample
-      image: "phttps://i.postimg.cc/k5pgYcy1/605-A0352-1-300x300.jpg",
+      image: "https://i.postimg.cc/k5pgYcy1/605-A0352-1-300x300.jpg",
     },
   ];
 
-  return <div></div>;
+  return (
+    <div>
+      <CatagoryContainer
+        productCategories={productCategories}
+      ></CatagoryContainer>
+    </div>
+  );
 };
 
 export default Men;
