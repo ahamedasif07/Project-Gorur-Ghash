@@ -20,7 +20,7 @@ const CatagoryContainer = ({ productCategories }) => {
           </div>
           {/* ----------products catgory cardsm------------- */}
           <div className="md:w-2/3 md:mt-[50px]  px-10 ">
-            <div className="grid md:grid-cols-4 gap-4 grid-cols-2">
+            <div className="product-catagory-card grid  md:grid-cols-4 gap-4 grid-cols-2">
               {productCategories.map((productCatagory, index) => (
                 <ProductCatagoryCard
                   key={index}
