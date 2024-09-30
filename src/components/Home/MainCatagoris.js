@@ -8,6 +8,7 @@ import React from "react";
 import accossriesBaner from "../../asstes/gorur-ghash-home/2.png";
 import menBaner from "../../asstes/gorur-ghash-home/1.png";
 import WomenBaner from "../../asstes/gorur-ghash-home/3.png";
+import Link from "next/link";
 
 const MainCatagoris = () => {
   useEffect(() => {
@@ -23,15 +24,15 @@ const MainCatagoris = () => {
         data-aos="fade-up"
         className="flex md:max-w-screen-lg px-4 justify-center pt-[30px] pb-[20px] mx-auto gap-5"
       >
-        <div className="w-full">
+        <Link href="/men" className="w-full">
           <Image src={menBaner} alt="image" layout="responsive" />
-        </div>
-        <div className="w-full">
+        </Link>
+        <Link href="/asserocies" className="w-full">
           <Image src={accossriesBaner} alt="image" layout="responsive" />
-        </div>
-        <div className="w-full">
+        </Link>
+        <Link href="/women" className="w-full">
           <Image src={WomenBaner} alt="image" layout="responsive" />
-        </div>
+        </Link>
       </div>
     </div>
   );
