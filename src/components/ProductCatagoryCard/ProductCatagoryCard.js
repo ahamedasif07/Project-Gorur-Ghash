@@ -10,7 +10,6 @@ const ProductCatagoryCard = ({ productCatagory }) => {
   return (
     <div>
       <div>
-        {/* Ensure a valid image URL is passed */}
         <Image width={300} height={300} src={image} alt="image" />
 
         <div>

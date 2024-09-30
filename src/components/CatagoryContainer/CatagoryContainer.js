@@ -18,13 +18,16 @@ const CatagoryContainer = ({ productCategories }) => {
               Search
             </button>
           </div>
+          {/* ----------products catgory cardsm------------- */}
           <div className="md:w-2/3 md:mt-[50px]  px-10 ">
-            {productCategories.map((productCatagory, index) => (
-              <ProductCatagoryCard
-                key={index}
-                productCatagory={productCatagory}
-              ></ProductCatagoryCard>
-            ))}
+            <div className="grid md:grid-cols-4 gap-4 grid-cols-2">
+              {productCategories.map((productCatagory, index) => (
+                <ProductCatagoryCard
+                  key={index}
+                  productCatagory={productCatagory}
+                ></ProductCatagoryCard>
+              ))}
+            </div>
           </div>
         </div>
       </Section>
