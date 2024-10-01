@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Zigzag Pattern Knit Polo in Maroon",
+    "category": "Polos",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/jRKSqTH/MNN01148-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/qRhY4Hz/MNN01129.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Men's Zigzag Pattern Knit Polo in White",
+    "category": "Polos",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/fMFT4Pt/PKZW-9-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/hXZtcw8/PKZW-4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Men's Diamond Knit Polo in Black",
+    "category": "Polos",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/kcLj7Y0/PKDK-7-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/BqqjTFv/PKDK-4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Men's Multi Pattern Knit Polo in Cream",
+    "category": "Polos",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/bzHkKjR/PKMC-7-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/phvcGpW/PKMC-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Men's Multi Pattern Knit Polo in Pink",
+    "category": "Polos",
+    "price": 1400,
+    "imageOne": "image1_url_for_pink_polo.jpg",
+    "imageTwo": "image2_url_for_pink_polo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Men's Multi Pattern Knit Polo in Navy Blue",
+    "category": "Polos",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/hVxRWhF/PKMP-3-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/tBXhTGn/PKMP-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Men's Full Sleeve Stripped Knit Polo in Black",
+    "category": "Polos",
+    "price": 1500,
+    "imageOne": "https://i.ibb.co.com/0j4DfgX/605-A5803-copy-1-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/MV2pF9h/605-A5812-copy-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Men's Full Sleeve Stripped Knit Polo in Beige",
+    "category": "Polos",
+    "price": 1500,
+    "imageOne": "https://i.ibb.co.com/GHG0sS7/605-A2344-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/JqFY8kW/605-A2334-copy.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Men's Cable Knit Polo in Off-White",
+    "category": "Polos",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/drGXnHy/605-A2243-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/5vJjrfK/605-A2239-copy.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Men's Cable Knit Polo in Off-White",
+    "category": "Polos",
+    "price": 1300,
+    "imageOne": "https://i.ibb.co.com/5cHcxjB/605-A6057-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/h26qkLL/605-A6059-copy.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Men's V-Neck Shirt in Black",
+    "category": "V-Shirts",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/0sFKZbD/605-A8236-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/r0whrPh/605-A8218-copy.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Men's V-Neck Shirt in White",
+    "category": "V-Shirts",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/FHkzdkD/605-A8210-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/T0wZqfq/605-A8193-copy.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Men's V-Neck Shirt in Navy Blue",
+    "category": "V-Shirts",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/tLH91Ww/605-A8262-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/72Snx7d/605-A8242-copy.jpg"
+  }
+]
