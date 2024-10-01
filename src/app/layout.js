@@ -2,6 +2,7 @@ import { Poppins } from "next/font/google";
 import "./globals.css";
 import NabVar from "@/components/Nabvar/NabVar";
 import Footer from "@/components/Footer/Footer";
+import { DataProvider } from "@/components/Shared/DataFetching/DataProvider";
 
 // Import Poppins font from Google Fonts
 const poppins = Poppins({
@@ -23,11 +24,15 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/download (1).png" type="image/png" />
       </head>
       <body className={`${poppins.variable} antialiased`}>
-        <div>
-          <NabVar />
-          {children}
-          <Footer />
-        </div>
+        <DataProvider>
+          {/* Wrap the app with 
+        DataProvider */}
+          <div>
+            <NabVar />
+            {children}
+            <Footer />
+          </div>
+        </DataProvider>
       </body>
     </html>
   );

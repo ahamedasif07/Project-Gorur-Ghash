@@ -16,6 +16,7 @@ import giftCards from "../asstes/gorur-ghash-home/11.png";
 import stpeler from "../asstes/gorur-ghash-home/12.png";
 import OnSell from "@/components/Home/OnSell";
 import Delibery from "@/components/Home/Delibery";
+import DataFetching from "@/components/Shared/DataFetching/DataProvider";
 
 export const metadata = {
   title: "Gorur Ghash - Home",

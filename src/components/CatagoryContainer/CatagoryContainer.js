@@ -2,8 +2,11 @@
 import React from "react";
 import Section from "../Section/Section";
 import ProductCatagoryCard from "../ProductCatagoryCard/ProductCatagoryCard";
+import { useDataContext } from "../Shared/DataFetching/DataProvider";
 
 const CatagoryContainer = ({ productCategories }) => {
+  const data = useDataContext();
+  console.log(data);
   return (
     <div>
       <Section>
