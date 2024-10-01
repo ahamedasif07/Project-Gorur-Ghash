@@ -4,9 +4,9 @@ import Section from "../Section/Section";
 import ProductCatagoryCard from "../ProductCatagoryCard/ProductCatagoryCard";
 import { useDataContext } from "../Shared/DataFetching/DataProvider";
 
-const CatagoryContainer = ({ productCategories }) => {
+const CatagoryContainer = ({ productCategories, categoryType }) => {
   const data = useDataContext();
-  console.log(data);
+
   return (
     <div>
       <Section>
@@ -42,6 +42,12 @@ const CatagoryContainer = ({ productCategories }) => {
           </div>
           {/* ----------products catgory cardsm------------- */}
           <div className="md:w-2/3 md:mt-[50px]  px-6 ">
+            <div className="pb-12">
+              <p className="text-[15px] text-gray-700">Home \ {categoryType}</p>
+              <h2 className="font-semibold py-8 text-6xl text-gray-700">
+                {categoryType}
+              </h2>
+            </div>
             <div className="product-catagory-card grid  md:grid-cols-4 gap-4 grid-cols-2">
               {productCategories.map((productCatagory, index) => (
                 <ProductCatagoryCard

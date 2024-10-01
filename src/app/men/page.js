@@ -1,5 +1,10 @@
 import CatagoryContainer from "@/components/CatagoryContainer/CatagoryContainer";
 import React from "react";
+export const metadata = {
+  title: "Gorur Ghash - Men",
+  description:
+    "Welcome to the Gorur Ghash homepage where you can explore the latest fashion for men and women.",
+};
 
 const Men = () => {
   const productCategories = [
@@ -63,6 +68,7 @@ const Men = () => {
   return (
     <div>
       <CatagoryContainer
+        categoryType="Men"
         productCategories={productCategories}
       ></CatagoryContainer>
     </div>
