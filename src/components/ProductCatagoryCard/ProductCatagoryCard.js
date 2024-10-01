@@ -14,7 +14,7 @@ const ProductCatagoryCard = ({ productCatagory }) => {
         <div className="  flex flex-col items-center">
           <Image width={300} height={300} src={image} alt="image" />
           <div className="px-4 absolute bottom-2 ">
-            <div className="border-2  items-center bg-transparent opacity-80 hover:bg-slate-100 text-center border-black px-3 bg-white">
+            <div className="  items-center bg-transparent opacity-80 hover:bg-slate-100 text-center  px-5 bg-white">
               <button className="text-[13px] uppercase font-semibold">
                 {category}
               </button>
