@@ -3,9 +3,15 @@ module.exports = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "i.postimg.cc",
+        hostname: "**", // Allow all hostnames
         port: "", // Leave port empty if there's no specific port.
-        pathname: "/**", // Allow all image paths from this host.
+        pathname: "/**", // Allow all image paths
+      },
+      {
+        protocol: "http",
+        hostname: "**", // Allow all hostnames for HTTP as well
+        port: "",
+        pathname: "/**",
       },
     ],
   },
