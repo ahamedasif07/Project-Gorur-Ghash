@@ -1,5 +1,4 @@
 "use client";
-"use client";
 import Image from "next/image";
 import React, { useState } from "react";
 import { FaBangladeshiTakaSign } from "react-icons/fa6";
@@ -12,14 +11,14 @@ const ProductCard = ({ product }) => {
   return (
     <div>
       <div
-        className="h-[370px] flex flex-col justify-between  "
+        className="h-[370px] flex flex-col transition-all duration-300 ease-in-out justify-between"
         onMouseEnter={() => setIsHover(true)}
         onMouseLeave={() => setIsHover(false)}
         key={product.id}
       >
         {isHover ? (
           <Image
-            className="w-[300px] h-[180px]"
+            className="w-[300px] h-[180px] transition-opacity duration-500 ease-in-out" // Added transition effect
             src={imageTwo}
             alt="image"
             width={300}
@@ -27,7 +26,7 @@ const ProductCard = ({ product }) => {
           />
         ) : (
           <Image
-            className="w-[300px] h-[180px]"
+            className="w-[300px] h-[180px] transition-opacity duration-500 ease-in-out" // Added transition effect
             src={imageOne}
             alt="image"
             width={300}
@@ -43,7 +42,7 @@ const ProductCard = ({ product }) => {
             </span>
             {price}.00
           </h2>
-          <button className="bg-[#FBDD02] font-semibold hover:bg-black hover:text-white duration-300 transition-all ease-in-out rounded-lg  px-3 py-1">
+          <button className="bg-[#FBDD02] font-semibold hover:bg-black hover:text-white duration-300 transition-all ease-in-out rounded-lg px-3 py-1">
             Select options
           </button>
         </div>
