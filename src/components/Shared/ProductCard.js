@@ -16,23 +16,14 @@ const ProductCard = ({ product }) => {
         onMouseLeave={() => setIsHover(false)}
         key={product.id}
       >
-        {isHover ? (
-          <Image
-            className="w-[300px] h-[180px] transition-opacity duration-500 ease-in-out" // Added transition effect
-            src={imageTwo}
-            alt="image"
-            width={300}
-            height={180}
-          />
-        ) : (
-          <Image
-            className="w-[300px] h-[180px] transition-opacity duration-500 ease-in-out" // Added transition effect
-            src={imageOne}
-            alt="image"
-            width={300}
-            height={180}
-          />
-        )}
+        <Image
+          className="w-[300px] h-[180px] transition-opacity duration-500 ease-in-out" // Added transition effect
+          src={isHover ? imageTwo : imageOne}
+          alt="image"
+          width={300}
+          height={180}
+        />
+
         <div className="px-3 py-1">
           <h2 className="font-extralight text-gray-600 py-1">{name}</h2>
           <h3 className="font-extralight text-gray-600 py-1"> {category}</h3>

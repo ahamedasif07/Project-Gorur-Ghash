@@ -102,5 +102,13 @@
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/tLH91Ww/605-A8262-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/72Snx7d/605-A8242-copy.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Men's Sweatshirts in Pink",
+    "category": "Sweatshirts",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/jGPPCBw/605-A4265-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/vQWYMZ6/605A4257.jpg"
   }
 ]
