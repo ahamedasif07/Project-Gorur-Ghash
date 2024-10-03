@@ -17,6 +17,7 @@ import stpeler from "../asstes/gorur-ghash-home/12.png";
 import OnSell from "@/components/Home/OnSell";
 import Delibery from "@/components/Home/Delibery";
 import MetaData from "@/components/MetaData/MetaData";
+import Modal from "@/components/Home/Modal";
 
 export const metadata = {
   title: "Gorur Ghash - Home",
@@ -28,6 +29,7 @@ export default function Home() {
   return (
     <div>
       <Hero />
+      <Modal />
       <MainCatagoris />
       <Catagories
         path1="/men"
