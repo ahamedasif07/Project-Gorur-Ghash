@@ -29,7 +29,7 @@ const DisplayCatagoryProducts = ({
             </div>
             <div>
               <h2 className="text-3xl px-6 md:mt-7 mt-4 font-semibold text-gray-600">
-                Filter by price
+                Filter by Price
               </h2>
             </div>
             <div className="flex items-center mt-2 px-6">
