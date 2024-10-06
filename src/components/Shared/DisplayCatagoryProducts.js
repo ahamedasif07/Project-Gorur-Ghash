@@ -59,7 +59,7 @@ const DisplayCatagoryProducts = ({
                   <ProductCard key={product.id} product={product} />
                 ))
               ) : (
-                <p>No products available</p>
+                <p>No Products Available</p>
               )}
             </div>
           </div>
