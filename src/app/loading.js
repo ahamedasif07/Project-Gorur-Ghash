@@ -1,7 +1,12 @@
-import React from "react";
+"use client";
+import LoadingC from "@/components/Loading/LoadingC";
 
 const loading = () => {
-  return <div className="text-red-500 text-center text-7xl">loading</div>;
+  return (
+    <div className="flex justify-center items-center">
+      <LoadingC />
+    </div>
+  );
 };
 
 export default loading;
