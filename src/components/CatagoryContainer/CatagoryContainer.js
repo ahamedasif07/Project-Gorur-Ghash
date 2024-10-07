@@ -4,7 +4,11 @@ import Section from "../Section/Section";
 import ProductCatagoryCard from "../ProductCatagoryCard/ProductCatagoryCard";
 import { useDataContext } from "../Shared/DataFetching/DataProvider";
 
-const CatagoryContainer = ({ productCategories, categoryType }) => {
+const CatagoryContainer = ({
+  productCategories,
+  categoryType,
+  decription = "",
+}) => {
   const data = useDataContext();
 
   return (
@@ -47,8 +51,9 @@ const CatagoryContainer = ({ productCategories, categoryType }) => {
               <h2 className="font-semibold py-8 text-6xl text-gray-700">
                 {categoryType}
               </h2>
+              <h2 className=" py-8  text-gray-700">{decription}</h2>
             </div>
-            <div className="product-catagory-card grid  md:grid-cols-4 gap-4 grid-cols-2">
+            <div className="product-catagory-card grid pb-10  md:grid-cols-4 gap-4 grid-cols-2">
               {productCategories.map((productCatagory, index) => (
                 <ProductCatagoryCard
                   key={index}

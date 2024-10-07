@@ -134,5 +134,21 @@
     "price": 750,
     "imageOne": "https://i.ibb.co.com/K9dGtjZ/605-A6082-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/0JVYWJn/605-A6067-copy.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Men's Cord Shirt in Burgundy",
+    "category": "Cord-Shirts",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/wMq7PrY/605-A9250-300x300.jpghttps://i.ibb.co.com/GR1YScL/605-A8970-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/4KHXdxF/605A8975.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Men's Cord Shirt in Navy Blue",
+    "category": "Cord-Shirts",
+    "price": 1300,
+    "imageOne": "https://i.ibb.co.com/7nmKWPZ/605-A8907-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/x6nfdXB/605A8894.jpg"
   }
 ]
