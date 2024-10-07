@@ -145,10 +145,26 @@
   },
   {
     "id": 19,
-    "name": "Men's Cord Shirt in Navy Blue",
-    "category": "Cord-Shirts",
+    "name": "Men's Cord-shirts in Navy Blue",
+    "category": " Cord-shirts",
     "price": 1300,
     "imageOne": "https://i.ibb.co.com/7nmKWPZ/605-A8907-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/x6nfdXB/605A8894.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Men's  half-sleeve in Navy Blue",
+    "category": " half-sleeve",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/N7dj2dB/605-A8263-1-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/9TLBWPp/605-A8276-1-300x300.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Men's half-sleeve in Navy Blue",
+    "category": "half-sleeve",
+    "price": 800,
+    "imageOne": "https://i.ibb.co.com/pXSKz3B/605-A8188-1-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/pXSKz3B/605-A8188-1-300x300-1.jpg"
   }
 ]
