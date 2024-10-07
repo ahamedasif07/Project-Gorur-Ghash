@@ -29,7 +29,7 @@ const Men = () => {
       image: "https://i.postimg.cc/c42t6d3k/605-A9260-300x300.jpg",
     },
     {
-      category: "shirt",
+      category: "shirts",
       products: 71,
       image: "https://i.postimg.cc/y6rkr7L6/605-A3172-copy-300x300.jpg",
     },
