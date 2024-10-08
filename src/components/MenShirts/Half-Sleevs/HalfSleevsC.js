@@ -34,7 +34,7 @@ const HalfSleevsC = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="half-sleeve"
+        category="Half-sleeve"
         filtaredProducts={filtaredProducts}
       ></DisplayCatagoryProducts>
     </div>
