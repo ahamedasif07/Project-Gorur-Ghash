@@ -206,5 +206,45 @@
     "price": 1050,
     "imageOne": "https://i.ibb.co.com/2gJd73J/605-A0162-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/ngjd4FW/605-A0116-copy.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Men's Band-Collar Shirt in Navy Blue",
+    "category": "Band-Collar",
+    "price": 1150,
+    "imageOne": "https://i.ibb.co.com/MBzrqNg/605-A4732-copy-scaled.jpg",
+    "imageTwo": "https://i.ibb.co.com/jZCHMB8/605-A4730-copy-300x300.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Men's Band-Collar Shirt in White",
+    "category": "Band-Collar",
+    "price": 1250,
+    "imageOne": "https://i.ibb.co.com/Qb4rBdW/605-A4831-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/SXWvKzX/605A4836.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Men's Band-Collar Shirt in Olive Green",
+    "category": "Band-Collar",
+    "price": 1350,
+    "imageOne": "https://i.ibb.co.com/cNSh0gc/605-A5645-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/PDp3bZs/605-A5655-copy.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Men's Band-Collar Shirt in Black",
+    "category": "Band-Collar",
+    "price": 1450,
+    "imageOne": "https://i.ibb.co.com/z7V6RPB/605-A5606-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/WKfR0Q4/605-A5619-copy.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Men's Band-Collar Shirt in Light Grey",
+    "category": "Band-Collar",
+    "price": 1100,
+    "imageOne": "https://i.ibb.co.com/thzh3tK/605-A4919-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/8NyNrVg/BAND-COLLAR-SHIRT-DIMENSIONS-300x300.jpg"
   }
 ]
