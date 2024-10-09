@@ -1,7 +1,12 @@
+import ButtonDownC from "@/components/MenShirts/Button-Down/ButtonDownC";
 import React from "react";
 
 const ButtonDown = () => {
-  return <div>ButtonDown</div>;
+  return (
+    <div>
+      <ButtonDownC />
+    </div>
+  );
 };
 
 export default ButtonDown;
