@@ -318,5 +318,45 @@
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/wBhNgQB/605-A3749-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/h12Y2m4/605-A3748-copy.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Men's Flannel Shirt in Red and Black",
+    "category": "Flannels",
+    "price": 1700,
+    "imageOne": "https://i.ibb.co.com/Qj6Q9XP/605-A1044-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/ys7rFKj/605-A1162-copy.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Men's Flannel Shirt in Green and Black",
+    "category": "Flannels",
+    "price": 1750,
+    "imageOne": "https://i.ibb.co.com/Y78jrf2/605-A3965-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/RYkgMZr/605-A3944-copy.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Men's Flannel Shirt in Blue and White",
+    "category": "Flannels",
+    "price": 1800,
+    "imageOne": "https://i.ibb.co.com/VBCQNV8/605-A5087-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/ZYfbGVm/605-A5092-copy-300x300.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Men's Flannel Shirt in Grey and Black",
+    "category": "Flannels",
+    "price": 1850,
+    "imageOne": "https://i.ibb.co.com/fF2N5c2/Mens-Flannel-shirt-in-Light-ash-and-white-7-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/CW1m9jD/Mens-Flannel-shirt-in-Light-ash-and-white-3.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Men's Flannel Shirt in Brown and Black",
+    "category": "Flannels",
+    "price": 1900,
+    "imageOne": "https://i.ibb.co.com/44PqzZm/Mens-flannel-shirt-in-bottle-green-and-white-5-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/sample38.jpg"
   }
 ]
