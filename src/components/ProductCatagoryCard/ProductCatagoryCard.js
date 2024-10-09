@@ -2,14 +2,14 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-const ProductCatagoryCard = ({ productCatagory }) => {
+const ProductCatagoryCard = ({ productCatagory, rootPath }) => {
   const { category, products, image } = productCatagory;
 
   // Make sure the image URL is correctly formatted
   //   const validImageUrl = image.startsWith("https://") ? image : "";
 
   return (
-    <Link href={`men/${category.trim().toLowerCase(category)}`}>
+    <Link href={`${rootPath}/${category.trim().toLowerCase(category)}`}>
       <div className="relative">
         <div className="  flex flex-col items-center">
           <Image width={300} height={300} src={image} alt="image" />

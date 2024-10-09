@@ -69,6 +69,7 @@ const Men = () => {
     <div>
       <CatagoryContainer
         categoryType="Men"
+        rootPath="men"
         productCategories={productCategories}
       ></CatagoryContainer>
     </div>

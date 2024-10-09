@@ -7,6 +7,7 @@ import { useDataContext } from "../Shared/DataFetching/DataProvider";
 const CatagoryContainer = ({
   productCategories,
   categoryType,
+  rootPath,
   decription = "",
 }) => {
   const data = useDataContext();
@@ -58,6 +59,7 @@ const CatagoryContainer = ({
                 <ProductCatagoryCard
                   key={index}
                   productCatagory={productCatagory}
+                  rootPath={rootPath}
                 ></ProductCatagoryCard>
               ))}
             </div>
