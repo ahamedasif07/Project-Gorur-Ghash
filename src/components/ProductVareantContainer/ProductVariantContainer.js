@@ -3,9 +3,10 @@ import React from "react";
 import Section from "../Section/Section";
 import ProductCatagoryCard from "../ProductCatagoryCard/ProductCatagoryCard";
 import { useDataContext } from "../Shared/DataFetching/DataProvider";
+import ProductVariantCard from "../ProductVareantCard/ProductVariantCard";
 
-const CatagoryContainer = ({
-  productCategories,
+const ProductVariantContainer = ({
+  variantCategories,
   categoryType,
   rootPath,
   decription = "",
@@ -55,12 +56,12 @@ const CatagoryContainer = ({
               <h2 className=" py-8  text-gray-700">{decription}</h2>
             </div>
             <div className="product-catagory-card grid pb-10  md:grid-cols-4 gap-4 grid-cols-2">
-              {productCategories.map((productCatagory, index) => (
-                <ProductCatagoryCard
+              {variantCategories.map((productCatagory, index) => (
+                <ProductVariantCard
                   key={index}
                   rootPath={rootPath}
-                  productCatagory={productCatagory}
-                ></ProductCatagoryCard>
+                  ProductVariant={productCatagory}
+                ></ProductVariantCard>
               ))}
             </div>
           </div>
@@ -70,4 +71,4 @@ const CatagoryContainer = ({
   );
 };
 
-export default CatagoryContainer;
+export default ProductVariantContainer;

@@ -1,5 +1,6 @@
 import React from "react";
 import CatagoryContainer from "../CatagoryContainer/CatagoryContainer";
+import ProductVariantContainer from "../ProductVareantContainer/ProductVariantContainer";
 
 const ShirtsCetagories = () => {
   const shirtCategories = [
@@ -47,11 +48,16 @@ const ShirtsCetagories = () => {
 
   return (
     <div>
-      <CatagoryContainer
+      {/* <CatagoryContainer
         productCategories={shirtCategories}
         categoryType="Shirts"
         decription="It can be tedious having to scroll past so many online stores just to find the perfect shirt to suit your taste. Well, look no further! Gorur Ghash has your work cut out for you. Our wide assortment of shirts will revive your wardrobe and take your ensemble game to a whole new league."
-      ></CatagoryContainer>
+      ></CatagoryContainer> */}
+      <ProductVariantContainer
+        variantCategories={shirtCategories}
+        categoryType="Shirts"
+        decription="It can be tedious having to scroll past so many online stores just to find the perfect shirt to suit your taste. Well, look no further! Gorur Ghash has your work cut out for you. Our wide assortment of shirts will revive your wardrobe and take your ensemble game to a whole new league."
+      ></ProductVariantContainer>
     </div>
   );
 };

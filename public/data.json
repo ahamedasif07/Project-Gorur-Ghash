@@ -357,6 +357,38 @@
     "category": "Flannels",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/44PqzZm/Mens-flannel-shirt-in-bottle-green-and-white-5-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/7tsZzFC/Mens-flannel-shirt-in-bottle-green-and-white-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/qr5dfhw/605-A1957-copy-1.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Premium T-Shirt in Navy Blue",
+    "category": "Premium-T-Shirts",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/MDnG0P3/605-A1967-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/example-image2.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Premium T-Shirt in White",
+    "category": "Premium-T-Shirts",
+    "price": 1100,
+    "imageOne": "https://i.ibb.co.com/DtmvLN7/605-A1881-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/Y06J3bX/605-A1879-copy-1.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Premium T-Shirt in Black",
+    "category": "Premium-T-Shirts",
+    "price": 1150,
+    "imageOne": "https://i.ibb.co.com/D1wpqF6/605-A1842-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/K0s0Yq7/605-A1818-copy-1.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Premium T-Shirt in Maroon",
+    "category": "Premium-T-Shirts",
+    "price": 1250,
+    "imageOne": "https://i.ibb.co.com/Nm6ZxKs/605-A2141-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/2KKqnLh/605-A2101-copy-300x300.jpg"
   }
 ]

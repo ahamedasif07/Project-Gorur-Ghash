@@ -4,9 +4,8 @@ import Link from "next/link";
 import React from "react";
 import Catagories from "../Home/Catagories";
 
-const ProductCatagoryCard = ({ productCatagory, rootPath }) => {
-  const { category, products, image } = productCatagory;
-  console.log(productCatagory);
+const ProductVariantCard = ({ ProductVariant, rootPath }) => {
+  const { category, products, image } = ProductVariant;
 
   // Ensure `category` and `Path` are valid strings and handle dynamic pathing safely
   const formattedCategory = category.trim().toLowerCase();
@@ -32,4 +31,4 @@ const ProductCatagoryCard = ({ productCatagory, rootPath }) => {
   );
 };
 
-export default ProductCatagoryCard;
+export default ProductVariantCard;
