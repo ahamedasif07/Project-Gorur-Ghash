@@ -390,5 +390,21 @@
     "price": 1250,
     "imageOne": "https://i.ibb.co.com/Nm6ZxKs/605-A2141-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/2KKqnLh/605-A2101-copy-300x300.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Basic T-Shirt in Light Gray",
+    "category": "Basic-T-Shirts",
+    "price": 900,
+    "imageOne": "https://i.ibb.co.com/6Rp4nGw/605-A2101-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/QQj4SfW/605-A2098-copy.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Basic T-Shirt in Olive Green",
+    "category": "Basic-T-Shirts",
+    "price": 950,
+    "imageOne": "https://i.ibb.co.com/BN5sSyR/605-A2009-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/example-image12.jpg"
   }
 ]
