@@ -11,6 +11,7 @@ const CatagoryContainer = ({
   decription = "",
 }) => {
   const data = useDataContext();
+  console.log(rootPath);
 
   return (
     <div>
@@ -59,7 +60,7 @@ const CatagoryContainer = ({
                 <ProductCatagoryCard
                   key={index}
                   productCatagory={productCatagory}
-                  rootPath={rootPath}
+                  Path={rootPath}
                 ></ProductCatagoryCard>
               ))}
             </div>
