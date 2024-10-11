@@ -438,5 +438,29 @@
     "price": 1300,
     "imageOne": "https://i.ibb.co.com/tCL7bpc/retro-shoot-both-web-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/FYXVfDC/Bushra-sitting-retro-300x300.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Cargo Pants Olive Green",
+    "category": "cargo-pants",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/Ptz0t1z/605-A0076-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/GVVgg9G/605-A0075-copy.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Cargo Pants Black",
+    "category": "cargo-pants",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/vv94QrB/605-A0009-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/MC22cGM/605-A0008-copy.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Cargo Pants Khaki",
+    "category": "cargo-pants",
+    "price": 1350,
+    "imageOne": "https://i.ibb.co.com/Y0WcZBX/605-A5255-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/example6/khaki-back.jpg"
   }
 ]
