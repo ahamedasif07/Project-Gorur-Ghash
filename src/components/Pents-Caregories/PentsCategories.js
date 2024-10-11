@@ -39,9 +39,9 @@ const PentsCategories = () => {
       <ProductVariantContainer
         variantCategories={pentsCetagories}
         rootPath="men"
-        categoryType="pents"
+        categoryType="Pents"
         decription="Tired of the same old pairs of Jeans or Gabardine pants?
-Well the Ghash has options to spice up your wardrobe.
+Well the Ghash has options to spice up your wardrobe. 
 Our range of men’s pants include Casual Cord Pants and Formal Gurkhas that could set you apart from the rest.
 The Slim-Fit Cord Pants coupled with retro style and eye-catching colors are specially designed for the modern disciples. A simple addition, for both work and play.
 
