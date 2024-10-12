@@ -518,5 +518,13 @@
     "price": 1250,
     "imageOne": "https://i.ibb.co.com/JCTKkDb/605-A5040-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/kXm89yN/605A5039.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Hoodie Blanket black & white",
+    "category": "Hoodie-Blanket",
+    "price": 1250,
+    "imageOne": "https://i.ibb.co.com/JnHryV6/IMG-0635-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/3sD67j0/605-A9606-1.jpg"
   }
 ]
