@@ -502,5 +502,21 @@
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/NTzCzXp/MNN07919-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/DRtQmFq/605-A0973-copy-300x300.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Shorts Pants Blue",
+    "category": "shorts-pants",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/YkW8RRG/605-A5017-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/8zy2ZGm/605A5016.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Shorts Pants Grey",
+    "category": "shorts-pants",
+    "price": 1250,
+    "imageOne": "https://i.ibb.co.com/JCTKkDb/605-A5040-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/kXm89yN/605A5039.jpg"
   }
 ]
