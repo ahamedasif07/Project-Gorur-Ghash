@@ -36,6 +36,9 @@ const TurtleneckC = () => {
     <div>
       <DisplayCatagoryProducts
         category="Hoodie Blanket"
+        description="With sweater weather arriving, turtlenecks are a total must-have for Fall. Especially because they are easy pieces to layer with for added dimension and warmth. You can also wear a turtleneck sweater on its own and still feel like getting a snug hug.
+
+Check out our pullover turtlenecks available in both high and low GSMs that also come in an array of colors."
         filtaredProducts={filtaredProducts}
       ></DisplayCatagoryProducts>
     </div>
