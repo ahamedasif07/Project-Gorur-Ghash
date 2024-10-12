@@ -462,5 +462,29 @@
     "price": 1350,
     "imageOne": "https://i.ibb.co.com/Y0WcZBX/605-A5255-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/RTdgj2g/605-A5200-copy-300x300.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Formal Pants Black",
+    "category": "formal-pants",
+    "price": 1450,
+    "imageOne": "https://i.ibb.co.com/K55YG64/PPBM-4-300x300.jpg",
+    "imageTwo": "hhttps://i.ibb.co.com/wMGYKZh/PPBM-2.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Formal Pants Navy",
+    "category": "formal-pants",
+    "price": 1500,
+    "imageOne": "https://i.ibb.co.com/C9WL3zv/PPAM3-3-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/1sTMNYF/PPAM3-1.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Formal Pants Grey",
+    "category": "formal-pants",
+    "price": 1550,
+    "imageOne": "https://i.ibb.co.com/QCgW5fg/605-A8468-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/sQfWD2r/605-A8466-copy.jpg"
   }
 ]
