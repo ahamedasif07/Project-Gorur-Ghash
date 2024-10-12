@@ -442,7 +442,7 @@
   {
     "id": 56,
     "name": "Cargo Pants Olive Green",
-    "category": "cargo-pants",
+    "category": "cargo",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/Ptz0t1z/605-A0076-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/GVVgg9G/605-A0075-copy.jpg"
@@ -450,7 +450,7 @@
   {
     "id": 57,
     "name": "Cargo Pants Black",
-    "category": "cargo-pants",
+    "category": "cargo",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/vv94QrB/605-A0009-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/MC22cGM/605-A0008-copy.jpg"
@@ -458,9 +458,9 @@
   {
     "id": 58,
     "name": "Cargo Pants Khaki",
-    "category": "cargo-pants",
+    "category": "cargo",
     "price": 1350,
     "imageOne": "https://i.ibb.co.com/Y0WcZBX/605-A5255-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/example6/khaki-back.jpg"
+    "imageTwo": "https://i.ibb.co.com/RTdgj2g/605-A5200-copy-300x300.jpg"
   }
 ]
