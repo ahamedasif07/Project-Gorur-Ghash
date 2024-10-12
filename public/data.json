@@ -486,5 +486,21 @@
     "price": 1550,
     "imageOne": "https://i.ibb.co.com/QCgW5fg/605-A8468-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/sQfWD2r/605-A8466-copy.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Gabardine Pants Navi",
+    "category": "gabardine-pants",
+    "price": 1600,
+    "imageOne": "https://i.ibb.co.com/KyCNf0H/605-A5061-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/M8MHrf1/605-A5073-copy.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Gabardine Pants Black",
+    "category": "gabardine-pants",
+    "price": 1650,
+    "imageOne": "https://i.ibb.co.com/NTzCzXp/MNN07919-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/DRtQmFq/605-A0973-copy-300x300.jpg"
   }
 ]
