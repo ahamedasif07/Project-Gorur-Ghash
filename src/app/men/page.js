@@ -50,7 +50,7 @@ const Men = () => {
     },
     {
       category: "turtleneck",
-      products: 0, // Sample
+      products: 4, // Sample
       image: "https://i.postimg.cc/y6Sk5wtF/605-A0352-300x300.jpg",
     },
     {
@@ -60,7 +60,7 @@ const Men = () => {
     },
     {
       category: "jacket",
-      products: 0, // Sample
+      products: 6, // Sample
       image: "https://i.postimg.cc/k5pgYcy1/605-A0352-1-300x300.jpg",
     },
   ];

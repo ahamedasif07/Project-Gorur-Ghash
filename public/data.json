@@ -526,5 +526,37 @@
     "price": 1250,
     "imageOne": "https://i.ibb.co.com/JnHryV6/IMG-0635-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/3sD67j0/605-A9606-1.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Turtleneck Sweater Broun",
+    "category": "turtleneck",
+    "price": 1800,
+    "imageOne": "https://i.ibb.co.com/MRJxF1R/605-A0094-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/XVdbJkm/605A0099.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Turtleneck Sweater Yellow",
+    "category": "turtleneck",
+    "price": 1850,
+    "imageOne": "https://i.ibb.co.com/XWp7tgF/605-A0139-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/84gVRRS/605A0149.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Turtleneck Sweater Green",
+    "category": "turtleneck",
+    "price": 1900,
+    "imageOne": "https://i.ibb.co.com/VqdPk3J/605-A0182-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/4Rrvyh2/605A0192.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Turtleneck Sweater Navy",
+    "category": "turtleneck",
+    "price": 1950,
+    "imageOne": "https://i.ibb.co.com/1XxjrNg/605-A0345-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/nb7bjcW/605A0354.jpg"
   }
 ]
