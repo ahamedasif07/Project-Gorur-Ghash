@@ -44,7 +44,7 @@ const Men = () => {
       image: "https://i.postimg.cc/nrQZWfLM/605-A9338-copy-300x300.jpg",
     },
     {
-      category: "hoodie black",
+      category: "Hoodie-Blanket",
       products: 1,
       image: "https://i.postimg.cc/tCWn1LzX/605-A9517-300x300.jpg",
     },
