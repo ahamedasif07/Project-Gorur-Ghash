@@ -614,5 +614,13 @@
     "price": 3100,
     "imageOne": "https://i.ibb.co.com/YPbGZd6/605-A8683-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/931MMxH/605-A8675-copy.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Textured Jacket Cream",
+    "category": "Textured-Jacket",
+    "price": 3400,
+    "imageOne": "https://i.ibb.co.com/WfsWD8f/605-A0781-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/vPRg4vN/605-A0770-copy.jpg"
   }
 ]
