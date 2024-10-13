@@ -34,7 +34,7 @@ const BoxyJacketsC = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="Boxy-Jacket"
+        category="Boxy Jacket"
         filtaredProducts={filtaredProducts}
       ></DisplayCatagoryProducts>
     </div>
