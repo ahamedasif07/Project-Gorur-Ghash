@@ -558,5 +558,29 @@
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/1XxjrNg/605-A0345-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/nb7bjcW/605A0354.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Boxy Jacket Olive",
+    "category": "Boxy-Jacket",
+    "price": 2200,
+    "imageOne": "https://i.ibb.co.com/jGQvRmQ/605-A4425-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/XW5h9w9/605A4429.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Boxy Jacket pink",
+    "category": "Boxy-Jacket",
+    "price": 2300,
+    "imageOne": "https://i.ibb.co.com/rHFQ7t7/605-A8158-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/26R2Ss0/605-A8139-copy-1.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Boxy Jacket Beige",
+    "category": "Boxy-Jacket",
+    "price": 2100,
+    "imageOne": "https://i.ibb.co.com/cYwGCNf/605-A8241-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/bv0p6km/605-A8235-copy.jpg"
   }
 ]
