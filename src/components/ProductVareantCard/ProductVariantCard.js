@@ -8,8 +8,8 @@ const ProductVariantCard = ({ ProductVariant, rootPath }) => {
   const { category, products, image } = ProductVariant;
 
   // Ensure `category` and `Path` are valid strings and handle dynamic pathing safely
-  const formattedCategory = category.trim().toLowerCase();
 
+  const formattedCategory = category.trim().toLowerCase();
   return (
     <Link href={`${rootPath}/${formattedCategory}`}>
       <div className="relative">
