@@ -598,5 +598,21 @@
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/W0Sdk5H/605-A2571-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/B63XxvS/605A2568.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Leather Jacket Black",
+    "category": "Leather-Jacket",
+    "price": 3200,
+    "imageOne": "https://i.ibb.co.com/BjyZF3t/605-A8631-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/516VYnz/605-A8635-copy-1.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Leather Jacket Brown",
+    "category": "Leather-Jacket",
+    "price": 3100,
+    "imageOne": "https://i.ibb.co.com/YPbGZd6/605-A8683-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/931MMxH/605-A8675-copy.jpg"
   }
 ]
