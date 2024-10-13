@@ -1,4 +1,4 @@
-import BoxyJacketsC from "@/components/Jackets/BoxyJacketsC/BoxyJacketsC";
+import BoxyJacketsC from "@/components/men-jackets/BoxyJacketsC/BoxyJacketsC";
 import React from "react";
 
 const BoxyJackets = () => {

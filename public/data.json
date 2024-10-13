@@ -582,5 +582,21 @@
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/cYwGCNf/605-A8241-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/bv0p6km/605-A8235-copy.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Flannels Jacket white",
+    "category": "Flannels-Jacket",
+    "price": 2500,
+    "imageOne": "https://i.ibb.co.com/CBjPz8V/605-A2614-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/F0cwJ0h/605A2621.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Flannels Jacket Blue",
+    "category": "Flannels-Jacket",
+    "price": 2300,
+    "imageOne": "https://i.ibb.co.com/W0Sdk5H/605-A2571-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/B63XxvS/605A2568.jpg"
   }
 ]
