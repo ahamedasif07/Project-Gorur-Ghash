@@ -708,8 +708,8 @@
     "name": "Cord Jacket Beige",
     "category": "Cord-Jacket",
     "price": 4000,
-    "imageOne": "https://i.ibb.co.com/BeigeCordJacket1.jpg",
-    "imageTwo": "https://i.ibb.co.com/BeigeCordJacket2.jpg"
+    "imageOne": "https://i.ibb.co.com/Hptdvpy/605-A7788-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/60mqx9Q/605-A7781-copy.jpg"
   },
   {
     "id": 89,
@@ -742,5 +742,13 @@
     "price": 4350,
     "imageOne": "https://i.ibb.co.com/P47qPjx/605-A8053-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/P9yxN3t/605-A8044-copy.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Barringtons-jacket blue",
+    "category": "harringtons-jacket",
+    "price": 3350,
+    "imageOne": "https://i.ibb.co.com/n38LPfn/605-A1455-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/tJvc11N/605-A1440-1.jpg"
   }
 ]
