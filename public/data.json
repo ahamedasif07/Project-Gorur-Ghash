@@ -686,5 +686,61 @@
     "price": 3850,
     "imageOne": "https://i.ibb.co.com/SVg2xmq/605-A9262-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/7Gdss38/605-A9262-copy.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Cord Jacket Pink",
+    "category": "Cord-Jacket",
+    "price": 4100,
+    "imageOne": "https://i.ibb.co.com/5RVktWm/605-A9138-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/b5X0vPL/605-A9137-copy.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Cord Jacket Meron",
+    "category": "Cord-Jacket",
+    "price": 4300,
+    "imageOne": "https://i.ibb.co.com/XWn9c3F/605-A7746-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Cbym2wX/605-A7740-copy.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Cord Jacket Beige",
+    "category": "Cord-Jacket",
+    "price": 4000,
+    "imageOne": "https://i.ibb.co.com/BeigeCordJacket1.jpg",
+    "imageTwo": "https://i.ibb.co.com/BeigeCordJacket2.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Cord Jacket Olive",
+    "category": "Cord-Jacket",
+    "price": 4200,
+    "imageOne": "https://i.ibb.co.com/YbZQ4K1/605-A7969-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/MNSZ6gw/605-A7960-copy.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Cord Jacket Brown",
+    "category": "Cord-Jacket",
+    "price": 4150,
+    "imageOne": "https://i.ibb.co.com/X7pkn20/605-A7726-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/jVJqdTR/605-A7722-copy.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Cord Jacket Purple",
+    "category": "Cord-Jacket",
+    "price": 4050,
+    "imageOne": "https://i.ibb.co.com/Hptdvpy/605-A7788-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/60mqx9Q/605-A7781-copy.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Cord Jacket Maroon",
+    "category": "Cord-Jacket",
+    "price": 4350,
+    "imageOne": "https://i.ibb.co.com/P47qPjx/605-A8053-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/MaroonCordJacket2.jpg"
   }
 ]
