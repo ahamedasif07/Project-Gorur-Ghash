@@ -622,5 +622,69 @@
     "price": 3400,
     "imageOne": "https://i.ibb.co.com/WfsWD8f/605-A0781-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/vPRg4vN/605-A0770-copy.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Bomber Jacket Black",
+    "category": "Bomber-Jacket",
+    "price": 3600,
+    "imageOne": "https://i.ibb.co.com/kGnyhwP/605-A8605-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/ThkWnx3/605-A8604-copy.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Bomber Jacket Olive",
+    "category": "Bomber-Jacket",
+    "price": 3700,
+    "imageOne": "https://i.ibb.co.com/gzqGHTF/605-A8566-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/r70QxjM/605-A8563-copy.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Bomber Jacket Pink",
+    "category": "Bomber-Jacket",
+    "price": 3550,
+    "imageOne": "https://i.ibb.co.com/q09jQM9/605-A8442-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/SPbM6GH/605-A8438-copy.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Bomber Jacket Red",
+    "category": "Bomber-Jacket",
+    "price": 3650,
+    "imageOne": "https://i.ibb.co.com/JnVZTmP/605-A3901-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/6w71jMc/605A3892.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Bomber Jacket Yellow",
+    "category": "Bomber-Jacket",
+    "price": 3500,
+    "imageOne": "https://i.ibb.co.com/Jjw02Zr/605-A8481-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/42Ccx90/605-A8488-copy.jpgs"
+  },
+  {
+    "id": 83,
+    "name": "Chore Jacket Khaki",
+    "category": "Chore-Jacket",
+    "price": 3800,
+    "imageOne": "https://i.ibb.co.com/Khaki-chore-jacket-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/HHyL2z6/605-A9168-copy.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Chore Jacket Olive",
+    "category": "Chore-Jacket",
+    "price": 3900,
+    "imageOne": "https://i.ibb.co.com/R0sjZJm/605-A9281-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/pyv3Hm6/605-A9210-copy-300x300.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Chore Jacket Blue",
+    "category": "Chore-Jacket",
+    "price": 3850,
+    "imageOne": "https://i.ibb.co.com/brown-chore-jacket-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/brown-chore-jacket-back.jpg"
   }
 ]
