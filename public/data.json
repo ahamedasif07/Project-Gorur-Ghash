@@ -750,5 +750,21 @@
     "price": 3350,
     "imageOne": "https://i.ibb.co.com/n38LPfn/605-A1455-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/tJvc11N/605-A1440-1.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Cardigan Set - Meron",
+    "category": "Cardigan + Crop Top",
+    "price": 2800,
+    "imageOne": "https://i.ibb.co.com/yBYc3Pj/605-A5020-300x300.jpg",
+    "imageTwo": "hhttps://i.ibb.co.com/yQ8kq6F/605A5014.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Crop Top - Pink",
+    "category": "Cardigan + Crop Top",
+    "price": 2300,
+    "imageOne": "https://i.ibb.co.com/jvtW1mQ/605-A5007-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/DVYQ9hv/605A4988.jpg"
   }
 ]

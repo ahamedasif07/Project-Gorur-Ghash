@@ -9,12 +9,12 @@ export const metadata = {
 const Women = () => {
   const productCategories = [
     {
-      category: "CARDIGAN + CROP TOP",
+      category: "CARDIGAN + CROP-TOP",
       products: 2,
       image: "https://i.ibb.co.com/RNxKJ42/605-A0586-300x300.jpg",
     },
     {
-      category: "CO-ORD SET",
+      category: "CO-ORD-SET",
       products: 5,
       image:
         "https://i.ibb.co.com/D4wGyTK/605-A1368-copy-scaled-e1716446723781-300x300.jpg",
@@ -55,7 +55,7 @@ const Women = () => {
       image: "https://i.ibb.co.com/8Kz5QLm/605-A1767-copy-1-300x300.jpg",
     },
     {
-      category: "TANK TOP",
+      category: "TANK-TOP",
       products: 11,
       image: "https://i.ibb.co.com/f8SzD0C/605-A4104-copy-300x300.jpg",
     },
@@ -80,7 +80,7 @@ const Women = () => {
       image: "https://i.ibb.co.com/fv30vjt/605-A1596-300x300.jpg",
     },
     {
-      category: "HOODIE BLANKET",
+      category: "HOODIE-BLANKET",
       products: 1,
       image: "https://i.ibb.co.com/JtQRmsC/605-A9614-300x300.jpg",
     },
