@@ -1,4 +1,4 @@
-import CardiganSetMeronCW from "@/components/Women/Cardigan Set - Meron/CardiganSetMeronCW";
+import CardiganSetMeronCW from "@/components/Women/CardiganSetMeron/CardiganSetMeronCW";
 import React from "react";
 
 const CardinganTop = () => {
