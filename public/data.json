@@ -902,5 +902,29 @@
     "price": 2350,
     "imageOne": "https://i.ibb.co.com/1Xkfxnd/PKMC-12-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/vV6t61q/PKMC-15.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Mini Skirt - Black",
+    "category": "Skirts",
+    "price": 2200,
+    "imageOne": "https://i.ibb.co.com/kBvH4n4/605-A6094-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/BtSLdtZ/605-A6083-copy.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Midi Skirt - Floral",
+    "category": "Skirts",
+    "price": 2400,
+    "imageOne": "https://i.ibb.co.com/m5PMVR6/605-A6102-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/rQ5cQV5/605-A6096-copy.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Pencil Skirt - Grey",
+    "category": "Skirts",
+    "price": 2300,
+    "imageOne": "https://i.ibb.co.com/Q6h2Ysn/605-A6126-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Wv9BDws/605-A6109-copy.jpg"
   }
 ]
