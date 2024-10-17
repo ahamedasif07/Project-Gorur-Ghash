@@ -6,7 +6,7 @@ import DisplayCatagoryProducts from "@/components/Shared/DisplayCatagoryProducts
 
 const PolosCW = () => {
   const [allProductsData, setAllProductsData] = useState([]);
-  const [polos] = useState("polos");
+  const [polos] = useState("women-polos");
   const [filtaredProducts, setFiltaredProducts] = useState([]);
   const { data } = useDataContext(); // Assume this returns the data or null
 

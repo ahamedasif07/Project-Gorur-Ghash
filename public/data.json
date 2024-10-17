@@ -842,7 +842,7 @@
   {
     "id": 105,
     "name": "Polo Shirt - Blue",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2500,
     "imageOne": "https://i.ibb.co.com/QHyj43z/605-A5836-copy-1-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/m6vrDF5/605-A5833-copy-1.jpg"
@@ -850,15 +850,15 @@
   {
     "id": 106,
     "name": "Polo Shirt - White",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2300,
-    "imageOne": "https://i.ibb.co/S0Nnzmv/White-Polo-1.jpg",
+    "imageOne": "https://i.ibb.co.com/nbpNTqD/PKZW-14-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/g9Y8nzT/PKZW-16.jpg"
   },
   {
     "id": 107,
     "name": "Polo Shirt - Black",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2600,
     "imageOne": "https://i.ibb.co.com/4ND3hj6/605-A1120-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/n78P7fQ/605-A1096-copy.jpg"
@@ -866,7 +866,7 @@
   {
     "id": 108,
     "name": "Polo Shirt - Red",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2450,
     "imageOne": "https://i.ibb.co.com/jHxysty/605-A1010-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/YjYQw9f/605-A0990-copy.jpg"
@@ -874,7 +874,7 @@
   {
     "id": 109,
     "name": "Polo Shirt - Green",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2550,
     "imageOne": "https://i.ibb.co.com/XDY7VrP/605-A1019-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/XDY7VrP/605-A1019-copy.jpg"
@@ -882,7 +882,7 @@
   {
     "id": 110,
     "name": "Polo Shirt - Browen",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/bN9qKJt/605-A1074-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/dgyg02X/605-A1053-copy.jpg"
@@ -890,15 +890,15 @@
   {
     "id": 111,
     "name": "Polo Shirt - Navy Blue",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2650,
-    "imageOne": "https://i.ibb.co/S0Nnzmv/Navy-Polo-1.jpg",
-    "imageTwo": "https://i.ibb.co/HTDzLg1/Navy-Polo-2.jpg"
+    "imageOne": "https://i.ibb.co.com/z6f7Sy7/605-A2262-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/fQC4kPD/605-A2260-copy.jpg"
   },
   {
     "id": 112,
     "name": "Polo Shirt - Cream",
-    "category": "Polos",
+    "category": "women-polos",
     "price": 2350,
     "imageOne": "https://i.ibb.co.com/1Xkfxnd/PKMC-12-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/vV6t61q/PKMC-15.jpg"
