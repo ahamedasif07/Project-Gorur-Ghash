@@ -926,5 +926,13 @@
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/Q6h2Ysn/605-A6126-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Wv9BDws/605-A6109-copy.jpg"
+  },
+  {
+    "id": 116,
+    "name": "sweatshirts - pink",
+    "category": "sweatshirts-women",
+    "price": 1200,
+    "imageOne": "https://i.ibb.co.com/tDxT4bw/605-A4297-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Wv9BDws/605-A6109-copy.jpg"
   }
 ]
