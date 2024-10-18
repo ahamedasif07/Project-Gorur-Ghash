@@ -4,9 +4,9 @@ import React, { useEffect, useState } from "react";
 import { useDataContext } from "@/components/Shared/DataFetching/DataProvider";
 import DisplayCatagoryProducts from "@/components/Shared/DisplayCatagoryProducts";
 
-const DressCW = () => {
+const KinmonoCW = () => {
   const [allProductsData, setAllProductsData] = useState([]);
-  const [Dress] = useState("Dress");
+  const [Kimono] = useState("Kimono");
   const [filtaredProducts, setFiltaredProducts] = useState([]);
   const { data } = useDataContext(); // Assume this returns the data or null
 
@@ -21,11 +21,11 @@ const DressCW = () => {
     if (allProductsData.length > 0) {
       const remaining = allProductsData.filter(
         (product) =>
-          product.category.toLowerCase().trim() === Dress.toLowerCase().trim()
+          product.category.toLowerCase().trim() === Kimono.toLowerCase().trim()
       );
       setFiltaredProducts(remaining);
     }
-  }, [allProductsData, Dress]);
+  }, [allProductsData, Kimono]);
 
   console.log("data from context", data);
   console.log("all products", allProductsData);
@@ -33,14 +33,16 @@ const DressCW = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="Dress"
+        category="sweatshirts-women"
         filtaredProducts={filtaredProducts}
-        description="Introducing the Women’s Dress by Gorur Ghash – the epitome of style and comfort. Made from the finest fabrics and designed to flatter the figure, this dress is the perfect choice for any occasion. Whether you’re attending a formal event or just running errands, you’ll feel confident and beautiful every time you wear it.
+        description="Introducing Women’s Sweatshirts by Ghash, the perfect addition to your casual wardrobe! Made with high-quality, soft, and breathable fabric, these sweatshirts are designed to keep you warm and cozy on chilly days.
 
-Each piece is crafted with care, using only the finest materials to ensure that you feel comfortable and stylish, no matter where you go. The perfect blend of style and comfort, making it the ideal choice for anyone who loves to look good while feeling great."
+Featuring a classic and versatile design, our sweatshirts are perfect for any occasion, whether you’re running errands, hitting the gym, or lounging at home. The ribbed cuffs and waistband provide a snug and secure fit, while the relaxed fit ensures maximum comfort.
+
+Our women’s sweats are available in a range of colors and sizes, so you can choose the perfect one to match your personal style. Whether you prefer a bold and vibrant hue or a subtle and classic shade, we’ve got you covered."
       ></DisplayCatagoryProducts>
     </div>
   );
 };
 
-export default DressCW;
+export default KinmonoCW;

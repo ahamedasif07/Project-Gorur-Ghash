@@ -958,5 +958,29 @@
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/5kSNcCv/605-A5136-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/68t2nz1/605A5151.jpg"
+  },
+  {
+    "id": 120,
+    "name": "kimono - floral",
+    "category": "kimono",
+    "price": 2000,
+    "imageOne": "https://i.ibb.co.com/k1WjHVR/605-A0923-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/XSq6Q89/605A0986.jpg"
+  },
+  {
+    "id": 121,
+    "name": "kimono - blue",
+    "category": "kimono",
+    "price": 2200,
+    "imageOne": "https://i.ibb.co.com/Z6dsD4F/605-A4924-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/gJ44Zb8/DSC06193-300x300.jpg"
+  },
+  {
+    "id": 122,
+    "name": "kimono - pink",
+    "category": "kimono",
+    "price": 2100,
+    "imageOne": "https://i.ibb.co.com/4JtwYjs/605-A4891-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/P5mGLHt/dimensions-300x300.jpg"
   }
 ]
