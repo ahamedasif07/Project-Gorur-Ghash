@@ -934,5 +934,29 @@
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/tDxT4bw/605-A4297-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/wC250RH/605A4300.jpg"
+  },
+  {
+    "id": 117,
+    "name": "dress - white",
+    "category": "dress",
+    "price": 1500,
+    "imageOne": "https://i.ibb.co.com/TYMzJn1/605-A5119-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/S730jgj/605A5114.jpg"
+  },
+  {
+    "id": 118,
+    "name": "dress - blue",
+    "category": "dress",
+    "price": 1350,
+    "imageOne": "https://i.ibb.co.com/rvr0jcD/605-A5166-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/B4NR9bx/605-A5170-Recovered.jpg"
+  },
+  {
+    "id": 119,
+    "name": "dress - yellow",
+    "category": "dress",
+    "price": 1400,
+    "imageOne": "https://i.ibb.co.com/5kSNcCv/605-A5136-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/68t2nz1/605A5151.jpg"
   }
 ]
