@@ -982,5 +982,54 @@
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/4JtwYjs/605-A4891-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/P5mGLHt/dimensions-300x300.jpg"
+  },
+  {
+    "id": 123,
+    "name": "cord shirt - black",
+    "category": "women-cord-shirts",
+    "price": 1850,
+    "imageOne": "https://i.ibb.co.com/8D8mDTX/605-A9430-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/WzKy6r4/605A9402.jpg"
+  },
+  {
+    "id": 124,
+    "name": "cord shirt - pink",
+    "category": "women-cord-shirts",
+    "price": 2000,
+    "imageOne": "https://i.ibb.co.com/njw6kLY/605-A8874-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/fG4N2yZ/605A8881.jpg"
+  },
+  {
+    "id": 125,
+    "name": "cord shirt - dusty Blue",
+    "category": "women-cord-shirts",
+    "price": 1950,
+    "imageOne": "https://i.ibb.co.com/ZxJ7rML/605-A8944-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/hfqgGSK/605-A8925-copy.jpg"
+  },
+
+  {
+    "id": 124,
+    "name": "half sleeve shirt - sky blue",
+    "category": "women-half-sleeve",
+    "price": 1700,
+    "imageOne": "https://i.ibb.co.com/w7LFwwB/605-A7806-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/PG9KqDj/605-A7810-300x300.jpg"
+  },
+  {
+    "id": 125,
+    "name": "half sleeve shirt - coral pink",
+    "category": "women-half-sleeve",
+    "price": 1800,
+    "imageOne": "https://i.ibb.co.com/3MbGF8n/605-A7912-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/X3dj5Kk/605-A7914-300x300.jpg"
+  },
+  {
+    "id": 126,
+    "name": "half sleeve shirt - mustard yellow",
+    "category": "women-half-sleeve",
+    "price": 1750,
+    "imageOne": "https://i.ibb.co.com/ZXPGKRV/605-A7846-1-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/WWRxQMW/605-A7843-1-300x300.jpg"
   }
 ]
