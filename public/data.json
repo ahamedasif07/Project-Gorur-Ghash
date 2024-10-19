@@ -1038,7 +1038,7 @@
     "name": "Rayon Linen Blend Shirt - white",
     "category": "women-Rayon-Linen-Blend-Shirts",
     "price": 1900,
-    "imageOne": "https://i.ibb.co.com/WWRxQMW/605-A7843-1-300x300.jpghttps://i.ibb.co.com/qs5s48c/605-A0133-copy-300x300.jpg",
+    "imageOne": "https://i.ibb.co.com/qs5s48c/605-A0133-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/RyPVm2h/605-A0113-copy.jpg"
   },
   {
@@ -1056,5 +1056,45 @@
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/XV8zNmY/605-A0049-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/xMfZm4b/605-A0064-copy.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Band Collar Shirt - navy blue",
+    "category": "women-band-collar",
+    "price": 2200,
+    "imageOne": "https://i.ibb.co.com/tBCrTNF/605-A5636-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/fx2D8Ly/605-A5627-copy.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Band Collar Shirt - off-white",
+    "category": "women-band-collar",
+    "price": 2300,
+    "imageOne": "https://i.ibb.co.com/r0SWhT9/605-A5673-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/DrTDRdj/605-A5674-copy.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Band Collar Shirt - charcoal gray",
+    "category": "women-band-collar",
+    "price": 2250,
+    "imageOne": "https://i.ibb.co.com/k9tjc0R/605-A4764-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Yp9B2C3/605-A4749-copy-scaled.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Band Collar Shirt - maroon",
+    "category": "women-band-collar",
+    "price": 2400,
+    "imageOne": "https://i.ibb.co.com/RDCz0Cn/605-A4880-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Kw8wNBq/605A4895.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Band Collar Shirt - olive green",
+    "category": "women-band-collar",
+    "price": 2150,
+    "imageOne": "https://i.ibb.co.com/9ZqJgLD/IMG-1136-Edit-1-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/9ZqJgLD/IMG-1136-Edit-1-300x300.jpg"
   }
 ]
