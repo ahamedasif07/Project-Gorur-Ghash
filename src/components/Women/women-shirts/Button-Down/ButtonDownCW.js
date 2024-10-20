@@ -4,9 +4,9 @@ import React, { useEffect, useState } from "react";
 import { useDataContext } from "@/components/Shared/DataFetching/DataProvider";
 import DisplayCatagoryProducts from "@/components/Shared/DisplayCatagoryProducts";
 
-const CordShirtsCW = () => {
+const ButtonDownCW = () => {
   const [allProductsData, setAllProductsData] = useState([]);
-  const [CordShirts] = useState("women-cord-shirts");
+  const [ButtonDown] = useState("women-button-down");
   const [filtaredProducts, setFiltaredProducts] = useState([]);
   const { data } = useDataContext(); // Assume this returns the data or null
 
@@ -22,11 +22,11 @@ const CordShirtsCW = () => {
       const remaining = allProductsData.filter(
         (product) =>
           product.category.toLowerCase().trim() ===
-          CordShirts.toLowerCase().trim()
+          ButtonDown.toLowerCase().trim()
       );
       setFiltaredProducts(remaining);
     }
-  }, [allProductsData, CordShirts]);
+  }, [allProductsData, ButtonDown]);
 
   console.log("data from context", data);
   console.log("all products", allProductsData);
@@ -34,11 +34,11 @@ const CordShirtsCW = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="Burron Down - Women"
+        category="Button Down - Women"
         filtaredProducts={filtaredProducts}
       ></DisplayCatagoryProducts>
     </div>
   );
 };
 
-export default CordShirtsCW;
+export default ButtonDownCW;

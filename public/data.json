@@ -1100,7 +1100,7 @@
   {
     "id": 134,
     "name": "Button-Down Shirt - navy blue",
-    "category": "button-down",
+    "category": "women-button-down",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/Qp2Z3BW/DSC09603-1-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/bb3CBrX/605-A0990-copy-1.jpg"
@@ -1108,7 +1108,7 @@
   {
     "id": 135,
     "name": "Button-Down Shirt - Olive",
-    "category": "button-down",
+    "category": "women-button-down",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/HHP56Wj/2-300x300.png",
     "imageTwo": "https://i.ibb.co.com/9ZqJgLD/IMG-1136-Edit-1-300x300.jpg"
@@ -1116,7 +1116,7 @@
   {
     "id": 136,
     "name": "Button-Down Shirt - black",
-    "category": "button-down",
+    "category": "-women-button-down",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/7YXnWvS/4-300x300.png",
     "imageTwo": "https://i.ibb.co.com/XkXPnkM/605-A0992-copy.jpg"
@@ -1124,7 +1124,7 @@
   {
     "id": 137,
     "name": "Button-Down Shirt - olive green",
-    "category": "button-down",
+    "category": "women-button-down",
     "price": 2250,
     "imageOne": "https://i.ibb.co.com/z79V1hy/605-A0188-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/M5GT4mQ/605-A0182-copy.jpg"
