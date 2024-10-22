@@ -1224,5 +1224,85 @@
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/WtdTycN/605-A0106-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/cxm24Yk/605-A0093-copy-1.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Flannel Shirt - plaid red",
+    "category": "women-flannels",
+    "price": 1800,
+    "imageOne": "https://i.ibb.co.com/9T62zGc/605-A1183-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/2jnLHBq/605-A1183-copy.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Flannel Shirt - navy blue",
+    "category": "women-flannels",
+    "price": 1900,
+    "imageOne": "https://i.ibb.co.com/nfz9hT9/605-A1129-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/5rh9mWR/605-A1138-copy.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Flannel Shirt - green check",
+    "category": "women-flannels",
+    "price": 1850,
+    "imageOne": "https://i.ibb.co.com/6bqzz0R/605-A1247-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/84yPXC6/605-A1247-copy.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Flannel Shirt - black and white",
+    "category": "women-flannels",
+    "price": 2000,
+    "imageOne": "https://i.ibb.co.com/XXW5tbV/605-A4048-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/SKMtJ2J/605-A4035-copy.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Flannel Shirt - burgundy",
+    "category": "women-flannels",
+    "price": 1750,
+    "imageOne": "https://i.ibb.co.com/VThQFrd/605-A3979-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/gT2jGfP/605-A3974-copy.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Flannel Shirt - light grey",
+    "category": "women-flannels",
+    "price": 1950,
+    "imageOne": "https://i.ibb.co.com/hYnmyt8/605-A4104-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/6F2zxr2/605-A4079-copy.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Flannel Shirt - pastel pink",
+    "category": "women-flannels",
+    "price": 1900,
+    "imageOne": "https://i.ibb.co.com/wcN8fYX/605-A3948-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/RYHMYpn/605-A3942-copy.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Flannel Shirt - dark teal",
+    "category": "women-flannels",
+    "price": 1800,
+    "imageOne": "https://i.ibb.co.com/DVFXrxm/605-A4279-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/10g1mC2/605-A4261-copy.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Flannel Shirt - mustard yellow",
+    "category": "women-flannels",
+    "price": 1850,
+    "imageOne": "https://i.ibb.co.com/Jmqm9CL/605-A9990-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/JqFzQFy/605-A9971-copy.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Flannel Shirt - bright orange",
+    "category": "women-flannels",
+    "price": 1950,
+    "imageOne": "https://i.ibb.co.com/17ScM5K/605-A4232-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/H4bR6Sy/605-A4237-copy-300x300.jpg"
   }
 ]
