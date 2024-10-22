@@ -4,12 +4,12 @@ import React from "react";
 const WomenTShirtsCetagories = () => {
   const TshirtCategories = [
     {
-      category: "Premium",
+      category: "Premium-t-Shirts",
       products: 19,
       image: "https://i.ibb.co.com/FxkhWk9/605-A8446-300x300.jpg",
     },
     {
-      category: "BasicT-ees",
+      category: "Basic-Tees",
       products: 2,
       image: "https://i.ibb.co.com/C2P1vbB/605-A2082-copy-300x300.jpg",
     },

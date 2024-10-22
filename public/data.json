@@ -1304,5 +1304,45 @@
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/17ScM5K/605-A4232-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/H4bR6Sy/605-A4237-copy-300x300.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Premium T-Shirt - navy blue",
+    "category": "women-premium-tShirt",
+    "price": 2200,
+    "imageOne": "https://i.ibb.co.com/NCqm354/605-A8959-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/QF3Rj5w/605-A8960-copy.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Premium T-Shirt - light pink",
+    "category": "women-premium-tShirt",
+    "price": 2150,
+    "imageOne": "https://i.ibb.co.com/LnLFR8F/605-A8972-copy-1-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/cDtSLbL/605-A8973-copy-1.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Premium T-Shirt - charcoal grey",
+    "category": "women-premium-tShirt",
+    "price": 2300,
+    "imageOne": "https://i.ibb.co.com/T8MsGPq/605-A1906-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/PCKBQkm/605-A1887-copy.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Premium T-Shirt - Red",
+    "category": "women-premium-tShirt",
+    "price": 2250,
+    "imageOne": "https://i.ibb.co.com/ZJ25bPQ/605-A1933-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/p3CwXvd/605-A1924-copy.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Premium T-Shirt - sky blue",
+    "category": "women-premium-tShirt",
+    "price": 2100,
+    "imageOne": "https://i.ibb.co.com/wswZDVd/605-A1860-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/G95Wk35/605-A1850-copy.jpg"
   }
 ]
