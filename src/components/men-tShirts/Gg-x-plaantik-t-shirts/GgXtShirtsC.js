@@ -34,7 +34,7 @@ const GgXtShirtsC = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="Drop-Tees"
+        category="GGx T-shirts"
         filtaredProducts={filtaredProducts}
       ></DisplayCatagoryProducts>
     </div>

@@ -20,7 +20,7 @@ const WomenTShirtsCetagories = () => {
         "https://i.ibb.co.com/8rN65RM/Oversized-Drop-Shoulder-Solid-T-shirt-in-Off-white-12-300x300.jpg",
     },
     {
-      category: "GGX Plaantik",
+      category: "GGX-Plaantik",
       products: 1,
       image: "https://i.ibb.co.com/LC11Ktr/DSCF9552-300x300.jpg",
     },

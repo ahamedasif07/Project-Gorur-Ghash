@@ -51,7 +51,7 @@ const DisplayCatagoryProducts = ({
               <h2 className="font-semibold py-8 text-6xl text-gray-700">
                 {category}
               </h2>
-              <p className="py-4 text-[14px] text-gray-600">{description}</p>
+              <p className="py-4 text-[14px] text-gray-600 ">{description}</p>
             </div>
             <div className="grid md:grid-cols-3 lg:grid-cols-4 grid-cols-2 gap-4">
               {filtaredProducts.length > 0 ? (
