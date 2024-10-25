@@ -5,7 +5,7 @@ const WomenTopsCategory = () => {
   const TopsCategory = [
     {
       category: "Balloon-Sleeve",
-      image: "https://i.ibb.co.com/J73JDTt/Black-300x300.jpg",
+      image: "https://i.ibb.co.com/Lx2pFSg/605-A9561-300x300-1.jpg",
       products: 2,
     },
     {
