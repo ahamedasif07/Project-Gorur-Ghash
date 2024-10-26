@@ -34,7 +34,7 @@ const BallonSleevsCW = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="sweatshirts-women"
+        category="women-Balloon-Sleeve"
         filtaredProducts={filtaredProducts}
         description="Introducing Women’s Sweatshirts by Ghash, the perfect addition to your casual wardrobe! Made with high-quality, soft, and breathable fabric, these sweatshirts are designed to keep you warm and cozy on chilly days.
 
