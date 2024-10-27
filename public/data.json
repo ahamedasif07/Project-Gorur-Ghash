@@ -1644,7 +1644,7 @@
   {
     "id": 202,
     "name": "Elegant Silk Top - red",
-    "category": "Silk-Tops",
+    "category": "Silk-Top",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/rQDzjT7/Red-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/T1hj9rP/Red-3-300x300.jpg"
@@ -1652,7 +1652,7 @@
   {
     "id": 203,
     "name": "Elegant Silk Top - Black",
-    "category": "Silk-Tops",
+    "category": "Silk-Top",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/5Ynmf5f/Black-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/5Ynmf5f/Black-300x300.jpg"
@@ -1660,7 +1660,7 @@
   {
     "id": 204,
     "name": "Elegant Silk Top - Pink",
-    "category": "Silk-Tops",
+    "category": "Silk-Top",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/Jsgjx41/Pink-3-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Qr2m1V7/Pink-300x300.jpg"

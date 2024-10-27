@@ -1,4 +1,4 @@
-import WomenTankTopCW from "@/components/Women/women-tank-top/womenTankTopCW";
+import WomenTankTopCW from "@/components/Women/Women-Tops/women-tank-top/womenTankTopCW";
 import React from "react";
 
 const TankTops = () => {
