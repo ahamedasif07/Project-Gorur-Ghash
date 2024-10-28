@@ -1688,5 +1688,46 @@
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/d0t0ff9/DSC04342-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/ZVhwD81/DSC04438-300x300.jpg"
+  },
+
+  {
+    "id": 208,
+    "name": "Classic Cargo Pants - Khaki",
+    "category": "Women-Cargo",
+    "price": 1600,
+    "imageOne": "https://i.ibb.co.com/yWMV27X/605-A5282-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Phfq9QF/605-A0053-copy-300x300.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Stylish Cargo Pants - Beige",
+    "category": "Women-Cargo",
+    "price": 1550,
+    "imageOne": "https://i.ibb.co.com/7gZ5fHk/605-A6957-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/k5BfpBw/605-A6955-copy-300x300.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Slim Fit Cargo - Black",
+    "category": "Women-Cargo",
+    "price": 1700,
+    "imageOne": "https://i.ibb.co.com/MD3L4Rc/605-A5236-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/vq2BtB6/605-A5218-copy-300x300.jpg"
+  },
+  {
+    "id": 211,
+    "name": "High-Waist Cargo Pants - Navy",
+    "category": "Women-Cargo",
+    "price": 1650,
+    "imageOne": "https://i.ibb.co.com/TbgWp3P/605-A0192-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/z8sWzsp/605-A0189-copy.jpg"
+  },
+  {
+    "id": 212,
+    "name": "Casual Cargo - Khaki",
+    "category": "Women-Cargo",
+    "price": 1580,
+    "imageOne": "https://i.ibb.co.com/m6wPLg2/605-A0005-copy-300x300.jpg",
+    "imageTwo": ""
   }
 ]
