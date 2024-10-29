@@ -1753,5 +1753,38 @@
     "price": 1690,
     "imageOne": "https://i.ibb.co.com/68JG2NT/DSC09927-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/p13cjgk/DSC09977-300x300.jpg"
+  },
+
+  {
+    "id": 216,
+    "name": "Formal Pants - Black",
+    "category": "women-formal-pants",
+    "price": 1850,
+    "imageOne": "https://i.ibb.co.com/VMv0sMR/605-A3657-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/54j2JJt/605A3668.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Formal Pants - Gray",
+    "category": "women-formal-pants",
+    "price": 1920,
+    "imageOne": "https://i.ibb.co.com/Mn5dLtx/PPA-AS2-WEB-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/5cbkMTZ/PPA-PS1-WEB-300x300.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Formal Pants - Khaki",
+    "category": "women-formal-pants",
+    "price": 1780,
+    "imageOne": "https://i.ibb.co.com/ns4mB18/605-A3679-300x300.jpg",
+    "imageTwo": ""
+  },
+  {
+    "id": 219,
+    "name": "Formal Pants - Charcoal",
+    "category": "women-formal-pants",
+    "price": 1950,
+    "imageOne": "https://i.ibb.co.com/Mn5dLtx/PPA-AS2-WEB-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/5cbkMTZ/PPA-PS1-WEB-300x300.jpg"
   }
 ]
