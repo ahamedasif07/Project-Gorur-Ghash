@@ -1729,5 +1729,29 @@
     "price": 1580,
     "imageOne": "https://i.ibb.co.com/m6wPLg2/605-A0005-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/StTYDg7/605-A0004-copy.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Casual Corduroy - White",
+    "category": "women-casual-cord-pants",
+    "price": 1640,
+    "imageOne": "https://i.ibb.co.com/6mbZGXV/DSC09224-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/2PBW8tT/DSC09304-300x300.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Casual Corduroy - Black",
+    "category": "women-casual-cord-pants",
+    "price": 1720,
+    "imageOne": "https://i.ibb.co.com/k0NfPXj/DSC09731-1-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/k0NfPXj/DSC09731-1-300x300.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Casual Corduroy - Broun",
+    "category": "women-casual-cord-pants",
+    "price": 1690,
+    "imageOne": "https://i.ibb.co.com/68JG2NT/DSC09927-300x300.jpg",
+    "imageTwo": ""
   }
 ]
