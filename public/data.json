@@ -1858,5 +1858,29 @@
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/DVG545L/605-A0118-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/THx1PdK/605A0101.jpg"
+  },
+  {
+    "id": 229,
+    "name": "Hoodie - Beige",
+    "category": "hoodie",
+    "price": 1900,
+    "imageOne": "https://i.ibb.co.com/jwZ7f7b/IMG-0635-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/THx1PdK/605A0101.jpghttps://i.ibb.co.com/3YTcPVb/605-A9606-1.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Hoodie - Black",
+    "category": "hoodie",
+    "price": 2000,
+    "imageOne": "https://i.ibb.co.com/Y4g7Hnd/Whats-App-Image-2021-01-17-at-1-29-12-PM-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/NjkpwXz/Whats-App-Image-2021-01-16-at-8-00-47-PM-300x300.jpg"
+  },
+  {
+    "id": 231,
+    "name": "Hoodie - Grey",
+    "category": "hoodie",
+    "price": 2100,
+    "imageOne": "https://i.ibb.co.com/y5RNW4y/EKH-PS1-IG-300x300.jpg",
+    "imageTwo": ""
   }
 ]
