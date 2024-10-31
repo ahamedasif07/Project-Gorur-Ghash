@@ -6,37 +6,37 @@ const JacketCategoryCW = () => {
     {
       category: "Boxy-Jacket",
       products: 3,
-      image: "https://ibb.co.com/yRSK2pf",
+      image: "https://i.ibb.co.com/KGwBnD0/605-A4544-300x300.jpg",
     },
     {
       category: "Flannels",
       products: 1,
-      image: "https://ibb.co.com/RPrbFL0",
+      image: "https://i.ibb.co.com/HYw4Smz/605-A2590-2.jpg",
     },
     {
       category: "Leather-Jackets",
       products: 2,
-      image: "https://ibb.co.com/f11SnbW",
+      image: "https://i.ibb.co.com/tmmhxS6/605-A8693-copy-300x300.jpg",
     },
     {
       category: "Textured-Jacket",
       products: 1,
-      image: "https://ibb.co.com/Wgd22sP",
+      image: "https://i.ibb.co.com/2gLkk5s/605-A0817-copy-300x300.jpg",
     },
     {
       category: "Bombers",
       products: 8,
-      image: "https://ibb.co.com/m97stP3",
+      image: "https://i.ibb.co.com/Vg8yDks/605-A1022-300x300.jpg",
     },
     {
       category: "Chore",
       products: 3,
-      image: "https://ibb.co.com/JCFwG6G",
+      image: "https://i.ibb.co.com/M95xtwt/JIN-ASF1-WEB-300x300.jpg",
     },
     {
       category: "Cords",
       products: 7,
-      image: "https://i.ibb.co.com/example7.jpg",
+      image: "https://i.ibb.co.com/cwVfZ66/DSC02081-Edit-300x300.jpg",
     },
   ];
 
