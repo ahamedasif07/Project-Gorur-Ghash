@@ -50,7 +50,7 @@ const JacketCategoryCW = () => {
 
 Our collection of women’s shirts is super versatile and can be styled to dress up or dress down any outfit. Ranging from casual band-collars and semi-formal button-downs to relaxed Cubans, we have a shirt suitable for any occasion.
 
-They are made with the finest and most comfortable fabric to be able to wear all year round. Be it short sleeves, long sleeves, solid colors, plaid or stripes, Oxford Cotton, Slub Cotton, or even Flannels, we have them all.
+They are made with the finest and most comfortable fabric to be able to wear all year round. Be it short sleeves, long sleeves, , plaid or stripes, Oxford Cotton, Slub Cotton, or even Flannels, we have them all.
 
 Whether you’re at work, partying on the weekends, or  a crisp shirt can elevate your look instantly. You will exude confidence and turn heads in every room you walk into with Gorur Ghash’s coveted range of shirts for women
 ."
