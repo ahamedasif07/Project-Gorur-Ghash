@@ -6,7 +6,7 @@ import DisplayCatagoryProducts from "@/components/Shared/DisplayCatagoryProducts
 
 const LeatherJacketsCW = () => {
   const [allProductsData, setAllProductsData] = useState([]);
-  const [FlannelsJackets] = useState("women-flannels-jacket");
+  const [LeatherJackets] = useState("women-leather-jacket");
   const [filtaredProducts, setFiltaredProducts] = useState([]);
   const { data } = useDataContext(); // Assume this returns the data or null
 
@@ -22,11 +22,11 @@ const LeatherJacketsCW = () => {
       const remaining = allProductsData.filter(
         (product) =>
           product.category.toLowerCase().trim() ===
-          FlannelsJackets.toLowerCase().trim()
+          LeatherJackets.toLowerCase().trim()
       );
       setFiltaredProducts(remaining);
     }
-  }, [allProductsData, FlannelsJackets]);
+  }, [allProductsData, LeatherJackets]);
 
   console.log("data from context", data);
   console.log("all products", allProductsData);
