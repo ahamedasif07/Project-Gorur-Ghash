@@ -9,7 +9,7 @@ const JacketCategoryCW = () => {
       image: "https://i.ibb.co.com/KGwBnD0/605-A4544-300x300.jpg",
     },
     {
-      category: "Flannels",
+      category: "Flannels-jacket",
       products: 1,
       image: "https://i.ibb.co.com/HYw4Smz/605-A2590-2.jpg",
     },

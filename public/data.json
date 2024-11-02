@@ -1906,5 +1906,13 @@
     "price": 3500,
     "imageOne": "https://i.ibb.co.com/tbCm9F2/605-A1713-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/rM4smqT/605-A1707-copy.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Flannels Jacket - White",
+    "category": "women-flannels-jacket",
+    "price": 3600,
+    "imageOne": "https://i.ibb.co.com/XJX1ct3/605-A2590-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/gT1HyzH/605A2606.jpg"
   }
 ]
