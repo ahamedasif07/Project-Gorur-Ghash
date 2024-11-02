@@ -1914,5 +1914,21 @@
     "price": 3600,
     "imageOne": "https://i.ibb.co.com/XJX1ct3/605-A2590-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/gT1HyzH/605A2606.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Leather Jacket - Black",
+    "category": "women-leather-jacket",
+    "price": 4500,
+    "imageOne": "https://i.ibb.co.com/gT1HyzH/605A2606.jpghttps://i.ibb.co.com/Tryh7D1/605-A8664-copy-2-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/rbC6Tzz/605-A8667-copy.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Leather Jacket - Brown",
+    "category": "women-leather-jacket",
+    "price": 4700,
+    "imageOne": "https://i.ibb.co.com/jhmKwHx/605-A8708-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/jhmKwHx/605-A8708-copy.jpg"
   }
 ]
