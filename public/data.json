@@ -1938,5 +1938,69 @@
     "price": 4900,
     "imageOne": "https://i.ibb.co.com/4VjY7rf/605-A0817-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/f0phrM6/605-A0807-copy.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Bomber Jacket - Olive",
+    "category": "women-bomber-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/Btw4khn/605-A8579-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/X5LmVwD/605-A8584-copy.jpg"
+  },
+  {
+    "id": 240,
+    "name": "Bomber Jacket - Red",
+    "category": "women-bomber-jacket",
+    "price": 4700,
+    "imageOne": "https://i.ibb.co.com/fDr6MNM/605-A9401-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/6nkqS1K/605-A9391-copy.jpg"
+  },
+  {
+    "id": 241,
+    "name": "Bomber Jacket - Burgundy",
+    "category": "women-bomber-jacket",
+    "price": 4800,
+    "imageOne": "https://i.ibb.co.com/5WGhFxg/605-A1036-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/37rpwbC/605A1014.jpg"
+  },
+  {
+    "id": 242,
+    "name": "Bomber Jacket - Charcoal",
+    "category": "women-bomber-jacket",
+    "price": 4500,
+    "imageOne": "https://i.ibb.co.com/YD0Cfp4/605-A8625-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Lps5BbX/605-A9343-copy.jpg"
+  },
+  {
+    "id": 243,
+    "name": "Bomber Jacket - Black",
+    "category": "women-bomber-jacket",
+    "price": 5000,
+    "imageOne": "https://i.ibb.co.com/DWkSyr9/605-A9354-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Lps5BbX/605-A9343-copy.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Bomber Jacket - pink",
+    "category": "women-bomber-jacket",
+    "price": 4800,
+    "imageOne": "https://i.ibb.co.com/Dgrdxyf/605-A8464-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/TcL2gB2/605-A8474-copy.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Bomber Jacket - Brown",
+    "category": "women-bomber-jacket",
+    "price": 4900,
+    "imageOne": "https://i.ibb.co.com/NrBw6Rq/605-A8544-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/4VkCtX4/605-A8540-copy.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Bomber Jacket - Yellow",
+    "category": "women-bomber-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/f2ynv3B/605-A8506-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Czcgfvn/605-A8509-copy.jpg"
   }
 ]
