@@ -1930,5 +1930,13 @@
     "price": 4700,
     "imageOne": "https://i.ibb.co.com/jhmKwHx/605-A8708-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/jhmKwHx/605-A8708-copy.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Textured Jacket - Black",
+    "category": "women-textured-jacket",
+    "price": 4900,
+    "imageOne": "https://i.ibb.co.com/4VjY7rf/605-A0817-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co.com/f0phrM6/605-A0807-copy.jpg"
   }
 ]
