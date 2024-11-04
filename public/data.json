@@ -2016,8 +2016,8 @@
     "name": "Chore Jacket - Blue",
     "category": "women-chore-jacket",
     "price": 4600,
-    "imageOne": "https://i.ibb.co.com/FWv7vKJ/605-A9274-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/StpCStC/605-A9158-copy.jpg"
+    "imageOne": "https://i.ibb.co.com/LCNTtrj/605-A9221-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/sRCy4yS/605-A9173-copy.jpg"
   },
   {
     "id": 249,
@@ -2026,5 +2026,69 @@
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/mX6xnp1/605-A9187-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/6NCzyx7/605-A9176-copy.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Cord Jacket - Purple",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/FxWfPPq/605-A7824-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/njyFp6Z/605-A7815-copy.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Cord Jacket - Black",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/Syg3ZyX/605-A9054-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/GkspcGS/605-A9041-copy.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Cord Jacket - White",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/KGh4WbH/605-A8011-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/w6KVZ7n/605-A8002-copy.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Cord Jacket - Olive",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/CsDxH3s/605-A7996-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/JtGYmLv/605-A7984-copy.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Cord Jacket - Pink",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/L9QKRy7/605-A9093-copy.jpg",
+    "imageTwo": "https://i.ibb.co.com/bXRZds9/605-A9114-copy-300x300.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Cord Jacket - printed",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/NFJnqmV/605-A0997-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/G36bYNv/605A0989.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Cord Jacket - Brown",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/Fw580MC/605-A7716-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/sHxCr09/605-A7706-copy.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Cord Jacket - Meron",
+    "category": "women-cord-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/Vw87HQb/605-A7769-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/CtQ6t69/605-A7759-copy.jpg"
   }
 ]
