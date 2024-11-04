@@ -2002,5 +2002,29 @@
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/f2ynv3B/605-A8506-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Czcgfvn/605-A8509-copy.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Chore Jacket - Broun",
+    "category": "women-chore-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/FWv7vKJ/605-A9274-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/StpCStC/605-A9158-copy.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Chore Jacket - Blue",
+    "category": "women-chore-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/FWv7vKJ/605-A9274-copy-300x300.jpg",
+    "imageTwo": ""
+  },
+  {
+    "id": 249,
+    "name": "Chore Jacket - Green",
+    "category": "women-chore-jacket",
+    "price": 4600,
+    "imageOne": "https://i.ibb.co.com/mX6xnp1/605-A9187-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/6NCzyx7/605-A9176-copy.jpg"
   }
 ]
