@@ -34,7 +34,7 @@ const CordJacketsCW = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="Flannels-jacket"
+        category="Cord-jacket"
         filtaredProducts={filtaredProducts}
         description=""
       ></DisplayCatagoryProducts>
