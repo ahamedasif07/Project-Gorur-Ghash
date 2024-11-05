@@ -2122,5 +2122,21 @@
     "price": 3200,
     "imageOne": "https://i.ibb.co.com/PNSBKMS/Whats-App-Image-2021-01-17-at-1-29-12-PM-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/JFX2QgQ/Whats-App-Image-2021-01-16-at-8-00-47-PM-300x300.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Kids Shirt - White",
+    "category": "kids-shirts",
+    "price": 1800,
+    "imageOne": "https://i.ibb.co.com/F6PMW9v/DSCF8616-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/D1pGP9Z/DSCF8632-300x300.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Kids Shirt - Blue",
+    "category": "kids-shirts",
+    "price": 1900,
+    "imageOne": "https://i.ibb.co.com/McXp1gr/DSCF8672-300x300.jpg",
+    "imageTwo": ""
   }
 ]
