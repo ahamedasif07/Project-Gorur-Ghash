@@ -2090,5 +2090,21 @@
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/Vw87HQb/605-A7769-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/CtQ6t69/605-A7759-copy.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Kids Hoodie - Brown",
+    "category": "kids-hoodies",
+    "price": 2500,
+    "imageOne": "https://i.ibb.co.com/ygrxVHn/Whats-App-Image-2021-01-21-at-4-26-19-PM-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/HdB7hMH/EKH-PS1-IG-300x300.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Kids Hoodie - Pink",
+    "category": "kids-hoodies",
+    "price": 2600,
+    "imageOne": "https://i.ibb.co.com/jMD5RrZ/EKP-AS2-IG-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/GcmpPtJ/Whats-App-Image-2021-01-21-at-4-26-21-PM-300x300.jpg"
   }
 ]
