@@ -12,7 +12,7 @@ const Kids = () => {
       image:
         "https://i.ibb.co.com/ygrxVHn/Whats-App-Image-2021-01-21-at-4-26-19-PM-300x300.jpg",
       products: 2,
-      category: "Hoodies",
+      category: "hoodies",
     },
     {
       image:
@@ -30,8 +30,8 @@ const Kids = () => {
   return (
     <div>
       <CatagoryContainer
-        categoryType="Kids"
-        rootPath="Kids"
+        categoryType="kids"
+        rootPath="kids"
         productCategories={productCategories}
       ></CatagoryContainer>
     </div>
