@@ -4,9 +4,9 @@ import React, { useEffect, useState } from "react";
 import { useDataContext } from "@/components/Shared/DataFetching/DataProvider";
 import DisplayCatagoryProducts from "@/components/Shared/DisplayCatagoryProducts";
 
-const JacketsKD = () => {
+const ShirtsKD = () => {
   const [allProductsData, setAllProductsData] = useState([]);
-  const [Jackets] = useState("kids-jackets");
+  const [ShirtsKD] = useState("kids-shirts");
   const [filtaredProducts, setFiltaredProducts] = useState([]);
   const { data } = useDataContext(); // Assume this returns the data or null
 
@@ -21,11 +21,12 @@ const JacketsKD = () => {
     if (allProductsData.length > 0) {
       const remaining = allProductsData.filter(
         (product) =>
-          product.category.toLowerCase().trim() === Jackets.toLowerCase().trim()
+          product.category.toLowerCase().trim() ===
+          ShirtsKD.toLowerCase().trim()
       );
       setFiltaredProducts(remaining);
     }
-  }, [allProductsData, Jackets]);
+  }, [allProductsData, ShirtsKD]);
 
   console.log("data from context", data);
   console.log("all products", allProductsData);
@@ -33,11 +34,11 @@ const JacketsKD = () => {
   return (
     <div>
       <DisplayCatagoryProducts
-        category="Shirts"
+        category="Hoddies"
         filtaredProducts={filtaredProducts}
       ></DisplayCatagoryProducts>
     </div>
   );
 };
 
-export default JacketsKD;
+export default ShirtsKD;
