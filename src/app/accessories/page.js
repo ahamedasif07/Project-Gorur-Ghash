@@ -44,7 +44,7 @@ const Accessories = () => {
     <div>
       <CatagoryContainer
         categoryType="Accessories"
-        rootPath="Accessories"
+        rootPath="accessories"
         productCategories={productCategories}
       ></CatagoryContainer>
     </div>
