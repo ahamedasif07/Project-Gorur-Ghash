@@ -5,17 +5,18 @@ const MenAccessoriesCategory = () => {
   const menAcceroices = [
     {
       category: "Bracelet",
-      image: "https://i.ibb.co.com/hmkFyBL/605-A9607-300x300.jpg", // Replace with the actual image path
+      image: "https://i.ibb.co.com/hmkFyBL/605-A9607-300x300.jpg",
       products: 5,
     },
     {
       category: "Chain",
-      image: "https://i.ibb.co.com/d2NWBc4/605-A9527-300x300.jpg", // Replace with the actual image path
+      image: "https://i.ibb.co.com/d2NWBc4/605-A9527-300x300.jpg",
       products: 4,
     },
     {
       category: "Ring",
-      image: "path/to/ring-image.jpg", // Replace with the actual image path
+      image:
+        "https://i.ibb.co.com/7JXB3mt/605-A0555-e1727527850300-300x300.jpg",
       products: 1,
     },
   ];
