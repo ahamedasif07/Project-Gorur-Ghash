@@ -14,7 +14,7 @@ const Accessories = () => {
       products: 10,
     },
     {
-      category: "Men's-Accessories",
+      category: "Mens-Accessories",
       image: "https://i.ibb.co.com/NZj22Sc/605-A9506-300x300.jpg",
       products: 10,
     },
