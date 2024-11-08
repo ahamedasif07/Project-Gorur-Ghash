@@ -2194,5 +2194,13 @@
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/cvSz4rd/605-A9675-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/hgv0kyp/605-A9697-copy.jpg"
+  },
+  {
+    "id": 272,
+    "name": "Docker Cap - Navy Blue",
+    "category": "docker-caps",
+    "price": 1550,
+    "imageOne": "https://i.ibb.co.com/HhGwQLb/605-A9641-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/4K6yjKY/605-A9656-1-copy.jpg"
   }
 ]
