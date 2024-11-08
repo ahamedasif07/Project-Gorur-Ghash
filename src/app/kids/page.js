@@ -1,7 +1,7 @@
 import CatagoryContainer from "@/components/CatagoryContainer/CatagoryContainer";
 import React from "react";
 export const metadata = {
-  title: "Gorur Ghash - Women",
+  title: "Gorur Ghash - Kids",
   description:
     "Welcome to the Gorur Ghash homepage where you can explore the latest fashion for men and women.",
 };
