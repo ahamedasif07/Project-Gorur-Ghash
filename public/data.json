@@ -2186,5 +2186,13 @@
     "price": 1450,
     "imageOne": "https://i.ibb.co.com/sgLL2zG/605-A9731-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/HNJDzcY/605-A9728-copy.jpg"
+  },
+  {
+    "id": 271,
+    "name": "Bucket Hat - Black",
+    "category": "bucket-hats",
+    "price": 1600,
+    "imageOne": "https://i.ibb.co.com/cvSz4rd/605-A9675-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/hgv0kyp/605-A9697-copy.jpg"
   }
 ]
