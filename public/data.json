@@ -2210,5 +2210,13 @@
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/qWdkjGP/605-A9782-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/R3N6ctD/605-A9777-copy.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Newsboy Hat - Charcoal Grey",
+    "category": "news-boy-hat",
+    "price": 1650,
+    "imageOne": "https://i.ibb.co.com/J2Y94fB/605-A1217-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/BfFH4c9/605-A1218-copy.jpg"
   }
 ]
