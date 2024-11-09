@@ -2243,5 +2243,29 @@
     "price": 1150,
     "imageOne": "https://i.ibb.co.com/fpKTgx9/605-A9603-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/fpKTgx9/605-A9603-300x300.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Men Chain - Gold Plated",
+    "category": "men-chain",
+    "price": 1800,
+    "imageOne": "https://i.ibb.co.com/gmCb5wx/605-A9521-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/5Khjp7g/605-A0387-1.jpg"
+  },
+  {
+    "id": 279,
+    "name": "Men Chain - Silver Link",
+    "category": "men-chain",
+    "price": 1600,
+    "imageOne": "https://i.ibb.co.com/9Yp2sF5/605-A9520-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/vLN9YqS/605A0510.jpg"
+  },
+  {
+    "id": 280,
+    "name": "Men Chain - Black Stainless Steel",
+    "category": "men-chain",
+    "price": 1700,
+    "imageOne": "https://i.ibb.co.com/P59bp7L/605-A9506-300x300-1.jpg",
+    "imageTwo": ""
   }
 ]

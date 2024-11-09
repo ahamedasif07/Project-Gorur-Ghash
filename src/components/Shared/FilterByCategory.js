@@ -5,7 +5,7 @@ import ProductCard from "../Shared/ProductCard";
 import Section from "../Section/Section";
 import DisplayCatagoryProducts from "../Shared/DisplayCatagoryProducts";
 
-const FilterByCategory = (category, CategoryTitle) => {
+const FilterByCategory = ({ category, CategoryTitle }) => {
   const [allProductsData, setAllProductsData] = useState([]);
   const [productCategory] = useState(`${category}`);
   const [filtaredProducts, setFiltaredProducts] = useState([]);
