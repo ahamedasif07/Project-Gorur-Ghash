@@ -2218,5 +2218,30 @@
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/J2Y94fB/605-A1217-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/BfFH4c9/605-A1218-copy.jpg"
+  },
+
+  {
+    "id": 275,
+    "name": "Men Bracelet - Black Leather",
+    "category": "men-bracelet",
+    "price": 1250,
+    "imageOne": "https://i.ibb.co.com/gMSffDV/605-A9611-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/vjmv8FH/605A9608.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Men Bracelet - Silver Chain",
+    "category": "men-bracelet",
+    "price": 1350,
+    "imageOne": "https://i.ibb.co.com/q1QNknc/605A9616.jpg",
+    "imageTwo": "https://i.ibb.co.com/VqLpCsL/605-A0344-2-300x300.jpg"
+  },
+  {
+    "id": 277,
+    "name": "Men Bracelet - Brown Leather",
+    "category": "men-bracelet",
+    "price": 1150,
+    "imageOne": "https://i.ibb.co.com/fpKTgx9/605-A9603-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/fpKTgx9/605-A9603-300x300.jpg"
   }
 ]
