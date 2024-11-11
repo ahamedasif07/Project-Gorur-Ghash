@@ -2302,7 +2302,7 @@
   },
   {
     "id": 285,
-    "name": "No-Show Socks - Navy Blue",
+    "name": "No-Show Socks - Blue",
     "category": "socks",
     "price": 160,
     "imageOne": "https://i.ibb.co.com/LNg12M7/5-300x300.jpg",
@@ -2323,5 +2323,13 @@
     "price": 300,
     "imageOne": "https://i.ibb.co.com/xjKFQmR/605-A0464-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/TcJfLbd/605A0387.jpg"
+  },
+  {
+    "id": 288,
+    "name": "Leather-Wallet",
+    "category": "wallet",
+    "price": 300,
+    "imageOne": "https://i.ibb.co.com/wKpzmDY/605-A6483-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/KsHZmB2/605-A6470-copy.jpg"
   }
 ]
