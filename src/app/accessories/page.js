@@ -29,7 +29,7 @@ const Accessories = () => {
       products: 1,
     },
     {
-      category: "Women's-Jewelry",
+      category: "Womens-Jewelry",
       image: "https://i.ibb.co.com/4tk3s78/605-A1053-copy-300x300.jpg",
       products: 62,
     },
