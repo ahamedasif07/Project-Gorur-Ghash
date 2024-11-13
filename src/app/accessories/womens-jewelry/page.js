@@ -32,7 +32,7 @@ const WomensJewelry = () => {
     {
       category: "Stud-Earrings",
       products: 9,
-      image: "path/to/stud-earrings-image.jpg",
+      image: "https://i.ibb.co.com/y5Ykwnm/605-A9449-copy-300x300.jpg",
     },
   ];
 
@@ -41,7 +41,7 @@ const WomensJewelry = () => {
       <ProductVariantContainer
         variantCategories={JewelryCategory}
         rootPath="accessories"
-        categoryType="Caps"
+        categoryType="Womens Jewelry"
         decription="Introducing Jacket for Men by Ghash! Especially for men who want to look stylish and feel comfortable this winter season! Our Men’s Jacket is designed to keep you warm and cozy during the colder months, while still providing a lightweight and breathable fit for those transitional seasons.
 
 Crafted with high-quality materials, these jackets are built to last and withstand even the toughest weather conditions.
