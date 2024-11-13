@@ -2339,5 +2339,21 @@
     "price": 300,
     "imageOne": "https://i.ibb.co.com/7N4rDfS/605-A1203-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/0Qn58CP/605A1202.jpg"
+  },
+  {
+    "id": 290,
+    "name": "Stylish-Ear-Cuff",
+    "category": "ear-cuffs",
+    "price": 300,
+    "imageOne": "https://i.ibb.co.com/7WRrJQV/605-A0303-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/7v6yLM0/605-A0310-copy.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Elegant-Ear-Cuff",
+    "category": "ear-cuffs",
+    "price": 300,
+    "imageOne": "https://i.ibb.co.com/PrGLXQK/605-A0299-300x300.jpg",
+    "imageTwo": ""
   }
 ]
