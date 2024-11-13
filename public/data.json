@@ -2355,5 +2355,21 @@
     "price": 300,
     "imageOne": "https://i.ibb.co.com/PrGLXQK/605-A0299-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/HGv7j71/605-A0328-copy-1.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Classic-Finger-Ring",
+    "category": "women-finger-ring",
+    "price": 300,
+    "imageOne": "https://i.ibb.co.com/Wcgz3LN/605-A0288-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Wcgz3LN/605-A0288-300x300.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Modern-Finger-Ring",
+    "category": "women-finger-ring",
+    "price": 300,
+    "imageOne": "https://i.ibb.co.com/Hn40vP2/605-A0327-copy-2.jpg",
+    "imageTwo": ""
   }
 ]
