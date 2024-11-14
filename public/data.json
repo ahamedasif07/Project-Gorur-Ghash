@@ -2427,5 +2427,85 @@
     "price": 320,
     "imageOne": "https://i.ibb.co.com/d0Fhcvj/605-A9447-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/b1LfSdB/605A9447.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Crystal-Drop-Earrings",
+    "category": "earrings",
+    "price": 400,
+    "imageOne": "https://i.ibb.co.com/b1LfSdB/605A9447.jpghttps://i.ibb.co.com/j3Z4nyK/605-A9489-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/993kB8H/605A9485.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Elegant-Hoop-Earrings",
+    "category": "earrings",
+    "price": 350,
+    "imageOne": "https://i.ibb.co.com/WDGD7Pt/605-A9479-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/Yct0pQV/605A9481.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Gold-Tassel-Earrings",
+    "category": "earrings",
+    "price": 500,
+    "imageOne": "https://i.ibb.co.com/d2rKsH0/605-A9476-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/55Lc8kY/605A9478.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Pearl-Drop-Earrings",
+    "category": "earrings",
+    "price": 420,
+    "imageOne": "https://i.ibb.co.com/qpCC8H5/605-A9496-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/VDJV06w/605A9496.jpg"
+  },
+  {
+    "id": 305,
+    "name": "Silver-Hoop-Earrings",
+    "category": "earrings",
+    "price": 280,
+    "imageOne": "https://i.ibb.co.com/TLs3J92/605-A9495-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/CzKrCS2/605A9495.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Chandelier-Earrings",
+    "category": "earrings",
+    "price": 600,
+    "imageOne": "https://i.ibb.co.com/BrD9hxL/605-A9492-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/6B88z6q/605A9492.jpg"
+  },
+  {
+    "id": 307,
+    "name": "Geometric-Stud-Earrings",
+    "category": "earrings",
+    "price": 250,
+    "imageOne": "https://i.ibb.co.com/tm4x9z0/605-A9581-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/MSmgSQR/605A9578.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Diamond-Hoop-Earrings",
+    "category": "earrings",
+    "price": 700,
+    "imageOne": "https://i.ibb.co.com/KmbjxzX/605-A9493-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/QKzNjST/605A9493.jpg"
+  },
+  {
+    "id": 309,
+    "name": "Floral-Drop-Earrings",
+    "category": "earrings",
+    "price": 320,
+    "imageOne": "https://i.ibb.co.com/stp8yz6/605-A9573-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/5TCY5vY/605A0308.jpg"
+  },
+  {
+    "id": 310,
+    "name": "Vintage-Earrings",
+    "category": "earrings",
+    "price": 550,
+    "imageOne": "https://i.ibb.co.com/Jr4bqL1/605A0330.jpg",
+    "imageTwo": ""
   }
 ]
