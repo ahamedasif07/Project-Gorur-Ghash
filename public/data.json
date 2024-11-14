@@ -2371,5 +2371,61 @@
     "price": 300,
     "imageOne": "https://i.ibb.co.com/Hn40vP2/605-A0327-copy-2.jpg",
     "imageTwo": "https://i.ibb.co.com/Hn40vP2/605-A0327-copy-2.jpg"
+  },
+  {
+    "id": 294,
+    "name": "Elegant-Stud-Earring",
+    "category": "stud-earrings",
+    "price": 250,
+    "imageOne": "https://i.ibb.co.com/ypnxpkb/605-A9939-copy-2-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/c8wgD1R/605-A9939-copy.jpg"
+  },
+  {
+    "id": 295,
+    "name": "Gold-Plated-Stud",
+    "category": "stud-earrings",
+    "price": 350,
+    "imageOne": "https://i.ibb.co.com/cwj7GTg/605-A0326-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/sJsRQmb/605-A0313-copy.jpg"
+  },
+  {
+    "id": 296,
+    "name": "Diamond-Stud-Earring",
+    "category": "stud-earrings",
+    "price": 600,
+    "imageOne": "https://i.ibb.co.com/HgWnRsh/605-A9458-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/LQFm1GQ/605-A9900-copy.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Silver-Stud-Earring",
+    "category": "stud-earrings",
+    "price": 200,
+    "imageOne": "https://i.ibb.co.com/Z2hhqY0/605-A9459-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/KLVrdvW/605-A9892-copy.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Minimalist-Stud-Earring",
+    "category": "stud-earrings",
+    "price": 150,
+    "imageOne": "https://i.ibb.co.com/RgZ6fZQ/605-A9453-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/W588xf7/605-A9457-copy-300x300.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Floral-Stud-Earring",
+    "category": "stud-earrings",
+    "price": 280,
+    "imageOne": "https://i.ibb.co.com/GnG2Gr0/605-A9451-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/3MHpcgL/605A9451.jpg"
+  },
+  {
+    "id": 300,
+    "name": "Pearl-Stud-Earring",
+    "category": "stud-earrings",
+    "price": 320,
+    "imageOne": "https://i.ibb.co.com/d0Fhcvj/605-A9447-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/b1LfSdB/605A9447.jpg"
   }
 ]
