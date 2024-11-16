@@ -2507,5 +2507,37 @@
     "price": 550,
     "imageOne": "https://i.ibb.co.com/Jr4bqL1/605A0330.jpg",
     "imageTwo": "https://i.ibb.co.com/3znc9t2/605-A0329-300x300.jpg"
+  },
+  {
+    "id": 311,
+    "name": "Vintage-Tote",
+    "category": "tote-bags",
+    "price": 620,
+    "imageOne": "https://i.postimg.cc/Dwq4TmJf/605-A1011-300x300.jpg",
+    "imageTwo": "https://i.postimg.cc/yNsgYBcm/605A1012.jpg"
+  },
+  {
+    "id": 312,
+    "name": "Classic-Tote",
+    "category": "tote-bags",
+    "price": 480,
+    "imageOne": "https://i.postimg.cc/QMmBFPJR/605-A6704-copy-300x300.jpg",
+    "imageTwo": "https://i.postimg.cc/wvB1LVW3/web-edit-front-face-300x300.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Elegant-Tote",
+    "category": "tote-bags",
+    "price": 700,
+    "imageOne": "https://i.postimg.cc/DZY8gXD6/605-A6710-copy-1-300x300.jpg",
+    "imageTwo": "https://i.postimg.cc/DZY8gXD6/605-A6710-copy-1-300x300.jpg"
+  },
+  {
+    "id": 314,
+    "name": "Retro-Tote",
+    "category": "tote-bags",
+    "price": 540,
+    "imageOne": "https://i.postimg.cc/HWRr8bbs/605-A6703-copy-300x300.jpg",
+    "imageTwo": "https://i.postimg.cc/KvTRP457/frostine-front-pose-for-web-300x300.jpg"
   }
 ]
