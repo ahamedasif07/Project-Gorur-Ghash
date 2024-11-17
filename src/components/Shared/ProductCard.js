@@ -11,7 +11,7 @@ const ProductCard = ({ product }) => {
 
   return (
     <div>
-      <Link href={`/${id}`}>
+      <Link href={`/details/${id}`}>
         <div
           className="h-[370px] flex flex-col transition-all duration-300 ease-in-out justify-between"
           onMouseEnter={() => setIsHover(true)}
