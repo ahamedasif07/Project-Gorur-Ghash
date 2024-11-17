@@ -1,4 +1,4 @@
-import MilitaryCapC from "@/components/Accessories/caps/Military-Caps/MilitaryCapsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Caps| Military",
@@ -9,7 +9,10 @@ export const metadata = {
 const MillitaryCap = () => {
   return (
     <div>
-      <MilitaryCapC />
+      <FilterByCategory
+        category="wmilitary-caps"
+        CategoryTitle="Military Caps"
+      ></FilterByCategory>
     </div>
   );
 };

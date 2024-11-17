@@ -1,4 +1,4 @@
-import NewsBoyCapC from "@/components/Accessories/caps/NewsBoyCap/NewsBoyCapC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Caps| News-boy",
@@ -9,7 +9,10 @@ export const metadata = {
 const NewsBoyCap = () => {
   return (
     <div>
-      <NewsBoyCapC />
+      <FilterByCategory
+        category="news-boy-hat"
+        CategoryTitle="News Boy Hat"
+      ></FilterByCategory>
     </div>
   );
 };

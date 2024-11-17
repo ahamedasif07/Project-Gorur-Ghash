@@ -1,4 +1,4 @@
-import BaseBallCapsC from "@/components/Accessories/caps/BaseBallCaps/BaseBallCapsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Caps| Base ball Cap",
@@ -9,7 +9,11 @@ export const metadata = {
 const BaseBallCaps = () => {
   return (
     <div>
-      <BaseBallCapsC />
+      <FilterByCategory
+        category="baseball-cap"
+        CategoryTitle="Baseball Cap"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

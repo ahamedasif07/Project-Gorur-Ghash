@@ -1,4 +1,3 @@
-import CatagoryContainer from "@/components/CatagoryContainer/CatagoryContainer";
 import ProductVariantContainer from "@/components/ProductVareantContainer/ProductVariantContainer";
 import React from "react";
 export const metadata = {

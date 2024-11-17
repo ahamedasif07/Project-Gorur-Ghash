@@ -1,4 +1,4 @@
-import DockerCapC from "@/components/Accessories/caps/Docker-caps/DockerCapC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Caps| Docker",
@@ -9,7 +9,10 @@ export const metadata = {
 const DockerCap = () => {
   return (
     <div>
-      <DockerCapC />
+      <FilterByCategory
+        category="docker-caps"
+        CategoryTitle="Docker Caps"
+      ></FilterByCategory>
     </div>
   );
 };

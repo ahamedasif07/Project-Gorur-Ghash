@@ -1,4 +1,4 @@
-import BucketHatC from "@/components/Accessories/caps/Bucket-Hats/BucketHatC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Caps| Bucket-hat",
@@ -9,7 +9,11 @@ export const metadata = {
 const BucketHat = () => {
   return (
     <div>
-      <BucketHatC />
+      <FilterByCategory
+        category="bucket-hats"
+        CategoryTitle="Bucket Hats"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
