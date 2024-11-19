@@ -1,4 +1,4 @@
-import GabardinPentsC from "@/components/men-pents/Gabardine-pents/GabardinePentsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Gabardine-Pents",
@@ -8,7 +8,11 @@ export const metadata = {
 const GabadinePents = () => {
   return (
     <div>
-      <GabardinPentsC />
+      <FilterByCategory
+        category="gabardine-pants"
+        CategoryTitle="gabardine-pants"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

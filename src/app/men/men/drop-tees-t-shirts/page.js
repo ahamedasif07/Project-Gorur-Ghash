@@ -9,8 +9,8 @@ const DropTeesTShirts = () => {
   return (
     <div>
       <FilterByCategory
-        category="Cord-Jacket"
-        CategoryTitle="Cord-Jacket"
+        category="Drop-Tees"
+        CategoryTitle="Drop-Tees"
         description=""
       ></FilterByCategory>
     </div>

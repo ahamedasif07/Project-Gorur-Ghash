@@ -1,4 +1,5 @@
 import FormalPentsC from "@/components/men-pents/Formal-pents/FormalPents";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Formal-Pents",
@@ -9,7 +10,11 @@ export const metadata = {
 const FormalPents = () => {
   return (
     <div>
-      <FormalPentsC />
+      <FilterByCategory
+        category="formal-pants"
+        CategoryTitle="formal-pants"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
