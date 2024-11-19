@@ -1,4 +1,3 @@
-import LeatherJacketsC from "@/components/men-jackets/LeatherJacket/LeatherJacketC";
 import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {

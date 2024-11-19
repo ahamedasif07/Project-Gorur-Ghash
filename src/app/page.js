@@ -16,7 +16,7 @@ import giftCards from "../asstes/gorur-ghash-home/11.png";
 import stpeler from "../asstes/gorur-ghash-home/12.png";
 import OnSell from "@/components/Home/OnSell";
 import Delibery from "@/components/Home/Delibery";
-import MetaData from "@/components/MetaData/MetaData";
+
 import Modal from "@/components/Home/Modal";
 
 export const metadata = {

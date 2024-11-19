@@ -10,8 +10,8 @@ const Polos = () => {
   return (
     <div>
       <FilterByCategory
-        category="Hoodie-Blanket"
-        CategoryTitle="Hoodie Blanket"
+        category="Polos"
+        CategoryTitle="Polos"
         description=""
       ></FilterByCategory>
     </div>

@@ -1,4 +1,3 @@
-import FormalPentsC from "@/components/men-pents/Formal-pents/FormalPents";
 import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {

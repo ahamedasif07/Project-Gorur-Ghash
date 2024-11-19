@@ -1,5 +1,5 @@
 import ShirtsCetagories from "@/components/ShirtsCatagoris/ShirtsCetagories";
-import SweatshirtsC from "@/components/SweatshirtsC/SweatshirtsC";
+
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - shirts",

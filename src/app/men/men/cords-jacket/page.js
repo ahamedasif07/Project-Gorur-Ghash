@@ -1,4 +1,3 @@
-import CordjacketC from "@/components/men-jackets/Cord-Jacket/CordJacketC";
 import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
