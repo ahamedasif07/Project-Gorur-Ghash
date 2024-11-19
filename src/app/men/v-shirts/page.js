@@ -1,4 +1,5 @@
-import VShirts from "@/components/V-shirts/vShirts";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
+
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | V-shirts",
@@ -8,7 +9,11 @@ export const metadata = {
 const VShirtsPage = () => {
   return (
     <div>
-      <VShirts></VShirts>
+      <FilterByCategory
+        category="V-Shirts"
+        CategoryTitle="V-Shirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

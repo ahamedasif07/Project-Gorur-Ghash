@@ -1,9 +1,13 @@
-import TankTopsC from "@/components/Tank-TopsC/TankTopsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 
 const TankTops = () => {
   return (
     <div>
-      <TankTopsC />
+      <FilterByCategory
+        category="Tank-Tops"
+        CategoryTitle="Tank Tops"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

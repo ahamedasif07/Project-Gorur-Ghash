@@ -1,4 +1,4 @@
-import Poolos from "@/components/Polos/Poolos";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Polos",
@@ -9,7 +9,11 @@ export const metadata = {
 const Polos = () => {
   return (
     <div>
-      <Poolos></Poolos>
+      <FilterByCategory
+        category="Hoodie-Blanket"
+        CategoryTitle="Hoodie Blanket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
