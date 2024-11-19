@@ -1,4 +1,4 @@
-import DropTeesC from "@/components/men-tShirts/Drop-Tees/DropTeesC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | T-shirts | Drop-tees",
@@ -8,7 +8,11 @@ export const metadata = {
 const DropTeesTShirts = () => {
   return (
     <div>
-      <DropTeesC />
+      <FilterByCategory
+        category="Cord-Jacket"
+        CategoryTitle="Cord-Jacket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

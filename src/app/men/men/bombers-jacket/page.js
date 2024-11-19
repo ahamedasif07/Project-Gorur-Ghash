@@ -1,10 +1,14 @@
-import BombersJacketC from "@/components/men-jackets/bombers-jacket/BombersJacketC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 
 const BomberJackets = () => {
   return (
     <div>
-      <BombersJacketC />
+      <FilterByCategory
+        category="Bomber-Jacket"
+        CategoryTitle="Bomber Jacket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

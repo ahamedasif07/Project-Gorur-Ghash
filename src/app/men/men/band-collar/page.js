@@ -1,4 +1,4 @@
-import BandCollarC from "@/components/MenShirts/Band-collar/BandCollarC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | Shirts | Band Collar",
@@ -9,7 +9,11 @@ export const metadata = {
 const BandCollar = () => {
   return (
     <div>
-      <BandCollarC />
+      <FilterByCategory
+        category="band-collar"
+        CategoryTitle="Band Collar"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

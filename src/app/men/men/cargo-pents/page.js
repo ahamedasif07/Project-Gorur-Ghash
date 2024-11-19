@@ -1,4 +1,4 @@
-import CargosC from "@/components/men-pents/CargosC/CargosC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Cargo-Pents",
@@ -9,7 +9,11 @@ export const metadata = {
 const Cargos = () => {
   return (
     <div>
-      <CargosC />
+      <FilterByCategory
+        category="cargo"
+        CategoryTitle="Cargo"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

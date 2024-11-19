@@ -1,4 +1,4 @@
-import BasicTshirtsC from "@/components/men-tShirts/Basic-T-Shirts/BasicTshirtsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | T-shirts | Basic",
@@ -8,7 +8,11 @@ export const metadata = {
 const BasicTshirts = () => {
   return (
     <div>
-      <BasicTshirtsC />
+      <FilterByCategory
+        category="Basic-T-Shirts"
+        CategoryTitle="Basic T-Shirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

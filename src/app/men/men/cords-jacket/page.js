@@ -1,4 +1,5 @@
 import CordjacketC from "@/components/men-jackets/Cord-Jacket/CordJacketC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Cords Jacket",
@@ -9,7 +10,11 @@ export const metadata = {
 const CordJackets = () => {
   return (
     <div>
-      <CordjacketC />
+      <FilterByCategory
+        category="Cord-Jacket"
+        CategoryTitle="Cord-Jacket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

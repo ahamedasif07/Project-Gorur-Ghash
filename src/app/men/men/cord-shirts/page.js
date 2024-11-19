@@ -1,4 +1,4 @@
-import CordShirtsC from "@/components/MenShirts/Cord-shirts/CordShirtsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 export const metadata = {
   title: "Gorur Ghash - Men | Shirts | Cord",
   description:
@@ -8,7 +8,11 @@ export const metadata = {
 const CordShirts = () => {
   return (
     <div>
-      <CordShirtsC />
+      <FilterByCategory
+        category="cord-shirts"
+        CategoryTitle="cord-shirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
