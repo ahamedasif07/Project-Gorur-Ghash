@@ -1,4 +1,4 @@
-import RayonLinenBlendShirtsC from "@/components/MenShirts/Rayon Linen Blend Shirts/RayonLinenBlendShirts";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | Shirts | Rayons",
@@ -9,7 +9,11 @@ export const metadata = {
 const RayonLinenBlendShirts = () => {
   return (
     <div>
-      <RayonLinenBlendShirtsC />
+      <FilterByCategory
+        category="Rayon Linen Blend Shirts"
+        CategoryTitle="Rayon Linen Blend Shirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

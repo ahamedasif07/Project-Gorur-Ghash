@@ -1,4 +1,4 @@
-import ShortsPentsC from "@/components/men-pents/shorts-pents/ShortsPentsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Short-Pents",
@@ -9,7 +9,11 @@ export const metadata = {
 const ShortsPents = () => {
   return (
     <div>
-      <ShortsPentsC />
+      <FilterByCategory
+        category="shorts-pants"
+        CategoryTitle="shorts-pants"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

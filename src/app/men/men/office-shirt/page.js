@@ -1,4 +1,4 @@
-import OfficeShirtC from "@/components/MenShirts/Office-shirt/OfficeShirtC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | Shirts |Office - ware",
@@ -9,7 +9,11 @@ export const metadata = {
 const OfficeShirt = () => {
   return (
     <div>
-      <OfficeShirtC />
+      <FilterByCategory
+        category="Office-Shirt"
+        CategoryTitle="Office-Shirt"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

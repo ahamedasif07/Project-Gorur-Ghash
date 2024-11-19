@@ -1,4 +1,4 @@
-import HalfSleevsC from "@/components/MenShirts/Half-Sleevs/HalfSleevsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | Shirts | Half - Sleevs",
@@ -9,7 +9,11 @@ export const metadata = {
 const HalfShirts = () => {
   return (
     <div>
-      <HalfSleevsC />
+      <FilterByCategory
+        category="half-sleeve"
+        CategoryTitle="half-sleeve"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

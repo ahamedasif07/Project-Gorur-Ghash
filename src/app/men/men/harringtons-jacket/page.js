@@ -1,4 +1,4 @@
-import HarringtonsJacketC from "@/components/men-jackets/Harringtons-jacket/HarringtonsJacketC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Harringtion Jacket",
@@ -9,7 +9,11 @@ export const metadata = {
 const HarringtonsJacket = () => {
   return (
     <div>
-      <HarringtonsJacketC />
+      <FilterByCategory
+        category="harringtons-jacket"
+        CategoryTitle="Harringtons jacket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

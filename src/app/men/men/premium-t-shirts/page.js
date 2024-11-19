@@ -1,4 +1,4 @@
-import PremiumTShirtsC from "@/components/men-tShirts/Premium-T-Shirts/PremiumTshirtsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | T-shirts | Premium",
@@ -8,7 +8,11 @@ export const metadata = {
 const PremiumTShirts = () => {
   return (
     <div>
-      <PremiumTShirtsC />
+      <FilterByCategory
+        category="Premium-T-Shirts"
+        CategoryTitle="Premium-T-Shirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

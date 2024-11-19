@@ -1,4 +1,4 @@
-import GgXtShirtsC from "@/components/men-tShirts/Gg-x-plaantik-t-shirts/GgXtShirtsC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | T-shirts | Gg-x",
@@ -8,7 +8,11 @@ export const metadata = {
 const GgXtShirts = () => {
   return (
     <div>
-      <GgXtShirtsC />
+      <FilterByCategory
+        category="GG-X-Plaantik"
+        CategoryTitle="GG-X-Plaantik"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

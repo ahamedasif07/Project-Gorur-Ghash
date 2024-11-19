@@ -10,7 +10,7 @@ const GabadinePents = () => {
     <div>
       <FilterByCategory
         category="gabardine-pants"
-        CategoryTitle="gabardine-pants"
+        CategoryTitle="Gabardine Pants"
         description=""
       ></FilterByCategory>
     </div>
