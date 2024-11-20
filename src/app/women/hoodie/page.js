@@ -1,4 +1,4 @@
-import HoddieCW from "@/components/Women/Hoddie/HoddieCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Hoddie",
@@ -8,7 +8,11 @@ export const metadata = {
 const Hoddie = () => {
   return (
     <div>
-      <HoddieCW />
+      <FilterByCategory
+        category="hoodie"
+        CategoryTitle="Hoodie"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

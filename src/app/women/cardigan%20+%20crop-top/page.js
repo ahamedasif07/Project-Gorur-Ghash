@@ -1,4 +1,5 @@
-import CardiganSetMeronCW from "@/components/Women/CardiganSetMeron/CardiganSetMeronCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
+
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Cardingan-Top",
@@ -9,7 +10,11 @@ export const metadata = {
 const CardinganTop = () => {
   return (
     <div>
-      <CardiganSetMeronCW />
+      <FilterByCategory
+        category="Cardigan + Crop Top"
+        CategoryTitle="Cardigan + Crop Top"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

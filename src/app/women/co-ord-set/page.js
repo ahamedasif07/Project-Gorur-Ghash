@@ -1,4 +1,4 @@
-import CoOrdSetCW from "@/components/Women/CoOrdSet/CoOrdSetCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | C0-Ord-Set",
@@ -9,7 +9,11 @@ export const metadata = {
 const CoOrdSet = () => {
   return (
     <div>
-      <CoOrdSetCW />
+      <FilterByCategory
+        category="Co-Ord-Set "
+        CategoryTitle="Co Ord Set "
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

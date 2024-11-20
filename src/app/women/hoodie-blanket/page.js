@@ -1,4 +1,4 @@
-import HoodieBlanketC from "@/components/HoodieBlanket/HoodieBlanketC";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | HoddiBlancket",
@@ -9,7 +9,11 @@ export const metadata = {
 const HoddieBlancket = () => {
   return (
     <div>
-      <HoodieBlanketC />
+      <FilterByCategory
+        category="Hoodie-Blanket"
+        CategoryTitle="Hoodie-Blanket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
