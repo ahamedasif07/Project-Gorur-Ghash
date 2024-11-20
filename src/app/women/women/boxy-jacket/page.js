@@ -1,4 +1,4 @@
-import BoxyJacketsCW from "@/components/Women/Women-Jackets/BoxyJackets/BoxyJacketsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | jackets | Boxy",
@@ -9,7 +9,11 @@ export const metadata = {
 const BoxyJacket = () => {
   return (
     <div>
-      <BoxyJacketsCW />
+      <FilterByCategory
+        category="women-boxy-jacket"
+        CategoryTitle="women-boxy-jacket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

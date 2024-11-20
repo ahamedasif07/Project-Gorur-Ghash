@@ -1,4 +1,4 @@
-import BallonSleevsCW from "@/components/Women/Women-Tops/balloon-sleeve/BallonSleevsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Tops | Ballon Sleevs",
@@ -9,7 +9,11 @@ export const metadata = {
 const BallonSleevs = () => {
   return (
     <div>
-      <BallonSleevsCW />
+      <FilterByCategory
+        category="women-Balloon-Sleeve"
+        CategoryTitle="women-Balloon-Sleeve"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

@@ -1,4 +1,4 @@
-import ButtonDownCW from "@/components/Women/women-shirts/Button-Down/ButtonDownCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Shirts | Button-Down",
@@ -9,7 +9,11 @@ export const metadata = {
 const ButtonDown = () => {
   return (
     <div>
-      <ButtonDownCW />
+      <FilterByCategory
+        category="women-button-down"
+        CategoryTitle="women-button-down"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
