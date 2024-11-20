@@ -1,4 +1,4 @@
-import SweatshirtsCW from "@/components/Women/Sweatshirts/SweatshirtsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Sweatshirts",
@@ -9,7 +9,11 @@ export const metadata = {
 const Sweatshirts = () => {
   return (
     <div>
-      <SweatshirtsCW />
+      <FilterByCategory
+        category="women-Sweatshirts"
+        CategoryTitle="women-Sweatshirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

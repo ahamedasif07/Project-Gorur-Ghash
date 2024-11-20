@@ -1,4 +1,4 @@
-import TurtleneckCW from "@/components/Women/Turtleneck/TurtleneckCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Turtleneck",
@@ -9,7 +9,11 @@ export const metadata = {
 const Turtleneck = () => {
   return (
     <div>
-      <TurtleneckCW />
+      <FilterByCategory
+        category="women-Turtleneck"
+        CategoryTitle="women-Turtleneck"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

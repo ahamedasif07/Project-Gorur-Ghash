@@ -1,10 +1,14 @@
-import WomenTankTopCW from "@/components/Women/Women-Tops/women-tank-top/womenTankTopCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 
 const TankTops = () => {
   return (
     <div>
-      <WomenTankTopCW />
+      <FilterByCategory
+        category="women-tank-top"
+        CategoryTitle="women-tank-top"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

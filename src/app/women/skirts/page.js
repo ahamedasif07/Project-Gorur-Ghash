@@ -1,4 +1,4 @@
-import SkirtsCW from "@/components/Women/Skirts/SkirtsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Skirts",
@@ -9,7 +9,11 @@ export const metadata = {
 const Skirts = () => {
   return (
     <div>
-      <SkirtsCW />
+      <FilterByCategory
+        category="Skirts"
+        CategoryTitle="Skirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

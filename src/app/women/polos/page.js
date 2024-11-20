@@ -1,4 +1,4 @@
-import PolosCW from "@/components/Women/Polos/PolosCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | polos",
@@ -8,7 +8,11 @@ export const metadata = {
 const Polos = () => {
   return (
     <div>
-      <PolosCW />
+      <FilterByCategory
+        category="women-polos"
+        CategoryTitle="women-polos"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

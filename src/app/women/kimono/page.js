@@ -1,10 +1,15 @@
-import KinmonoCW from "@/components/Women/kimono/KimonoCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
+
 import React from "react";
 
 const Kimono = () => {
   return (
     <div>
-      <KinmonoCW />
+      <FilterByCategory
+        category="Kimono"
+        CategoryTitle="Kimono"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
