@@ -12,7 +12,9 @@ const Cords = () => {
       <FilterByCategory
         category="women-cord-jacket"
         CategoryTitle="women-cord-jacket"
-        description=""
+        description="In the time of oversized, baggy and layered fashion trends, the struggle of being a smol petite woman is real. No regular clothes fit you and scouting the kid’s section to find your size can be mortifying. Lucky for you, we have just the perfect thing. Cropped Cords by Ghash!
+
+Fit is key if you want to look chic and put together. This retro rendition is cropped in style. So, it will compliment your petite frame and give an illusion of having longer legs. Pair it with high rise jeans and bam! You instantly gain height."
       ></FilterByCategory>
     </div>
   );
