@@ -1,4 +1,4 @@
-import CordJacketsCW from "@/components/Women/Women-Jackets/Cord-jacket/CordJacketCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | jackets | Cord",
@@ -9,7 +9,11 @@ export const metadata = {
 const Cords = () => {
   return (
     <div>
-      <CordJacketsCW />
+      <FilterByCategory
+        category="women-cord-jacket"
+        CategoryTitle="women-cord-jacket"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

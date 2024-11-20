@@ -1,4 +1,4 @@
-import CropTopsCW from "@/components/Women/Women-Tops/CropTops/CropTopsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Tops | Crop",
@@ -9,7 +9,11 @@ export const metadata = {
 const CropTops = () => {
   return (
     <div>
-      <CropTopsCW />
+      <FilterByCategory
+        category="Crop-Tops"
+        CategoryTitle="Crop-Tops"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

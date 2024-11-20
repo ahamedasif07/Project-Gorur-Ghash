@@ -1,4 +1,4 @@
-import FlowytopCW from "@/components/Women/Women-Tops/flowy-top/FlowyTopsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Tops | Flowy",
@@ -9,7 +9,11 @@ export const metadata = {
 const FlowyTop = () => {
   return (
     <div>
-      <FlowytopCW />
+      <FilterByCategory
+        category="Flowy-top"
+        CategoryTitle="Flowy-top"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

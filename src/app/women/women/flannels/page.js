@@ -1,4 +1,4 @@
-import FlannelsCW from "@/components/Women/women-shirts/Flannels/FlannelsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Shirts | Flannels",
@@ -9,7 +9,11 @@ export const metadata = {
 const Flannels = () => {
   return (
     <div>
-      <FlannelsCW />
+      <FilterByCategory
+        category="women-Flannels"
+        CategoryTitle="women-Flannels"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
