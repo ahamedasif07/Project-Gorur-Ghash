@@ -1,4 +1,4 @@
-import JacketCategorysC from "@/components/JacketCategorys/JacketCategorysC";
+import JacketCategorysC from "@/components/men/JacketCategorys/JacketCategorysC";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Jackets",

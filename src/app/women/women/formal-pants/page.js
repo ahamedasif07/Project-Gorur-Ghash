@@ -1,4 +1,4 @@
-import FormalPantsCW from "@/components/Women/women-pents/Fromal-pents/FormalPantsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Pents | Formal",
@@ -9,7 +9,11 @@ export const metadata = {
 const FormalPents = () => {
   return (
     <div>
-      <FormalPantsCW />
+      <FilterByCategory
+        category="Fwomen-formal-pants"
+        CategoryTitle="Fwomen-formal-pants"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

@@ -1,4 +1,4 @@
-import TshirtsCatagories from "@/components/T-shirtsCatagorys/TshirtsCatagorysC";
+import TshirtsCatagories from "@/components/men/T-shirtsCatagorys/TshirtsCatagorysC";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Men | T-shirts ",

@@ -1,4 +1,4 @@
-import PentsCategories from "@/components/Pents-Caregories/PentsCategories";
+import PentsCategories from "@/components/men/Pents-Caregories/PentsCategories";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - Pents",

@@ -1,4 +1,4 @@
-import HalfSleeveCW from "@/components/Women/women-shirts/Half-Sleeve/HalfSleeveCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Shirts | half -sleeve",
@@ -9,7 +9,11 @@ export const metadata = {
 const HalfSleeve = () => {
   return (
     <div>
-      <HalfSleeveCW />
+      <FilterByCategory
+        category="women-Half-sleeve"
+        CategoryTitle="women-Half-sleeve"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

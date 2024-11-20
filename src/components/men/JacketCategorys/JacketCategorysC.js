@@ -1,6 +1,6 @@
 import React from "react";
 
-import ProductVariantContainer from "../ProductVareantContainer/ProductVariantContainer";
+import ProductVariantContainer from "../../ProductVareantContainer/ProductVariantContainer";
 
 const JacketCategorysC = () => {
   const jacketsCategorys = [

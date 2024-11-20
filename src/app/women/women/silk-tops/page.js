@@ -1,4 +1,4 @@
-import SilkTopsCW from "@/components/Women/Women-Tops/Silk-Tops/SilkTopsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Tops | Silk",
@@ -9,7 +9,11 @@ export const metadata = {
 const SilkTops = () => {
   return (
     <div>
-      <SilkTopsCW />
+      <FilterByCategory
+        category="silk-top"
+        CategoryTitle="silk-top"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

@@ -1,6 +1,6 @@
 import React from "react";
-import CatagoryContainer from "../CatagoryContainer/CatagoryContainer";
-import ProductVariantContainer from "../ProductVareantContainer/ProductVariantContainer";
+import CatagoryContainer from "../../CatagoryContainer/CatagoryContainer";
+import ProductVariantContainer from "../../ProductVareantContainer/ProductVariantContainer";
 
 const ShirtsCetagories = () => {
   const shirtCategories = [

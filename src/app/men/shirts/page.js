@@ -1,4 +1,4 @@
-import ShirtsCetagories from "@/components/ShirtsCatagoris/ShirtsCetagories";
+import ShirtsCetagories from "@/components/men/ShirtsCatagoris/ShirtsCetagories";
 
 import React from "react";
 export const metadata = {

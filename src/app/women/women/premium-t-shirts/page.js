@@ -1,4 +1,4 @@
-import PremiumCW from "@/components/Women/Women-TShirts/Premium/PremiumCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | T-shirts | Premium",
@@ -10,7 +10,11 @@ const premium = () => {
   return (
     <div>
       <h1>
-        <PremiumCW />
+        <FilterByCategory
+          category="women-premium-tShirt"
+          CategoryTitle="women-premium-tShirt"
+          description=""
+        ></FilterByCategory>
       </h1>
     </div>
   );
