@@ -1,4 +1,4 @@
-import CargosCW from "@/components/Women/women-pents/Cargos/Cargos";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Pents | Cargo",
@@ -9,7 +9,11 @@ export const metadata = {
 const Cargo = () => {
   return (
     <div>
-      <CargosCW />
+      <FilterByCategory
+        category="women-Cargo"
+        CategoryTitle="women-Cargo"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };

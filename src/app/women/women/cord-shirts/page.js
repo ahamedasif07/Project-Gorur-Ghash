@@ -1,4 +1,4 @@
-import CordShirtsCW from "@/components/Women/women-shirts/Cord-Shirts/CordShirtsCW";
+import FilterByCategory from "@/components/Shared/FilterByCategory";
 import React from "react";
 export const metadata = {
   title: "Gorur Ghash - women | Shirts | Cord",
@@ -9,7 +9,11 @@ export const metadata = {
 const CordShirts = () => {
   return (
     <div>
-      <CordShirtsCW />
+      <FilterByCategory
+        category="women-cord-shirts"
+        CategoryTitle="women-cord-shirts"
+        description=""
+      ></FilterByCategory>
     </div>
   );
 };
