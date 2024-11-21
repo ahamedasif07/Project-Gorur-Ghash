@@ -122,7 +122,7 @@ const NabVar = () => {
                         <li>
                           <Link
                             className="block uppercase hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black"
-                            href="/collabs/item1"
+                            href="/collabs/gorurghash-x-cheez"
                           >
                             gorurghash-x-cheez
                           </Link>
@@ -130,7 +130,7 @@ const NabVar = () => {
                         <li>
                           <Link
                             className="block uppercase transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black"
-                            href="/collabs/item2"
+                            href="/collabs/plaantik-x-gg"
                           >
                             plaantik-x-gg
                           </Link>
