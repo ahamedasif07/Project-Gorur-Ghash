@@ -54,13 +54,13 @@ const Slider = ({ slides }) => {
       {/* Next and Previous Buttons */}
       <button
         onClick={goToPreviousSlide}
-        className="absolute top-1/2 left-5 transform -translate-y-1/2 text-white bg-opacity-50 rounded-full p-2"
+        className="absolute top-1/2 left-5  transform -translate-y-1/2 text-white bg-opacity-50 rounded-full p-2"
       >
         ❮
       </button>
       <button
         onClick={goToNextSlide}
-        className="absolute top-1/2 right-5 transform -translate-y-1/2 text-white bg-opacity-50 rounded-full p-2"
+        className="absolute top-1/2 right-5  transform -translate-y-1/2 text-white bg-opacity-50 rounded-full p-2"
       >
         ❯
       </button>

@@ -5,7 +5,7 @@ import Slider from "@/components/Shared/slider/Slider";
 import bgImage from "../../../asstes/gorurghash-x-cheez/sliderBg image.gif";
 
 const gorurghashXcheez = () => {
-  const slides = [
+  const slidesOne = [
     {
       image: "https://i.postimg.cc/43tRbp9G/Motamoti-Fit.jpg",
       title: "Beautiful Mountains",
@@ -20,6 +20,32 @@ const gorurghashXcheez = () => {
     },
     {
       image: "https://i.postimg.cc/5NGr7612/pizza-Box-Open.gif",
+      title: "City Lights",
+      description:
+        "Experience the vibrant city life with dazzling lights and tall skyscrapers.",
+    },
+  ];
+  const slidesTow = [
+    {
+      image: "https://i.postimg.cc/KYg3PpfY/605-A0296-1.jpg",
+      title: "Beautiful Mountains",
+      description:
+        "Explore the serene beauty of towering mountains and lush greenery.",
+    },
+    {
+      image: "https://i.postimg.cc/XNgGkCf9/605A0421.jpg",
+      title: "Sunset Beach",
+      description:
+        "Relax by the shore and watch the mesmerizing sunset over the ocean.",
+    },
+    {
+      image: "https://i.postimg.cc/Rhv3zSB3/605A0427.jpg",
+      title: "City Lights",
+      description:
+        "Experience the vibrant city life with dazzling lights and tall skyscrapers.",
+    },
+    {
+      image: "https://i.postimg.cc/yYQDwCrd/605-A0335-1.jpg",
       title: "City Lights",
       description:
         "Experience the vibrant city life with dazzling lights and tall skyscrapers.",
@@ -50,7 +76,7 @@ const gorurghashXcheez = () => {
       {/* ---------slider part stats ---------*/}
       <div className="flex justify-between py-5 bg-[#F7D10C] px-4">
         <div className="w-[500px]">
-          <Slider slides={slides}></Slider>
+          <Slider slides={slidesOne}></Slider>
         </div>
         <div className="w-1/3 px-3 flex flex-col justify-center items-center">
           <h2 className="text-2xl font-bold ">Why Motamoti Fit?</h2>
@@ -64,7 +90,7 @@ const gorurghashXcheez = () => {
           </p>
         </div>
         <div className="w-[500px]">
-          <Slider slides={slides}></Slider>
+          <Slider slides={slidesTow}></Slider>
         </div>
       </div>
       {/* ---------slider part end ---------*/}
