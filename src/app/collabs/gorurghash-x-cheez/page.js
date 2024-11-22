@@ -3,6 +3,8 @@ import titleImage from "../../../asstes/gorurghash-x-cheez/titleimage.png";
 import Image from "next/image";
 import Slider from "@/components/Shared/slider/Slider";
 import bgImage from "../../../asstes/gorurghash-x-cheez/sliderBg image.gif";
+import discountImage from "../../../asstes/gorurghash-x-cheez/Asset-3-2.png";
+import benifiteImage from "../../../asstes/gorurghash-x-cheez/Asset-6.png";
 
 const gorurghashXcheez = () => {
   const slidesOne = [
@@ -94,6 +96,34 @@ const gorurghashXcheez = () => {
         </div>
       </div>
       {/* ---------slider part end ---------*/}
+      {/* benifite part starts */}
+      <div>
+        <h2 className="text-5xl font-extrabold text-[#333333] text-center py-3">
+          BENEFITS
+        </h2>
+        <div className="grid grid-cols-3 gap-4 mx-auto">
+          <div className="flex flex-col items-center">
+            <Image className="text-center" src={discountImage} alt="image" />
+            <h2 className="text-2xl mt-5 font-bold text-[#333333] text-center">
+              20% off at Cheez outlets by wearing the Tee
+            </h2>
+          </div>
+          <div className="flex flex-col items-center">
+            <Image src={benifiteImage} alt="image" />
+            <h2 className="text-2xl  mt-5  font-bold text-[#333333] text-center">
+              All profits from the campaign to be used for feeding the
+              underprivileged
+            </h2>
+          </div>
+          <div className="flex flex-col items-center">
+            <Image src={discountImage} alt="image" />
+            <h2 className="text-2xl  mt-5  font-bold text-[#333333] text-center">
+              20% coupon code for Gorur Ghash
+            </h2>
+          </div>
+        </div>
+      </div>
+      {/* benifite part end*/}
     </div>
   );
 };
