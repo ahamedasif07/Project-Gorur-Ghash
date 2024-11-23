@@ -54,6 +54,22 @@ const gorurghashXcheez = () => {
     },
   ];
 
+  // big slider
+  const bigSlider = [
+    {
+      image: "https://i.postimg.cc/jS0HKCJL/605A0374.jpg",
+      title: "City Lights",
+      description:
+        "Experience the vibrant city life with dazzling lights and tall skyscrapers.",
+    },
+    {
+      image: "https://i.postimg.cc/nh0knpK7/605A0250.jpg",
+      title: "Urban Nights",
+      description:
+        "Explore the magic of the urban nightscape filled with neon lights and bustling streets.",
+    },
+  ];
+
   return (
     <div>
       <div className="bg-white py-5 flex justify-center">
@@ -124,6 +140,14 @@ const gorurghashXcheez = () => {
         </div>
       </div>
       {/* benifite part end*/}
+
+      {/*  big slider starts*/}
+      <div className="bg-[#F7D10C] py-2 mt-5 ">
+        <div className=" px-2 ">
+          <Slider slides={bigSlider}></Slider>
+        </div>
+      </div>
+      {/*  big slider end*/}
     </div>
   );
 };
