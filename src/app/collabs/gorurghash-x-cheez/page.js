@@ -91,49 +91,71 @@ const gorurghashXcheez = () => {
       {/* ---------video part end---------*/}
       <p className="h-[3px] bg-white"></p>
 
-      {/* ---------slider part stats ---------*/}
-      <div className="flex justify-center border-2  py-5 bg-[#F7D10C] px-4">
-        <div className="w-[500px]">
-          <Slider slides={slidesOne}></Slider>
-        </div>
-        <div className="w-1/3 px-3 flex flex-col justify-center items-center">
-          <h2 className="text-2xl font-bold ">Why Motamoti Fit?</h2>
-          <p className="text-[10px] font-bold mt-4 ">
-            You’re not fat. You’re not skinny either. You’re somewhere in
-            between. Let’s face it, most of us are. Thus, Motamoti Fit! Break
-            free of society’s insatiable obsession with fitness, and be
-            comfortable in your skin. You don’t need to starve yourself, you
-            don’t need to push yourself either. Embrace being Motamoti Fit! The
-            world is hard enough. Just be nice to yourself.
-          </p>
-        </div>
-        <div className="w-[500px]">
-          <Slider slides={slidesTow}></Slider>
+      {/* ---------slider part start ---------*/}
+      <div className="hidden md:block">
+        <div className="flex justify-center border-2  py-5 bg-[#F7D10C] px-4">
+          <div className="w-[500px]">
+            <Slider slides={slidesOne}></Slider>
+          </div>
+          <div className="w-1/3 px-3 flex flex-col justify-center items-center">
+            <h2 className="text-2xl font-bold ">Why Motamoti Fit?</h2>
+            <p className="text-[10px] font-bold mt-4 ">
+              You’re not fat. You’re not skinny either. You’re somewhere in
+              between. Let’s face it, most of us are. Thus, Motamoti Fit! Break
+              free of society’s insatiable obsession with fitness, and be
+              comfortable in your skin. You don’t need to starve yourself, you
+              don’t need to push yourself either. Embrace being Motamoti Fit!
+              The world is hard enough. Just be nice to yourself.
+            </p>
+          </div>
+          <div className="w-[500px]">
+            <Slider slides={slidesTow}></Slider>
+          </div>
         </div>
       </div>
       {/* ---------slider part end ---------*/}
+      {/* mini device slider responcide starts */}
+      <div className="md:hidden block">
+        <div className="flex  justify-center border-2  py-5 bg-[#F7D10C] px-4">
+          <div className="w-1/2">
+            <Slider slides={slidesOne}></Slider>
+          </div>
+          <div className="w-1/2 px-3 flex flex-col justify-center items-center">
+            <h2 className="text-2xl font-bold ">Why Motamoti Fit?</h2>
+            <p className="text-[10px] font-bold mt-4 ">
+              You’re not fat. You’re not skinny either. You’re somewhere in
+              between. Let’s face it, most of us are. Thus, Motamoti Fit! Break
+              free of society’s insatiable obsession with fitness, and be
+              comfortable in your skin. You don’t need to starve yourself, you
+              don’t need to push yourself either. Embrace being Motamoti Fit!
+              The world is hard enough. Just be nice to yourself.
+            </p>
+          </div>
+        </div>
+      </div>
+      {/* mini device slider responcide end */}
       {/* benifite part starts */}
       <div>
         <h2 className="text-5xl font-extrabold text-[#333333] text-center py-3">
           BENEFITS
         </h2>
-        <div className="grid grid-cols-3 mt-5 gap-4 mx-auto">
+        <div className="grid grid-cols-3 mt-5 gap-4 px-2 mx-auto">
           <div className="flex flex-col max-h-[400px] mt-8 justify-center   items-center">
             <Image className="text-center" src={discountImage} alt="image" />
-            <h2 className="text-2xl mt-5 font-bold text-[#333333] text-center">
+            <h2 className="md:text-2xl text-[14px] mt-5 font-bold text-[#333333] text-center">
               20% off at Cheez outlets by wearing the Tee
             </h2>
           </div>
           <div className="flex flex-col max-h-[400px] justify-center   items-center">
             <Image src={benifiteImage} alt="image" />
-            <h2 className="text-2xl  mt-5  font-bold text-[#333333] text-center">
+            <h2 className="md:text-2xl text-[14px]  mt-5  font-bold text-[#333333] text-center">
               All profits from the campaign to be used for feeding the
               underprivileged
             </h2>
           </div>
           <div className="flex flex-col max-h-[400px] justify-center   items-center">
             <Image src={discountImage} alt="image" />
-            <h2 className="text-2xl  mt-5  font-bold text-[#333333] text-center">
+            <h2 className="md:text-2xl text-[14px]  mt-5  font-bold text-[#333333] text-center">
               20% coupon code for Gorur Ghash
             </h2>
           </div>
