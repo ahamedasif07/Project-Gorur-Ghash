@@ -76,7 +76,7 @@ const gorurghashXcheez = () => {
       <p className="h-[3px] bg-white"></p>
 
       {/* ---------slider part stats ---------*/}
-      <div className="flex justify-between py-5 bg-[#F7D10C] px-4">
+      <div className="flex justify-center border-2  py-5 bg-[#F7D10C] px-4">
         <div className="w-[500px]">
           <Slider slides={slidesOne}></Slider>
         </div>
@@ -101,21 +101,21 @@ const gorurghashXcheez = () => {
         <h2 className="text-5xl font-extrabold text-[#333333] text-center py-3">
           BENEFITS
         </h2>
-        <div className="grid grid-cols-3 gap-4 mx-auto">
-          <div className="flex flex-col items-center">
+        <div className="grid grid-cols-3 mt-5 gap-4 mx-auto">
+          <div className="flex flex-col max-h-[400px] mt-8 justify-center   items-center">
             <Image className="text-center" src={discountImage} alt="image" />
             <h2 className="text-2xl mt-5 font-bold text-[#333333] text-center">
               20% off at Cheez outlets by wearing the Tee
             </h2>
           </div>
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col max-h-[400px] justify-center   items-center">
             <Image src={benifiteImage} alt="image" />
             <h2 className="text-2xl  mt-5  font-bold text-[#333333] text-center">
               All profits from the campaign to be used for feeding the
               underprivileged
             </h2>
           </div>
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col max-h-[400px] justify-center   items-center">
             <Image src={discountImage} alt="image" />
             <h2 className="text-2xl  mt-5  font-bold text-[#333333] text-center">
               20% coupon code for Gorur Ghash
