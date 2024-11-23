@@ -5,7 +5,12 @@ import Slider from "@/components/Shared/slider/Slider";
 import bgImage from "../../../asstes/gorurghash-x-cheez/sliderBg image.gif";
 import discountImage from "../../../asstes/gorurghash-x-cheez/Asset-3-2.png";
 import benifiteImage from "../../../asstes/gorurghash-x-cheez/Asset-6.png";
-
+import motamotiTsirt from "../../../asstes/gorurghash-x-cheez/Layer-1-1.gif";
+export const metadata = {
+  title: "Gorur Ghash - gorurghash-x-cheez",
+  description:
+    "Welcome to the Gorur Ghash homepage where you can explore the latest fashion for men and women.",
+};
 const gorurghashXcheez = () => {
   const slidesOne = [
     {
@@ -77,7 +82,7 @@ const gorurghashXcheez = () => {
         {/* ---------video part stats ---------*/}
       </div>
       <div className="bg-[#F7D10C] py-4">
-        <div className="h-[600px] max-w-screen-lg mx-auto bg-[#F7D10C]">
+        <div className="h-[600px] px-3 max-w-screen-lg mx-auto bg-[#F7D10C]">
           <iframe
             width="100%"
             height="100%"
@@ -116,7 +121,7 @@ const gorurghashXcheez = () => {
       {/* ---------slider part end ---------*/}
       {/* mini device slider responcide starts */}
       <div className="md:hidden block">
-        <div className="flex  justify-center border-2  py-5 bg-[#F7D10C] px-4">
+        <div className="flex  gap-2 justify-center border-2  py-5 bg-[#F7D10C] px-4">
           <div className="w-1/2">
             <Slider slides={slidesOne}></Slider>
           </div>
@@ -170,6 +175,24 @@ const gorurghashXcheez = () => {
         </div>
       </div>
       {/*  big slider end*/}
+      {/* ---------motamoti fit part start---------- */}
+      <div className="flex mt-6 gap-5 px-4  md:gap-10 md:px-10 items-center">
+        <div className="w-1/2">
+          <Image src={motamotiTsirt} alt="image"></Image>
+        </div>
+        <div className="w-1/2">
+          <div className="">
+            <h2 className="md:text-5xl text-3xl font-extrabold text-[#333333] text-center py-3">
+              Motamoti Fit
+            </h2>
+            <p className="text-[12px] md:text-xl">
+              Non-Activewear by Ghash and Cheez. SUPER LIMITED EDITION drop tees
+              with the best packaging ever. Order yours before stocks run out!
+            </p>
+          </div>
+        </div>
+      </div>
+      {/* ---------motamoti fit part end---------- */}
     </div>
   );
 };
