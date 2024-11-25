@@ -3,6 +3,11 @@ import React from "react";
 import Image from "next/image";
 import headerImage from "../../../asstes/gorurghash-x-cheez/headerImage.jpg";
 import Slider from "@/components/Shared/slider/Slider";
+export const metadata = {
+  title: "Gorur Ghash - plaantik-x-gg",
+  description:
+    "Welcome to the Gorur Ghash homepage where you can explore the latest fashion for men and women.",
+};
 
 const PlmtilXGg = () => {
   const FristSlider = [
