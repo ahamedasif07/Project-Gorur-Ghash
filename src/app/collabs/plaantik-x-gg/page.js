@@ -48,12 +48,12 @@ const PlmtilXGg = () => {
       </div>
       {/* header image end */}
       {/* -------------Teamwear Reimagined start---------- */}
-      <div className=" border-2 ">
-        <div className="grid md:grid-cols-2 grid-cols-1 bg-[#0A1A16]">
-          <div>
+      <div className="">
+        <div className="grid md:grid-cols-2 md:px-[70px] px-6 grid-cols-1 bg-[#0A1A16]">
+          <div className="h-full">
             <Slider slides={FristSlider}></Slider>
           </div>
-          <div className="flex flex-col justify-center items-center">
+          <div className="flex flex-col h-full justify-center items-center">
             <h2 className="text-gray-300 text-3xl text-center py-6">
               Teamwear Reimagined
             </h2>
@@ -67,13 +67,40 @@ const PlmtilXGg = () => {
               to wear off the pitch during the first ever World Cup in recent
               memory taking place in winter.
             </p>
-            <button className="bg-slate-100 py-3 px-5 rounded-md font-semibold">
+            <button className="bg-slate-100 py-3 mt-[50px] px-5 rounded-md font-semibold">
               Buy Now
             </button>
           </div>
         </div>
       </div>
       {/* ----------Teamwear Reimagined end-------- */}
+      {/* start */}
+      <div className="bg-[#13322B]">
+        <div className="grid md:grid-cols-2 md:pt-[80px] pt-[30px] md:px-[70px] px-6 grid-cols-1 ">
+          <div className="h-full">
+            <Slider slides={FristSlider}></Slider>
+          </div>
+          <div className="flex flex-col h-full justify-center items-center">
+            <h2 className="text-gray-300 text-3xl text-center py-6">
+              Features
+            </h2>
+            <p className="text-gray-300 px-14">
+              The design is based on vintage sweatshirt patterns whilst taking
+              inspiration from the green and white colourways of Bangladesh
+              football kits. It comes with a minimal concept badge for
+              Bangladesh football featuring the national emblem of the country-
+              the water lily- and of course, the representative tiger. Perhaps,
+              the most striking element is the strip featuring wavelengths from
+              a rendition of Bangladesh nation anthem, running through the sides
+              of the sleeves.
+            </p>
+            <button className="bg-slate-100 py-3 mt-[50px] px-5 rounded-md font-semibold">
+              Buy Now
+            </button>
+          </div>
+        </div>
+      </div>
+      {/* end*/}
     </div>
   );
 };
