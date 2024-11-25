@@ -1,7 +1,7 @@
 import React from "react";
 
 import Image from "next/image";
-import headerImage from "../../../asstes/gorurghash-x-cheez/headerImage.jpg";
+import headerImage from "@/asstes/gorurghash-x-cheez/headerImage.jpg";
 import Slider from "@/components/Shared/slider/Slider";
 export const metadata = {
   title: "Gorur Ghash - plaantik-x-gg",

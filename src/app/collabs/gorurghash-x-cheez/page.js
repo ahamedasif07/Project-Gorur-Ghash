@@ -1,11 +1,11 @@
 import React from "react";
-import titleImage from "../../../asstes/gorurghash-x-cheez/titleimage.png";
+import titleImage from "@/asstes/gorurghash-x-cheez/titleimage.png";
 import Image from "next/image";
 import Slider from "@/components/Shared/slider/Slider";
-import bgImage from "../../../asstes/gorurghash-x-cheez/sliderBg image.gif";
-import discountImage from "../../../asstes/gorurghash-x-cheez/Asset-3-2.png";
-import benifiteImage from "../../../asstes/gorurghash-x-cheez/Asset-6.png";
-import motamotiTsirt from "../../../asstes/gorurghash-x-cheez/Layer-1-1.gif";
+
+import discountImage from "@/asstes/gorurghash-x-cheez/Asset-3-2.png";
+import benifiteImage from "@/asstes/gorurghash-x-cheez/Asset-6.png";
+import motamotiTsirt from "@/asstes/gorurghash-x-cheez/Layer-1-1.gif";
 export const metadata = {
   title: "Gorur Ghash - gorurghash-x-cheez",
   description:

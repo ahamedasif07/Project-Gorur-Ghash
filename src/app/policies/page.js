@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import pp from "../../asstes/gorurghash-x-cheez/pp.jpg";
-import pe from "../../asstes/gorurghash-x-cheez/pe.jpg";
-import pd from "../../asstes/gorurghash-x-cheez/pd.png";
+import pp from "@/asstes/gorurghash-x-cheez/pp.jpg";
+import pe from "@/asstes/gorurghash-x-cheez/pe.jpg";
+import pd from "@/asstes/gorurghash-x-cheez/pd.png";
 export const metadata = {
   title: "Gorur Ghash - Polices",
   description:
