@@ -9,7 +9,7 @@ export const metadata = {
 const Women = () => {
   const productCategories = [
     {
-      category: "CARDIGAN + CROP-TOP",
+      category: "CARDIGAN-CROP-TOP",
       products: 2,
       image: "https://i.ibb.co.com/RNxKJ42/605-A0586-300x300.jpg",
     },
