@@ -31,6 +31,38 @@ const PlmtilXGg = () => {
         "Marvel at the clear night sky, filled with countless stars shining bright.",
     },
   ];
+  const secoundSlider = [
+    {
+      image: "https://i.ibb.co.com/jyD4Htg/605A3197.jpg",
+      title: "Beach Sunset",
+      description:
+        "Relax by the beach and enjoy the serene sunset over the calm waves.",
+    },
+    {
+      image: "https://i.ibb.co.com/pzLT1cc/605A3241.jpg",
+      title: "Mountain Hike",
+      description:
+        "Embark on an adventurous hike and enjoy breathtaking mountain views.",
+    },
+    {
+      image: "https://i.ibb.co.com/cbhTxgb/605A3239.jpg",
+      title: "Forest Trail",
+      description:
+        "Explore the dense forest trails and connect with nature’s tranquility.",
+    },
+    {
+      image: "https://i.ibb.co.com/Yhpq5W5/605A3252.jpg",
+      title: "Starry Night",
+      description:
+        "Marvel at the clear night sky, filled with countless stars shining bright.",
+    },
+    {
+      image: "https://i.ibb.co.com/xgWd77q/605A3233.jpg",
+      title: "Starry Night",
+      description:
+        "Marvel at the clear night sky, filled with countless stars shining bright.",
+    },
+  ];
 
   return (
     <div>
@@ -74,11 +106,11 @@ const PlmtilXGg = () => {
         </div>
       </div>
       {/* ----------Teamwear Reimagined end-------- */}
-      {/* start */}
+      {/* Features start */}
       <div className="bg-[#13322B]">
-        <div className="grid md:grid-cols-2 md:pt-[80px] pt-[30px] md:px-[70px] px-6 grid-cols-1 ">
+        <div className="grid md:grid-cols-2 md:py-[80px] py-[30px] md:px-[70px] px-6 grid-cols-1 ">
           <div className="h-full">
-            <Slider slides={FristSlider}></Slider>
+            <Slider slides={secoundSlider}></Slider>
           </div>
           <div className="flex flex-col h-full justify-center items-center">
             <h2 className="text-gray-300 text-3xl text-center py-6">
@@ -100,7 +132,7 @@ const PlmtilXGg = () => {
           </div>
         </div>
       </div>
-      {/* end*/}
+      {/*Features end*/}
     </div>
   );
 };
