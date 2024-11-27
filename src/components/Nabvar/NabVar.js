@@ -158,8 +158,13 @@ const NabVar = () => {
                   </span>
                   ,000
                 </h2>
-                <span className="text-[22px]">
-                  <BsHandbag />
+                <span className="text-[22px] ">
+                  <div className=" flex">
+                    <BsHandbag />
+                    <p className="relative right-2 bottom-3  bg-red-600 rounded-full px-[4px] text-[8px] mt-2 py-[2px] text-white">
+                      1
+                    </p>
+                  </div>
                 </span>
                 <span className="text-[21px]">
                   <FaUser />
@@ -288,7 +293,7 @@ const NabVar = () => {
           className={`bg-[#FBDD02] transition-transform duration-700 ease-in-out absolute z-10 w-full py-3 ${
             isSearch ? "translate-y-0" : "-translate-y-full"
           }`}
-          style={{ top: 0 }} // Positions the search bar at the top
+          style={{ top: 0 }}
         >
           <div className="flex items-center justify-center gap-2">
             <input
