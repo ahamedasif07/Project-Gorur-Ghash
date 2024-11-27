@@ -13,6 +13,17 @@ const ProductDetails = ({ id }) => {
   const [selectedSize, setSelectedSize] = useState(null);
   const [itemQuantity, setItemQuantity] = useState(0);
   const [isHover, setIsHover] = useState(false);
+  const sizeDimensions = {
+    M: { length: 28, width: 18 },
+    L: { length: 30, width: 20 },
+    XL: { length: 32, width: 22 },
+    XXL: { length: 34, width: 24 },
+  };
+
+  // Handle click on a size
+  const handleClick = (size) => {
+    setSelectedSize(size);
+  };
 
   useEffect(() => {
     if (Array.isArray(AllProduct)) {
@@ -29,9 +40,7 @@ const ProductDetails = ({ id }) => {
   if (!productDetails) {
     return <div>Loading...</div>;
   }
-  const handleClick = (size) => {
-    setSelectedSize(size);
-  };
+
   const handleIncrees = () => {
     setItemQuantity(itemQuantity + 1);
   };
@@ -49,25 +58,21 @@ const ProductDetails = ({ id }) => {
         <div className="md:w-[49%] w-full">
           <div className="group">
             <div
-              className=""
+              className="relative overflow-hidden" // Ensures the zoom effect stays within bounds
               onMouseEnter={() => setIsHover(true)}
               onMouseLeave={() => setIsHover(false)}
             >
-              {isHover ? (
-                <Image
-                  height={500}
-                  width={500}
-                  src={productDetails.imageTwo}
-                  alt="productImage"
-                ></Image>
-              ) : (
-                <Image
-                  height={500}
-                  width={500}
-                  src={productDetails.imageOne}
-                  alt="productImage"
-                ></Image>
-              )}
+              <Image
+                height={500}
+                width={500}
+                src={
+                  isHover ? productDetails.imageTwo : productDetails.imageOne
+                }
+                alt="productImage"
+                className={`transition-transform duration-500 ${
+                  isHover ? "scale-150" : "scale-100"
+                }`} // Adds zoom effect
+              />
             </div>
           </div>
         </div>
@@ -84,18 +89,43 @@ const ProductDetails = ({ id }) => {
           </div>
           <div>
             <h2 className="text-[12px] py-2">Size</h2>
-            <div className="flex gap-2">
-              {["M", "L", "XL", "XXL"].map((size, index) => (
-                <h2
-                  key={index}
-                  className={`border-2 border-gray-700 px-3 rounded-full cursor-pointer ${
-                    selectedSize === size ? "bg-black text-white" : ""
-                  }`}
-                  onClick={() => handleClick(size)}
-                >
-                  {size}
-                </h2>
-              ))}
+            <div>
+              {/* Size selector */}
+              <div className="flex gap-2">
+                {["M", "L", "XL", "XXL"].map((size, index) => (
+                  <h2
+                    key={index}
+                    className={`border-2 border-gray-700 px-3 rounded-full cursor-pointer ${
+                      selectedSize === size ? "bg-black text-white" : ""
+                    }`}
+                    onClick={() => handleClick(size)}
+                  >
+                    {size}
+                  </h2>
+                ))}
+              </div>
+
+              {/* Display dimensions for the selected size */}
+              {selectedSize && (
+                <div className="mt-4">
+                  <h3 className="text-lg font-medium">
+                    Selected Size:{" "}
+                    <span className="font-bold">{selectedSize}</span>
+                  </h3>
+                  <p>
+                    Length:{" "}
+                    <span className="font-bold">
+                      {sizeDimensions[selectedSize].length}"
+                    </span>
+                  </p>
+                  <p>
+                    Width:{" "}
+                    <span className="font-bold">
+                      {sizeDimensions[selectedSize].width}"
+                    </span>
+                  </p>
+                </div>
+              )}
             </div>
             {/* counter incresser */}
 
