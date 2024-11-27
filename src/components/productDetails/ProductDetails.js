@@ -115,13 +115,13 @@ const ProductDetails = ({ id }) => {
                   <p>
                     Length:{" "}
                     <span className="font-bold">
-                      {sizeDimensions[selectedSize].length}"
+                      {sizeDimensions[selectedSize].length}
                     </span>
                   </p>
                   <p>
                     Width:{" "}
                     <span className="font-bold">
-                      {sizeDimensions[selectedSize].width}"
+                      {sizeDimensions[selectedSize].width}
                     </span>
                   </p>
                 </div>
