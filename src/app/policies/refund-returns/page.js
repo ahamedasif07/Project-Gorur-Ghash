@@ -3,6 +3,11 @@ import exchangePolice from "../../../asstes/gorurghash-x-cheez/ep.png";
 import retrunPolice from "../../../asstes/gorurghash-x-cheez/rp.png";
 import tilePolice from "../../../asstes/gorurghash-x-cheez/tp.png";
 import Image from "next/image";
+export const metadata = {
+  title: "Gorur Ghash - Polices | retrun-refund",
+  description:
+    "Welcome to the Gorur Ghash homepage where you can explore the latest fashion for men and women.",
+};
 
 const Return = () => {
   return (
