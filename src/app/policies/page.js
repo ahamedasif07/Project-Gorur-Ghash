@@ -3,6 +3,7 @@ import React from "react";
 import pp from "@/asstes/gorurghash-x-cheez/pp.jpg";
 import pe from "@/asstes/gorurghash-x-cheez/pe.jpg";
 import pd from "@/asstes/gorurghash-x-cheez/pd.png";
+import Link from "next/link";
 export const metadata = {
   title: "Gorur Ghash - Polices",
   description:
@@ -13,15 +14,21 @@ const Policies = () => {
   return (
     <div>
       <div className="grid grid-cols-3 gap-12 max-w-screen-lg mx-auto mt-4">
-        <div className="">
-          <Image src={pp} alt="image"></Image>
-        </div>
-        <div className="">
-          <Image src={pe} alt="image"></Image>
-        </div>
-        <div className="">
-          <Image src={pd} alt="image"></Image>
-        </div>
+        <Link href="/policies/refund-returns">
+          <div>
+            <Image src={pp} alt="image"></Image>
+          </div>
+        </Link>
+        <Link href="/policies/refund-returns">
+          <div>
+            <Image src={pe} alt="image"></Image>
+          </div>
+        </Link>
+        <Link href="/policies/refund-returns">
+          <div>
+            <Image src={pd} alt="image"></Image>
+          </div>
+        </Link>
       </div>
     </div>
   );
