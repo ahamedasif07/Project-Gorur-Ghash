@@ -13,8 +13,10 @@ import { RiMenu3Fill } from "react-icons/ri";
 import { RxCross2 } from "react-icons/rx";
 import { FaAngleDown } from "react-icons/fa6";
 import { FaChevronUp } from "react-icons/fa";
+import { useCartContext } from "../addToCartContex/AddToCartContex";
 
 const NabVar = () => {
+  const { addToCart } = useCartContext();
   const [isMenuOpen, setIsMenuOpne] = useState(false);
   const [menuItem, setMenuItem] = useState(false);
   const [isSearch, setIsSearch] = useState(false);
@@ -163,7 +165,7 @@ const NabVar = () => {
                     <div className=" flex">
                       <BsHandbag />
                       <p className="relative right-2 bottom-3  bg-red-600 rounded-full px-[4px] text-[8px] mt-2 py-[2px] text-white">
-                        1
+                        {addToCart.length}
                       </p>
                     </div>
                   </span>
