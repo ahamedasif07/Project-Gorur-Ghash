@@ -158,14 +158,16 @@ const NabVar = () => {
                   </span>
                   ,000
                 </h2>
-                <span className="text-[22px] ">
-                  <div className=" flex">
-                    <BsHandbag />
-                    <p className="relative right-2 bottom-3  bg-red-600 rounded-full px-[4px] text-[8px] mt-2 py-[2px] text-white">
-                      1
-                    </p>
-                  </div>
-                </span>
+                <Link href="/add-to-cart">
+                  <span className="text-[22px] ">
+                    <div className=" flex">
+                      <BsHandbag />
+                      <p className="relative right-2 bottom-3  bg-red-600 rounded-full px-[4px] text-[8px] mt-2 py-[2px] text-white">
+                        1
+                      </p>
+                    </div>
+                  </span>
+                </Link>
                 <span className="text-[21px]">
                   <FaUser />
                 </span>

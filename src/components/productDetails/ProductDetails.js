@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { useDataContext } from "../Shared/DataFetching/DataProvider";
 import Image from "next/image";
+import { handleAddToCart } from "../addToCart/AddToCartC";
 
 const ProductDetails = ({ id }) => {
   const allProductsObj = useDataContext();
@@ -188,7 +189,10 @@ const ProductDetails = ({ id }) => {
               </div>
             </form>
             {/* add to cart and bye */}
-            <button className="border-black w-full border-2 text-center  py-2 hover:border-4 hover:border-black text-[12px] mt-4">
+            <button
+              onClick={() => handleAddToCart(productDetails)}
+              className="border-black w-full border-2 text-center  py-2 hover:border-4 hover:border-black text-[12px] mt-4"
+            >
               Add to cart
             </button>
             <button className="border-black w-full border-2 text-center bg-black text-white py-2 hover:border-4 hover:border-black text-[12px] mt-4">
