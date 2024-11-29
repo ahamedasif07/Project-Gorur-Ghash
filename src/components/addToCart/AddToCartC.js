@@ -11,9 +11,11 @@ const AddToCart = () => {
         <h2 className="text-4xl text-center">Cart</h2>
         <p className="w-full h-[3px] my-3 bg-gray-700 "></p>
       </div>
-      <div className="py-4">
+      <div className="py-4 my-10">
         {addToCart.map((product) => (
-          <AddToCartCard key={product.id} product={product}></AddToCartCard>
+          <div key={product.id} className="py-5">
+            <AddToCartCard product={product}></AddToCartCard>
+          </div>
         ))}
       </div>
     </div>

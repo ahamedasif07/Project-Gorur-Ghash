@@ -13,8 +13,8 @@ const AddToCartCard = ({ product }) => {
   };
 
   return (
-    <div className="p-6 max-w-3xl py-22 mx-auto border rounded-lg shadow-md bg-white">
-      <div className="flex items-center justify-between">
+    <div className="p-6 max-w-3xl  mx-auto border rounded-lg shadow-md bg-white">
+      <div className="flex items-center  justify-between">
         {/* Product Image */}
         <div className="flex items-center gap-4">
           <div className="relative w-22 h-22">
