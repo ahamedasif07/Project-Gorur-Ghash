@@ -1,11 +1,16 @@
 "use client";
 
-export const handleAddToCart = ({ product }) => {
-  console.log("Product added to cart:", product);
-};
+import { useCartContext } from "../addToCartContex/AddToCartContex";
 
 const AddToCart = () => {
-  return <div>AddToCart</div>;
+  const { addToCart } = useCartContext();
+  return (
+    <div>
+      {addToCart.map((product) => (
+        <h2 key={product.id}>{product.id}</h2>
+      ))}
+    </div>
+  );
 };
 
 export default AddToCart;

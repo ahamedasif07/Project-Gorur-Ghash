@@ -3,10 +3,11 @@
 import { useEffect, useState } from "react";
 import { useDataContext } from "../Shared/DataFetching/DataProvider";
 import Image from "next/image";
-import { handleAddToCart } from "../addToCart/AddToCartC";
+import { useCartContext } from "../addToCartContex/AddToCartContex";
 
 const ProductDetails = ({ id }) => {
   const allProductsObj = useDataContext();
+  const { handleAddToCart } = useCartContext();
   const AllProduct = allProductsObj?.data; // Use optional chaining to avoid errors if data is undefined
   console.log("All Products:", allProductsObj);
 
