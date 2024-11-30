@@ -80,7 +80,7 @@ const AddToCartCard = ({ product }) => {
             <button className="text-[18px] text-gray-700 hover:text-red-500 transition-all duration-300">
               <RiDeleteBinLine />
             </button>
-            <button className="px-6 py-2 bg-yellow-400 text-white rounded-md hover:bg-yellow-500">
+            <button className="px-6 py-2 bg-yellow-400 text-white rounded-md hover:bg-yellow-600">
               Buy Now
             </button>
           </div>
