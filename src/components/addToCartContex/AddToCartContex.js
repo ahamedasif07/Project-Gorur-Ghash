@@ -1,5 +1,6 @@
 "use client";
 import { createContext, useContext, useState } from "react";
+import { showToast } from "../tost/Toast";
 
 // Create context
 const CartContext = createContext();
@@ -12,13 +13,12 @@ export const CartProvider = ({ children }) => {
     const productExist = addToCart.find((item) => item.id === product.id);
 
     if (productExist) {
-      alert("Product already exists in the cart!");
+      alert("Product Alrady Added");
     } else {
       const previousCart = [...addToCart, product];
-
       setAddToCart(previousCart);
       console.log("Product added to cart:", product);
-      alert("Product added to cart!");
+      alert("Product Add successfully");
     }
   };
   return (
