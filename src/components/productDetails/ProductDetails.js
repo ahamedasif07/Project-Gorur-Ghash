@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { useDataContext } from "../Shared/DataFetching/DataProvider";
 import Image from "next/image";
 import { useCartContext } from "../addToCartContex/AddToCartContex";
+import LoadingC from "../Loading/LoadingC";
 
 const ProductDetails = ({ id }) => {
   const allProductsObj = useDataContext();
@@ -40,7 +41,11 @@ const ProductDetails = ({ id }) => {
   }, [id, AllProduct]);
 
   if (!productDetails) {
-    return <div>Loading...</div>;
+    return (
+      <div>
+        <LoadingC />
+      </div>
+    );
   }
 
   const handleIncrees = () => {

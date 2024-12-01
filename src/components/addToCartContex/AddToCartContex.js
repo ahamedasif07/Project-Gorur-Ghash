@@ -9,10 +9,18 @@ export const CartProvider = ({ children }) => {
   const [addToCart, setAddToCart] = useState([]);
 
   const handleAddToCart = (product) => {
-    setAddToCart((prevCart) => [...prevCart, product]);
-    console.log("Product added to cart:", product);
-  };
+    const productExist = addToCart.find((item) => item.id === product.id);
 
+    if (productExist) {
+      alert("Product already exists in the cart!");
+    } else {
+      const previousCart = [...addToCart, product];
+
+      setAddToCart(previousCart);
+      console.log("Product added to cart:", product);
+      alert("Product added to cart!");
+    }
+  };
   return (
     <CartContext.Provider value={{ addToCart, handleAddToCart }}>
       {children}
