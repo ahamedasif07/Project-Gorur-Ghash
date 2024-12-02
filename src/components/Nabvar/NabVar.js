@@ -180,21 +180,33 @@ const NabVar = () => {
                   <IoSearch />
                 </span>
               </div>
-              {isMenuOpen ? (
-                <button
-                  onClick={() => setIsMenuOpne(!isMenuOpen)}
-                  className="md:hidden text-[22px] block"
-                >
-                  <RxCross2 />
-                </button>
-              ) : (
-                <button
-                  onClick={() => setIsMenuOpne(!isMenuOpen)}
-                  className="md:hidden text-[22px] block"
-                >
-                  <RiMenu3Fill />
-                </button>
-              )}
+              <div className="flex items-center gap-2">
+                <Link className="md:hidden block" href="/add-to-cart">
+                  <span className="text-[22px] ">
+                    <div className=" flex">
+                      <BsHandbag />
+                      <p className="relative right-2 bottom-3  bg-red-600 rounded-full px-[4px] text-[8px] mt-2 py-[2px] text-white">
+                        {addToCart.length}
+                      </p>
+                    </div>
+                  </span>
+                </Link>
+                {isMenuOpen ? (
+                  <button
+                    onClick={() => setIsMenuOpne(!isMenuOpen)}
+                    className="md:hidden text-[22px] block"
+                  >
+                    <RxCross2 />
+                  </button>
+                ) : (
+                  <button
+                    onClick={() => setIsMenuOpne(!isMenuOpen)}
+                    className="md:hidden text-[22px] block"
+                  >
+                    <RiMenu3Fill />
+                  </button>
+                )}
+              </div>
             </div>
             {/* Mini nav for mobile devices */}
             {isMenuOpen && (

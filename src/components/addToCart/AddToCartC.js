@@ -16,8 +16,8 @@ const AddToCart = () => {
   );
 
   return (
-    <div>
-      <div className="pt-16 max-w-screen-lg mx-auto">
+    <div className="px-4">
+      <div className="pt-16 max-w-screen-lg mx-auto px-4">
         <h2 className="text-5xl font-bold text-center">Cart</h2>
         <p className="w-full h-[3px] my-8 bg-gray-700"></p>
       </div>
@@ -26,7 +26,7 @@ const AddToCart = () => {
           addToCartLength <= 0 ? "hidden" : "block"
         }`}
       >
-        <div className="flex gap-4 justify-between">
+        <div className=" md:flex flex-col gap-4 justify-between">
           <div>
             <div className="py-4 mt-10 mb-4">
               {addToCart.map((product) => (
