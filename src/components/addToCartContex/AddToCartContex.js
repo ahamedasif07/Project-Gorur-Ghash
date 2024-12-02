@@ -1,6 +1,6 @@
-"use client";
+"use client"; // Add this line to mark the file as a Client Component
 import { createContext, useContext, useState } from "react";
-import { showToast } from "../tost/Toast";
+import Swal from "sweetalert2";
 
 // Create context
 const CartContext = createContext();
@@ -9,18 +9,26 @@ const CartContext = createContext();
 export const CartProvider = ({ children }) => {
   const [addToCart, setAddToCart] = useState([]);
 
+  const showToast = (message, icon) => {
+    Swal.fire({
+      title: message,
+      icon: icon,
+    });
+  };
+
   const handleAddToCart = (product) => {
     const productExist = addToCart.find((item) => item.id === product.id);
 
     if (productExist) {
-      alert("Product Alrady Added");
+      showToast("Product Already Added", "warning");
     } else {
       const previousCart = [...addToCart, product];
       setAddToCart(previousCart);
       console.log("Product added to cart:", product);
-      alert("Product Add successfully");
+      showToast("Product Added Successfully", "success");
     }
   };
+
   return (
     <CartContext.Provider value={{ addToCart, handleAddToCart }}>
       {children}

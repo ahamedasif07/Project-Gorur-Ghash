@@ -4,7 +4,7 @@ import { RiDeleteBinLine } from "react-icons/ri";
 
 const AddToCartCard = ({ product }) => {
   const { id, name, category, price, imageOne, imageTwo } = product;
-  const [quantity, setQuantity] = useState(2);
+  const [quantity, setQuantity] = useState(1);
   const [subtotal, setSubtotal] = useState(price * quantity);
 
   const pricePerItem = price;
