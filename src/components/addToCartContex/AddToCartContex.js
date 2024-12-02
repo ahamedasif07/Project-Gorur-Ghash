@@ -28,9 +28,17 @@ export const CartProvider = ({ children }) => {
       showToast("Product Added Successfully", "success");
     }
   };
+  // handle delete function
+  const handleDeleteFromCart = (product) => {
+    console.log(product);
+    const deletedProduct = addToCart.filter((item) => item.id !== product.id);
+    setAddToCart(deletedProduct);
+  };
 
   return (
-    <CartContext.Provider value={{ addToCart, handleAddToCart }}>
+    <CartContext.Provider
+      value={{ addToCart, handleAddToCart, handleDeleteFromCart }}
+    >
       {children}
     </CartContext.Provider>
   );

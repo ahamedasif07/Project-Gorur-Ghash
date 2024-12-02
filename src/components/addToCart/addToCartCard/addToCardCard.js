@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image"; // Importing Next.js Image component
 import { RiDeleteBinLine } from "react-icons/ri";
+import { useCartContext } from "@/components/addToCartContex/AddToCartContex";
 
 const AddToCartCard = ({ product }) => {
+  const { handleDeleteFromCart } = useCartContext();
   const { id, name, category, price, imageOne, imageTwo } = product;
   const [quantity, setQuantity] = useState(1);
   const [subtotal, setSubtotal] = useState(price * quantity);
@@ -77,7 +79,10 @@ const AddToCartCard = ({ product }) => {
             </p>
           </div>
           <div className="flex items-center gap-4">
-            <button className="text-[18px] text-gray-700 hover:text-red-500 transition-all duration-300">
+            <button
+              onClick={() => handleDeleteFromCart(product)}
+              className="text-[18px] text-gray-700 hover:text-red-500 transition-all duration-300"
+            >
               <RiDeleteBinLine />
             </button>
             <button className="px-6 py-2 bg-yellow-400 text-white rounded-md hover:bg-yellow-600">
