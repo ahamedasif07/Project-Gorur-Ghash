@@ -21,12 +21,8 @@ const AddToCart = () => {
         <h2 className="text-5xl font-bold text-center">Cart</h2>
         <p className="w-full h-[3px] my-8 bg-gray-700"></p>
       </div>
-      <div
-        className={`max-w-screen-lg mx-auto ${
-          addToCartLength <= 0 ? "hidden" : "block"
-        }`}
-      >
-        <div className=" md:flex flex-col gap-4 justify-between">
+      <div className="max-w-screen-lg mx-auto ">
+        <div className=" flex  flex-col md:flex-row gap-4 justify-between">
           <div>
             <div className="py-4 mt-10 mb-4">
               {addToCart.map((product) => (
@@ -43,7 +39,11 @@ const AddToCart = () => {
           </div>
 
           {/* total calculate  */}
-          <div className=" py-4 mt-14 mb-4">
+          <div
+            className={` py-4 mt-14 mb-4 ${
+              !addToCart || addToCart.length <= 0 ? "hidden" : "block"
+            }`}
+          >
             <div className="max-w-md mx-auto bg-white p-6 shadow-md rounded-lg border border-gray-200">
               <h2 className="text-lg font-bold text-gray-800 border-b pb-3 mb-4">
                 Cart totals
