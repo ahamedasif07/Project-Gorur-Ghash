@@ -24,17 +24,18 @@ const AddToCartCard = ({ product }) => {
   return (
     <div>
       <div className="p-6 max-w-3xl mx-auto border rounded-lg shadow-md bg-white">
-        <div className="flex items-center justify-between">
+        <div className="flex flex-col lg:flex-row items-center justify-between">
           {/* Product Image */}
-          <div className="flex items-center gap-4">
-            <div className="relative w-22 h-22">
-              <Image
-                src={imageOne}
-                height={200}
-                width={200}
-                alt={name}
-                className="rounded"
-              />
+          <div className="flex items-center gap-4 mb-4 lg:mb-0">
+            <div className="relative w-[150px] h-[150px] md:w-[300px] md:h-[300px]">
+              <div className="flex md:flex-row flex-col">
+                <Image
+                  src={imageOne}
+                  fill="cover"
+                  alt={name}
+                  className="rounded"
+                />
+              </div>
             </div>
             {/* Product Info */}
             <div>
@@ -45,7 +46,7 @@ const AddToCartCard = ({ product }) => {
             </div>
           </div>
           {/* Quantity and Actions */}
-          <div className="flex items-center gap-6">
+          <div className="flex items-center gap-6 flex-wrap lg:flex-nowrap">
             <div className="flex items-center border rounded-md">
               <button
                 className="px-3 py-1 text-gray-600 hover:bg-gray-100"
@@ -72,13 +73,13 @@ const AddToCartCard = ({ product }) => {
           </div>
         </div>
         {/* Total Price and Actions */}
-        <div className="flex justify-between items-center mt-4">
+        <div className="flex flex-col lg:flex-row justify-between items-center mt-4">
           <div>
             <p className="text-lg font-semibold text-gray-700">
               Total: ৳{subtotal.toFixed(2)}
             </p>
           </div>
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-4 mt-4 lg:mt-0">
             <button
               onClick={() => handleDeleteFromCart(product)}
               className="text-[18px] text-gray-700 hover:text-red-500 transition-all duration-300"
