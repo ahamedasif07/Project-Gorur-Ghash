@@ -14,6 +14,12 @@ import WinterWare from "../asstes/gorur-gash-home-2/winterWare.png";
 import Tees from "../asstes/gorur-gash-home-2/tees.png";
 import pents from "../asstes/gorur-gash-home-2/pents.png";
 import snooks from "../asstes/gorur-gash-home-2/snooks.png";
+import steplers from "../asstes/gorur-gash-home-2/steplers.png";
+import giftCard from "../asstes/gorur-gash-home-2/giftCard.png";
+import CoOdrSet from "../asstes/gorur-gash-home-2/co-ord.png";
+import Caps from "../asstes/gorur-gash-home-2/caps.png";
+import jewelry from "../asstes/gorur-gash-home-2/jewelry.png";
+import tops from "../asstes/gorur-gash-home-2/tops.png";
 
 import Modal from "@/components/Home/Modal";
 import MainCategoryBaner from "@/components/MainCategoryBaner/MainCategoryBaner";
@@ -53,6 +59,20 @@ export default function Home() {
         image2={pents}
       />
       <MainCategoryBaner BanerImage={snooks}></MainCategoryBaner>
+      <MainCategoryBaner BanerImage={steplers}></MainCategoryBaner>
+      <MainCategoryBaner BanerImage={giftCard}></MainCategoryBaner>
+      <Catagories
+        path1="/jackets"
+        path2="/office-wear"
+        image1={CoOdrSet}
+        image2={tops}
+      />
+      <Catagories
+        path1="/jackets"
+        path2="/office-wear"
+        image1={jewelry}
+        image2={Caps}
+      />
 
       <Delibery />
     </div>

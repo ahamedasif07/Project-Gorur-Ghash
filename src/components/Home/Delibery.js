@@ -16,7 +16,7 @@ const Delibery = () => {
     });
   }, []);
   return (
-    <div className=" pb-[20px]">
+    <div className=" pb-[20px] pt-4">
       <h2 className="text-center text-4xl italic bg-[#FCDC03] py-3 font-semibold">
         Cash on Delivery in all 64 Districts
       </h2>
