@@ -25,7 +25,7 @@ const Hero = () => {
   ];
   return (
     <div>
-      <div className="md:pt-[60px] md:px-12 px-4 max-h-[700px] mx-auto pt-[30px] ">
+      <div className="md:mt-[50px] md:px-12 px-4 max-h-[700px] mx-auto pt-[30px] ">
         <Slider slides={sliderData}></Slider>
       </div>
     </div>

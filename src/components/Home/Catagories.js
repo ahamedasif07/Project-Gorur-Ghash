@@ -17,13 +17,27 @@ const Catagories = ({ image1, image2, path1, path2 }) => {
 
   return (
     <div>
-      <div className="flex md:flex-row flex-col overflow-hidden md:max-w-screen-lg px-4 justify-center pb-[20px] mx-auto gap-5">
-        <Link href={path1} data-aos="fade-right">
-          <Image src={image1} alt="Men's Category" width={500} height={300} />
-        </Link>
-        <Link href={path2} data-aos="fade-left">
-          <Image src={image2} alt="Women's Category" width={500} height={300} />
-        </Link>
+      <div className=" flex justify-between gap-4 pt-6 px-4">
+        <div data-aos="fade-right" className="w-1/2 h-[400px] ">
+          <Link href={path1}>
+            <Image
+              src={image1}
+              alt="Men's Category"
+              fill
+              className="object-cover"
+            />
+          </Link>
+        </div>
+        <div data-aos="fade-right" className="w-1/2 h-[400px] ">
+          <Link href={path1}>
+            <Image
+              src={image1}
+              alt="Men's Category"
+              fill
+              className="object-cover"
+            />
+          </Link>
+        </div>
       </div>
     </div>
   );
