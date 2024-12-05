@@ -17,7 +17,7 @@ const Catagories = ({ image1, image2, path1, path2 }) => {
 
   return (
     <div>
-      <div className=" flex justify-between gap-4 pt-6 px-4">
+      <div className=" flex justify-between overflow-hidden gap-4 pt-6 px-4">
         <div data-aos="fade-right" className="w-1/2 h-[400px] ">
           <Link href={path1}>
             <Image
@@ -29,9 +29,9 @@ const Catagories = ({ image1, image2, path1, path2 }) => {
           </Link>
         </div>
         <div data-aos="fade-right" className="w-1/2 h-[400px] ">
-          <Link href={path1}>
+          <Link href={path2}>
             <Image
-              src={image1}
+              src={image2}
               alt="Men's Category"
               fill
               className="object-cover"

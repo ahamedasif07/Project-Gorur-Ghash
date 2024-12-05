@@ -1,14 +1,6 @@
 import Catagories from "@/components/Home/Catagories";
 import Hero from "@/components/Home/Hero";
 
-import pents from "../asstes/gorur-ghash-home/pents.png";
-import tees from "../asstes/gorur-ghash-home/2-1.png";
-import tops from "../asstes/gorur-ghash-home/6.png";
-
-import caps from "../asstes/gorur-ghash-home/10.png";
-import jewalary from "../asstes/gorur-ghash-home/jwelary.png";
-import giftCards from "../asstes/gorur-ghash-home/11.png";
-import stpeler from "../asstes/gorur-ghash-home/12.png";
 import OnSell from "@/components/Home/OnSell";
 import Delibery from "@/components/Home/Delibery";
 import menBaner from "../asstes/gorur-gash-home-2/menBaner.png";
@@ -19,6 +11,9 @@ import HalfSleevs from "../asstes/gorur-gash-home-2/halfSleevs.png";
 import FullSleevs from "../asstes/gorur-gash-home-2/FullSleevs.png";
 import officeWare from "../asstes/gorur-gash-home-2/officeWare.png";
 import WinterWare from "../asstes/gorur-gash-home-2/winterWare.png";
+import Tees from "../asstes/gorur-gash-home-2/tees.png";
+import pents from "../asstes/gorur-gash-home-2/pents.png";
+import snooks from "../asstes/gorur-gash-home-2/snooks.png";
 
 import Modal from "@/components/Home/Modal";
 import MainCategoryBaner from "@/components/MainCategoryBaner/MainCategoryBaner";
@@ -33,7 +28,7 @@ export default function Home() {
   return (
     <div>
       <Hero />
-      <Modal />
+      {/* <Modal /> */}
 
       <MainCategoryBaner BanerImage={menBaner}></MainCategoryBaner>
       <MainCategoryBaner BanerImage={WomenBaner}></MainCategoryBaner>
@@ -51,8 +46,14 @@ export default function Home() {
         image1={officeWare}
         image2={WinterWare}
       />
+      <Catagories
+        path1="/jackets"
+        path2="/office-wear"
+        image1={Tees}
+        image2={pents}
+      />
+      <MainCategoryBaner BanerImage={snooks}></MainCategoryBaner>
 
-      <OnSell />
       <Delibery />
     </div>
   );
