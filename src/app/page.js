@@ -45,7 +45,10 @@ export default function Home() {
         path="/accessories"
         BanerImage={AccesoriesBaner}
       ></MainCategoryBaner>
-      <MainCategoryBaner path="/home" BanerImage={onSell}></MainCategoryBaner>
+      <MainCategoryBaner
+        path="/on-sell"
+        BanerImage={onSell}
+      ></MainCategoryBaner>
       <Catagories
         path1="/full-sleeve"
         path2="/pants"
