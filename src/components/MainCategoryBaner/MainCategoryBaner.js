@@ -4,8 +4,9 @@ import AOS from "aos";
 import "aos/dist/aos.css"; // Import the AOS styles
 
 import React, { useEffect } from "react";
+import Link from "next/link";
 
-const MainCategoryBaner = ({ BanerImage }) => {
+const MainCategoryBaner = ({ BanerImage, path }) => {
   useEffect(() => {
     AOS.init({
       duration: 900, // Animation duration
@@ -15,9 +16,11 @@ const MainCategoryBaner = ({ BanerImage }) => {
   }, []);
   return (
     <div>
-      <div data-aos="fade-up" className={`pt-4 px-4`}>
-        <Image src={BanerImage} alt="category-Baner"></Image>
-      </div>
+      <Link href={path}>
+        <div data-aos="fade-up" className={`pt-4 px-4`}>
+          <Image src={BanerImage} alt="category-Baner"></Image>
+        </div>
+      </Link>
     </div>
   );
 };

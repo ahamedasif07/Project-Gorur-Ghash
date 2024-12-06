@@ -36,10 +36,16 @@ export default function Home() {
       <Hero />
       {/* <Modal /> */}
 
-      <MainCategoryBaner BanerImage={menBaner}></MainCategoryBaner>
-      <MainCategoryBaner BanerImage={WomenBaner}></MainCategoryBaner>
-      <MainCategoryBaner BanerImage={AccesoriesBaner}></MainCategoryBaner>
-      <MainCategoryBaner BanerImage={onSell}></MainCategoryBaner>
+      <MainCategoryBaner path="/men" BanerImage={menBaner}></MainCategoryBaner>
+      <MainCategoryBaner
+        path="/women"
+        BanerImage={WomenBaner}
+      ></MainCategoryBaner>
+      <MainCategoryBaner
+        path="/accessories"
+        BanerImage={AccesoriesBaner}
+      ></MainCategoryBaner>
+      <MainCategoryBaner path="/home" BanerImage={onSell}></MainCategoryBaner>
       <Catagories
         path1="/full-sleeve"
         path2="/pants"
@@ -58,9 +64,9 @@ export default function Home() {
         image1={Tees}
         image2={pents}
       />
-      <MainCategoryBaner BanerImage={snooks}></MainCategoryBaner>
-      <MainCategoryBaner BanerImage={steplers}></MainCategoryBaner>
-      <MainCategoryBaner BanerImage={giftCard}></MainCategoryBaner>
+      <MainCategoryBaner path="/" BanerImage={snooks}></MainCategoryBaner>
+      <MainCategoryBaner path="/" BanerImage={steplers}></MainCategoryBaner>
+      <MainCategoryBaner path="/" BanerImage={giftCard}></MainCategoryBaner>
       <Catagories
         path1="/jackets"
         path2="/office-wear"
