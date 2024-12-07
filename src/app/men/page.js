@@ -6,7 +6,7 @@ export const metadata = {
     "Welcome to the Gorur Ghash homepage where you can explore the latest fashion for men and women.",
 };
 
-const Men = () => {
+const VShirts = () => {
   const productCategories = [
     {
       category: "v-shirts",
@@ -76,4 +76,4 @@ const Men = () => {
   );
 };
 
-export default Men;
+export default VShirts;

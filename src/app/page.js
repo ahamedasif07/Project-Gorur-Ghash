@@ -50,8 +50,8 @@ export default function Home() {
         BanerImage={onSell}
       ></MainCategoryBaner>
       <Catagories
-        path1="/full-sleeve"
-        path2="/pants"
+        path1="/half-sleevs"
+        path2="/full-sleevs"
         image1={HalfSleevs}
         image2={FullSleevs}
       />
