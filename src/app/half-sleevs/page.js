@@ -35,12 +35,35 @@ const HalfSleevs = () => {
 
   return (
     <div>
-      <div className="p-4">
-        <div className="py-2 inline-block">
-          <DisplaySpecificByType category="V-Shirts"></DisplaySpecificByType>
-        </div>
-        <div className="py-2">
-          <DisplaySpecificByType category="polos"></DisplaySpecificByType>
+      <div className="md:px-10 px-4 py-6">
+        <div className="p-4">
+          <div className="">
+            <DisplaySpecificByType CategoryTitle="Polos" category="polos" />
+          </div>
+          <div className="">
+            <DisplaySpecificByType
+              CategoryTitle="V-Shirts"
+              category="V-Shirts"
+            />
+          </div>
+          <div className="">
+            <DisplaySpecificByType
+              CategoryTitle="Premium-T-Shirts "
+              category="Premium-T-Shirts"
+            />
+          </div>
+          <div className="">
+            <DisplaySpecificByType
+              category="Basic-T-Shirts"
+              CategoryTitle="Basic-T-Shirts"
+            />
+          </div>
+          <div className="">
+            <DisplaySpecificByType
+              category="Drop-Tees"
+              CategoryTitle="Drop-Tees"
+            />
+          </div>
         </div>
       </div>
     </div>
