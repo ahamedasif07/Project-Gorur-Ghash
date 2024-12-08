@@ -21,12 +21,6 @@ const FullSleevs = () => {
 
           <div className="">
             <DisplaySpecificByType
-              CategoryTitle="Office-Shirt"
-              category="Office-Shirt"
-            />
-          </div>
-          <div className="">
-            <DisplaySpecificByType
               category="Rayon Linen Blend Shirts"
               CategoryTitle="Rayon Linen Blend Shirts"
             />

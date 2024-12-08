@@ -56,8 +56,8 @@ export default function Home() {
         image2={FullSleevs}
       />
       <Catagories
-        path1="/jackets"
-        path2="/office-wear"
+        path1="/office-ware"
+        path2="/winter-ware"
         image1={officeWare}
         image2={WinterWare}
       />
