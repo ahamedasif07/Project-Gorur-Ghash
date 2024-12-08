@@ -35,7 +35,7 @@ const DisplaySpecificByType = ({ category, CategoryTitle, description }) => {
   return (
     <div>
       <h2 className="text-4xl font-bold text-gray-700 py-8">{CategoryTitle}</h2>
-      <div className="grid md:grid-cols-4 lg:grid-cols-5 grid-cols-2 gap-4 ">
+      <div className="grid md:grid-cols-4 lg:grid-cols-5 grid-cols-2 gap-6 ">
         {filtaredProducts.map((product) => (
           <ProductCard key={product.id} product={product}></ProductCard>
         ))}
