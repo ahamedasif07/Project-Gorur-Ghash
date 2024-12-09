@@ -62,7 +62,11 @@ export default function Home() {
         image2={WinterWare}
       />
       <Catagories path1="/tees" path2="/pants" image1={Tees} image2={pents} />
-      <MainCategoryBaner path="/" BanerImage={snooks}></MainCategoryBaner>
+
+      <MainCategoryBaner
+        path="/accessories/socks"
+        BanerImage={snooks}
+      ></MainCategoryBaner>
       <MainCategoryBaner path="/" BanerImage={steplers}></MainCategoryBaner>
       <MainCategoryBaner path="/" BanerImage={giftCard}></MainCategoryBaner>
       <Catagories
