@@ -70,16 +70,10 @@ export default function Home() {
       <MainCategoryBaner path="/" BanerImage={steplers}></MainCategoryBaner>
       <MainCategoryBaner path="/" BanerImage={giftCard}></MainCategoryBaner>
       <Catagories
-        path1="/tees"
-        path2="/pants"
+        path1="/women/co-ord-set"
+        path2="/women/tops"
         image1={CoOdrSet}
         image2={tops}
-      />
-      <Catagories
-        path1="/jackets"
-        path2="/office-wear"
-        image1={jewelry}
-        image2={Caps}
       />
 
       <Delibery />
