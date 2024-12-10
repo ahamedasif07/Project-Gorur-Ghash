@@ -24,6 +24,26 @@ const NabVar = () => {
   const pathname = usePathname();
 
   const isActive = (path) => pathname === path;
+  const handleOutsideClick = (event) => {
+    // Close the menu if click is outside
+    if (!event.target.closest(".menu-container")) {
+      setIsMenuOpne(false);
+    }
+  };
+  useEffect(() => {
+    if (isMenuOpen) {
+      document.addEventListener("click", handleOutsideClick);
+    } else {
+      document.removeEventListener("click", handleOutsideClick);
+    }
+
+    // Cleanup listener when component unmounts or menu closes
+    return () => document.removeEventListener("click", handleOutsideClick);
+  }, [isMenuOpen]);
+
+  const handleMenuItemClick = () => {
+    setIsMenuOpne(false); // Close the menu
+  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -217,6 +237,7 @@ const NabVar = () => {
                       isActive("/") ? "text-white " : "null"
                     }`}
                     href="/"
+                    onClick={handleMenuItemClick}
                   >
                     Home
                   </Link>
@@ -225,6 +246,7 @@ const NabVar = () => {
                       isActive("/women") ? "text-white " : ""
                     }`}
                     href="/women"
+                    onClick={handleMenuItemClick}
                   >
                     Women
                   </Link>
@@ -233,6 +255,7 @@ const NabVar = () => {
                       isActive("/men") ? "text-white " : ""
                     }`}
                     href="/men"
+                    onClick={handleMenuItemClick}
                   >
                     Men
                   </Link>
@@ -241,6 +264,7 @@ const NabVar = () => {
                       isActive("/kids") ? "text-white " : ""
                     }`}
                     href="/kids"
+                    onClick={handleMenuItemClick}
                   >
                     Kids
                   </Link>
@@ -249,6 +273,7 @@ const NabVar = () => {
                       isActive("/accessories") ? "text-white " : ""
                     }`}
                     href="/accessories"
+                    onClick={handleMenuItemClick}
                   >
                     Accessories
                   </Link>
@@ -268,11 +293,12 @@ const NabVar = () => {
                       </h2>
                     </Link>
                     {menuItem && (
-                      <ul className="absolute md:w-[250px] transition-all duration-700 ease-in-out top-[44px] left-0 bg-gray-100 text-white px-2">
+                      <ul className="absolute z-1000 md:w-[250px] transition-all duration-700 ease-in-out top-[44px] left-0 bg-gray-100 text-white px-2">
                         <li>
                           <Link
                             className="block uppercase hover:text-[#FBDD02] transition-all duration-300 ease-in-out text-[14px] font-bold px-4 py-2 text-black"
-                            href="/collabs/item1"
+                            href="/collabs/gorurghash-x-cheez"
+                            onClick={handleMenuItemClick}
                           >
                             gorurghash-x-cheez
                           </Link>
@@ -280,7 +306,8 @@ const NabVar = () => {
                         <li>
                           <Link
                             className="block uppercase transition-all duration-300 ease-in-out text-[14px] font-bold hover:text-[#FBDD02] px-4 py-2 text-black"
-                            href="/collabs/item2"
+                            href="/collabs/plaantik-x-gg"
+                            onClick={handleMenuItemClick}
                           >
                             plaantik-x-gg
                           </Link>
@@ -293,6 +320,7 @@ const NabVar = () => {
                       isActive("/policies") ? "text-white " : ""
                     }`}
                     href="/policies"
+                    onClick={handleMenuItemClick}
                   >
                     Policies
                   </Link>
