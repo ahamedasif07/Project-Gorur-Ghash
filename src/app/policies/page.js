@@ -13,7 +13,7 @@ export const metadata = {
 const Policies = () => {
   return (
     <div>
-      <div className="grid grid-cols-3 gap-12 max-w-screen-lg mx-auto mt-4">
+      <div className="grid grid-cols-3 px-4 gap-12 max-w-screen-lg mx-auto mt-4">
         <Link href="/policies/refund-returns">
           <div>
             <Image src={pp} alt="image"></Image>
