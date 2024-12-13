@@ -341,6 +341,7 @@ const NabVar = () => {
         >
           <div className="flex items-center justify-center gap-2">
             <input
+              id="input-filde"
               type="search"
               className="w-[450px] outline-none py-2  bg-transparent focus:border-b-2 focus:border-black border-b-2 border-gray-400"
               placeholder="Search"
