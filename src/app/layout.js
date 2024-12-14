@@ -4,6 +4,7 @@ import NabVar from "@/components/Nabvar/NabVar";
 import Footer from "@/components/Footer/Footer";
 import { DataProvider } from "@/components/Shared/DataFetching/DataProvider";
 import { CartProvider } from "@/components/addToCartContex/AddToCartContex";
+import { SearchProvider } from "@/components/ScarchContex/ScarchContex";
 // Import CartProvider
 
 // Import Poppins font from Google Fonts
@@ -24,11 +25,13 @@ export default function RootLayout({ children }) {
         {/* Wrap with both DataProvider and CartProvider */}
         <DataProvider>
           <CartProvider>
-            <div>
-              <NabVar />
-              {children}
-              <Footer />
-            </div>
+            <SearchProvider>
+              <div>
+                <NabVar />
+                {children}
+                <Footer />
+              </div>
+            </SearchProvider>
           </CartProvider>
         </DataProvider>
       </body>

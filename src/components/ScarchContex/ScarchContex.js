@@ -1,6 +1,5 @@
-"use client"; // Add this line to mark the file as a Client Component
+"use client"; // Mark the file as a Client Component
 import { createContext, useContext, useEffect, useState } from "react";
-import Swal from "sweetalert2";
 
 // Create context
 const SearchContext = createContext();
@@ -11,32 +10,28 @@ export const SearchProvider = ({ children }) => {
 
   // Update inputValue when the input field changes
   useEffect(() => {
-    const inputField = document.getElementById("input-filde");
-    if (inputField) {
+    const inputElement = document.getElementById("input-filde");
+
+    if (inputElement) {
       const handleInputChange = () => {
-        setInputValue(inputField.value);
+        const inputText = inputElement.value;
+        const inputFieldValue = inputText.toLowerCase().trim();
+        setInputValue(inputFieldValue);
       };
 
-      // Add event listener
-      inputField.addEventListener("input", handleInputChange);
+      inputElement.addEventListener("input", handleInputChange);
 
-      // Cleanup event listener on unmount
+      // Cleanup event listener
       return () => {
-        inputField.removeEventListener("input", handleInputChange);
+        inputElement.removeEventListener("input", handleInputChange);
       };
+    } else {
+      console.error("Element with ID 'input-filde' not found in the DOM.");
     }
   }, []);
 
-  const handleSearch = () => {
-    if (inputValue.trim() === "") {
-      Swal.fire("Please enter a search term");
-    } else {
-      Swal.fire(`Searching for: ${inputValue}`);
-    }
-  };
-
   return (
-    <SearchContext.Provider value={{ inputValue, setInputValue, handleSearch }}>
+    <SearchContext.Provider value={{ inputValue, setInputValue }}>
       {children}
     </SearchContext.Provider>
   );

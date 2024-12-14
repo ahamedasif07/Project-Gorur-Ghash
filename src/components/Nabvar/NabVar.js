@@ -14,9 +14,11 @@ import { RxCross2 } from "react-icons/rx";
 import { FaAngleDown } from "react-icons/fa6";
 import { FaChevronUp } from "react-icons/fa";
 import { useCartContext } from "../addToCartContex/AddToCartContex";
+import { useSearchContext } from "../ScarchContex/ScarchContex";
 
 const NabVar = () => {
   const { addToCart } = useCartContext();
+  const { setInputValue } = useSearchContext();
   const [isMenuOpen, setIsMenuOpne] = useState(false);
   const [menuItem, setMenuItem] = useState(false);
   const [isSearch, setIsSearch] = useState(false);
@@ -193,12 +195,13 @@ const NabVar = () => {
                 <span className="text-[21px]">
                   <FaUser />
                 </span>
-                <span
+                <Link
+                  href="/scarch"
                   onClick={() => setIsSearch(!isSearch)}
                   className="text-[22px] text-white"
                 >
                   <IoSearch />
-                </span>
+                </Link>
               </div>
               <div className="flex items-center gap-2">
                 <Link className="md:hidden block" href="/add-to-cart">
@@ -315,7 +318,7 @@ const NabVar = () => {
                       </ul>
                     )}
                   </div>
-                  <Link
+                  <div
                     className={`uppercase hover:text-white transition-all duration-300 ease-in-out text-[14px] font-bold ${
                       isActive("/policies") ? "text-white " : ""
                     }`}
@@ -323,7 +326,7 @@ const NabVar = () => {
                     onClick={handleMenuItemClick}
                   >
                     Policies
-                  </Link>
+                  </div>
                 </ul>
               </div>
             )}
@@ -343,12 +346,15 @@ const NabVar = () => {
             <input
               id="input-filde"
               type="search"
-              className="w-[450px] outline-none py-2  bg-transparent focus:border-b-2 focus:border-black border-b-2 border-gray-400"
+              className="w-[450px] px-4 opacity-100 outline-none py-2 bg-transparent focus:border-b-2 focus:border-black border-b-2 border-gray-400"
               placeholder="Search"
+              onChange={(e) =>
+                setInputValue(e.target.value.toLowerCase().trim())
+              }
             />
             <span
               className="text-[20px] text-gray-500 cursor-pointer"
-              onClick={() => setIsSearch(false)} // Close the search when clicked
+              onClick={() => setIsSearch(false)}
             >
               <RxCross2 />
             </span>
