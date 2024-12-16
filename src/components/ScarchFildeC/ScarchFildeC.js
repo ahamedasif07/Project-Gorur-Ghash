@@ -29,10 +29,15 @@ const ScarchFildeC = () => {
 
   return (
     <div>
-      <div className="grid grid-cols-4">
-        {searchItems.map((product) => (
-          <ProductCard key={product.id} product={product}></ProductCard>
-        ))}
+      <h2 className="text-2xl font-bold md:py-7 py-4 md:text-5xl text-center">
+        Scarch Hear : {inputValue}
+      </h2>
+      <div className="max-w-screen-xl mx-auto">
+        <div className="grid justify-center  md:grid-cols-4  grid-cols-2">
+          {searchItems.map((product) => (
+            <ProductCard key={product.id} product={product}></ProductCard>
+          ))}
+        </div>
       </div>
     </div>
   );
