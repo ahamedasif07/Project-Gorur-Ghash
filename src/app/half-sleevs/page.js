@@ -4,7 +4,11 @@ import Polos from "../men/polos/page";
 import VShirts from "../men/page";
 import FilterByCategory from "@/components/Shared/FilterByCategory";
 import DisplaySpecificByType from "@/components/Shared/DisplaySpecificCategory";
-
+export const metadata = {
+  title: "Gorur Ghash - Half-Sleevs",
+  description:
+    "Welcome to the Gorur Ghash homepage where you can explore the latest fashion for men and women.",
+};
 const HalfSleevs = () => {
   const clothingData = [
     {
