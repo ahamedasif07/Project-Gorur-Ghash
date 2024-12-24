@@ -27,7 +27,7 @@ const AddToCartCard = ({ product }) => {
         <div className="flex flex-col lg:flex-row items-center justify-between">
           {/* Product Image */}
           <div className="flex items-center gap-4 mb-4 lg:mb-0">
-            <div className="relative w-[150px] h-[150px] md:w-[300px] md:h-[300px]">
+            <div className="relative w-[150px] h-[150px] md:w-[150px] md:h-[150px]">
               <div className="flex md:flex-row flex-col">
                 <Image
                   src={imageOne}
