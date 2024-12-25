@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Men's Zigzag Pattern Knit Polo in Maroon",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/jRKSqTH/MNN01148-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/qRhY4Hz/MNN01129.jpg"
@@ -11,6 +12,7 @@
     "id": 2,
     "name": "Men's Zigzag Pattern Knit Polo in White",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/fMFT4Pt/PKZW-9-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/hXZtcw8/PKZW-4.jpg"
@@ -19,6 +21,7 @@
     "id": 3,
     "name": "Men's Diamond Knit Polo in Black",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/kcLj7Y0/PKDK-7-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/BqqjTFv/PKDK-4.jpg"
@@ -27,6 +30,7 @@
     "id": 4,
     "name": "Men's Multi Pattern Knit Polo in Cream",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/bzHkKjR/PKMC-7-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/phvcGpW/PKMC-1.jpg"
@@ -35,6 +39,7 @@
     "id": 5,
     "name": "Men's Multi Pattern Knit Polo in Pink",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/0j4DfgX/605-A5803-copy-1-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/MV2pF9h/605-A5812-copy-1.jpg"
@@ -43,6 +48,7 @@
     "id": 6,
     "name": "Men's Multi Pattern Knit Polo in Navy Blue",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/hVxRWhF/PKMP-3-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/tBXhTGn/PKMP-1.jpg"
@@ -51,6 +57,7 @@
     "id": 7,
     "name": "Men's Full Sleeve Stripped Knit Polo in Black",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/0j4DfgX/605-A5803-copy-1-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/MV2pF9h/605-A5812-copy-1.jpg"
@@ -59,6 +66,7 @@
     "id": 8,
     "name": "Men's Full Sleeve Stripped Knit Polo in Beige",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/GHG0sS7/605-A2344-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/JqFY8kW/605-A2334-copy.jpg"
@@ -67,6 +75,7 @@
     "id": 9,
     "name": "Men's Cable Knit Polo in Off-White",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/drGXnHy/605-A2243-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/5vJjrfK/605-A2239-copy.jpg"
@@ -75,6 +84,7 @@
     "id": 10,
     "name": "Men's Cable Knit Polo in Off-White",
     "category": "Polos",
+    "categoryType": "Polos",
     "price": 1300,
     "imageOne": "https://i.ibb.co.com/5cHcxjB/605-A6057-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/h26qkLL/605-A6059-copy.jpg"
@@ -83,6 +93,7 @@
     "id": 11,
     "name": "Men's V-Neck Shirt in Black",
     "category": "V-Shirts",
+    "categoryType": "Shirts",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/0sFKZbD/605-A8236-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/r0whrPh/605-A8218-copy.jpg"
@@ -91,6 +102,7 @@
     "id": 12,
     "name": "Men's V-Neck Shirt in White",
     "category": "V-Shirts",
+    "categoryType": "Shirts",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/FHkzdkD/605-A8210-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/T0wZqfq/605-A8193-copy.jpg"
@@ -99,6 +111,7 @@
     "id": 13,
     "name": "Men's V-Neck Shirt in Navy Blue",
     "category": "V-Shirts",
+    "categoryType": "Shirts",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/tLH91Ww/605-A8262-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/72Snx7d/605-A8242-copy.jpg"
@@ -107,30 +120,34 @@
     "id": 14,
     "name": "Men's Sweatshirts in Pink",
     "category": "Sweatshirts",
+    "categoryType": "Sweatshirts",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/jGPPCBw/605-A4265-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/vQWYMZ6/605A4257.jpg"
   },
   {
     "id": 15,
-    "name": "Men's Tank Top in whitr .",
+    "name": "Men's Tank Top in White.",
     "category": "Tank-Tops",
+    "categoryType": "T-Shirts",
     "price": 800,
     "imageOne": "https://i.ibb.co.com/xsN97Mb/605-A9259-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/0JVYWJn/605-A6067-copy.jpg"
   },
   {
     "id": 16,
-    "name": "Men's Tank Top in Black .",
+    "name": "Men's Tank Top in Black.",
     "category": "Tank-Tops",
+    "categoryType": "T-Shirts",
     "price": 850,
     "imageOne": "https://i.ibb.co.com/KGk004F/605-A8849-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/F5C81j9/605A8847.jpg"
   },
   {
     "id": 17,
-    "name": "Men's Tank Top in Gray .",
+    "name": "Men's Tank Top in Gray.",
     "category": "Tank-Tops",
+    "categoryType": "T-Shirts",
     "price": 750,
     "imageOne": "https://i.ibb.co.com/K9dGtjZ/605-A6082-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/0JVYWJn/605-A6067-copy.jpg"
@@ -140,224 +157,252 @@
     "name": "Men's Cord Shirt in Burgundy",
     "category": "Cord-Shirts",
     "price": 1200,
-    "imageOne": "https://i.ibb.co.com/wMq7PrY/605-A9250-300x300.jpghttps://i.ibb.co.com/GR1YScL/605-A8970-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/4KHXdxF/605A8975.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/wMq7PrY/605-A9250-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/GR1YScL/605-A8970-300x300.jpg"
   },
   {
     "id": 19,
     "name": "Men's Cord-shirts in Navy Blue",
-    "category": " Cord-shirts",
+    "category": "Cord-shirts",
     "price": 1300,
-    "imageOne": "https://i.ibb.co.com/7nmKWPZ/605-A8907-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/x6nfdXB/605A8894.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/7nmKWPZ/605-A8907-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/x6nfdXB/605A8894.jpg"
   },
   {
     "id": 20,
-    "name": "Men's  half-sleeve in Navy Blue",
-    "category": " half-sleeve",
+    "name": "Men's Half-sleeve in Navy Blue",
+    "category": "half-sleeve",
     "price": 1200,
-    "imageOne": "https://i.ibb.co.com/N7dj2dB/605-A8263-1-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/9TLBWPp/605-A8276-1-300x300.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/N7dj2dB/605-A8263-1-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co/com/9TLBWPp/605-A8276-1-300x300.jpg"
   },
   {
     "id": 21,
-    "name": "Men's half-sleeve in Navy Blue",
+    "name": "Men's Half-sleeve in Navy Blue",
     "category": "half-sleeve",
     "price": 800,
-    "imageOne": "https://i.ibb.co.com/pXSKz3B/605-A8188-1-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/pXSKz3B/605-A8188-1-300x300-1.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/pXSKz3B/605-A8188-1-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co/com/pXSKz3B/605-A8188-1-300x300-1.jpg"
   },
   {
     "id": 22,
     "name": "Men's Office Shirt in Light Grey",
     "category": "Office-Shirt",
     "price": 850,
-    "imageOne": "https://i.ibb.co.com/9yc5W0z/605-A7729-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/kQWpmZf/605-A8650-1.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/9yc5W0z/605-A7729-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/kQWpmZf/605-A8650-1.jpg"
   },
   {
     "id": 23,
     "name": "Men's Office Shirt in White",
     "category": "Office-Shirt",
     "price": 900,
-    "imageOne": "https://i.ibb.co.com/F8jXY7z/605-A7750-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/n704sMR/605A8681.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/F8jXY7z/605-A7750-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/n704sMR/605A8681.jpg"
   },
   {
     "id": 24,
     "name": "Men's Rayon Linen Blend Shirt in Olive",
     "category": "Rayon Linen Blend Shirts",
     "price": 950,
-    "imageOne": "https://i.ibb.co.com/XjVGgXb/605-A0037-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/6FKJ6rc/605-A0020-copy.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/XjVGgXb/605-A0037-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/6FKJ6rc/605-A0020-copy.jpg"
   },
   {
     "id": 25,
     "name": "Men's Rayon Linen Blend Shirt in Beige",
     "category": "Rayon Linen Blend Shirts",
     "price": 1000,
-    "imageOne": "https://i.ibb.co.com/19S8qY1/605-A0103-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/f1w8zCb/605-A0071-copy.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/19S8qY1/605-A0103-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/f1w8zCb/605-A0071-copy.jpg"
   },
   {
     "id": 26,
     "name": "Men's Rayon Linen Blend Shirt in Sky Blue",
     "category": "Rayon Linen Blend Shirts",
     "price": 1050,
-    "imageOne": "https://i.ibb.co.com/2gJd73J/605-A0162-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/ngjd4FW/605-A0116-copy.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/2gJd73J/605-A0162-copy-300x300-1.jpg",
+    "imageTwo": "https://i.ibb.co/com/ngjd4FW/605-A0116-copy.jpg"
   },
   {
     "id": 27,
     "name": "Men's Band-Collar Shirt in Navy Blue",
     "category": "Band-Collar",
     "price": 1150,
-    "imageOne": "https://i.ibb.co.com/MBzrqNg/605-A4732-copy-scaled.jpg",
-    "imageTwo": "https://i.ibb.co.com/jZCHMB8/605-A4730-copy-300x300.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/MBzrqNg/605-A4732-copy-scaled.jpg",
+    "imageTwo": "https://i.ibb.co/com/jZCHMB8/605-A4730-copy-300x300.jpg"
   },
   {
     "id": 28,
     "name": "Men's Band-Collar Shirt in White",
     "category": "Band-Collar",
     "price": 1250,
-    "imageOne": "https://i.ibb.co.com/Qb4rBdW/605-A4831-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/SXWvKzX/605A4836.jpg"
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/Qb4rBdW/605-A4831-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/SXWvKzX/605A4836.jpg"
   },
   {
     "id": 29,
-    "name": "Men's Band-Collar Shirt in Olive Green",
-    "category": "Band-Collar",
-    "price": 1350,
-    "imageOne": "https://i.ibb.co.com/cNSh0gc/605-A5645-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/PDp3bZs/605-A5655-copy.jpg"
+    "name": "Men's T-Shirt in Black",
+    "category": "T-Shirts",
+    "price": 450,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/gtYp9jz/605-A9427-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/MnkvQTT/605-A9403-300x300.jpg"
   },
   {
     "id": 30,
-    "name": "Men's Band-Collar Shirt in Black",
-    "category": "Band-Collar",
-    "price": 1450,
-    "imageOne": "https://i.ibb.co.com/z7V6RPB/605-A5606-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/WKfR0Q4/605-A5619-copy.jpg"
+    "name": "Men's T-Shirt in White",
+    "category": "T-Shirts",
+    "price": 400,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/k26NTJg/605-A9436-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/kfmbFLn/605-A9424-300x300.jpg"
   },
   {
     "id": 31,
-    "name": "Men's Band-Collar Shirt in Light Grey",
-    "category": "Band-Collar",
-    "price": 1100,
-    "imageOne": "https://i.ibb.co.com/thzh3tK/605-A4919-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/8NyNrVg/BAND-COLLAR-SHIRT-DIMENSIONS-300x300.jpg"
+    "name": "Men's Polo Shirt in Grey",
+    "category": "Polo-Shirts",
+    "price": 550,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/7tzmnpd/605-A8724-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/qN4v5HD/605-A8714-300x300.jpg"
   },
   {
     "id": 32,
-    "name": "Men's Button-down Shirt in Light Blue",
-    "category": "Button-down",
-    "price": 1200,
-    "imageOne": "https://i.ibb.co.com/LhQsvGB/605-A4801-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/1Jh1ctJ/605-A4782-copy.jpg"
+    "name": "Men's Polo Shirt in Navy",
+    "category": "Polo-Shirts",
+    "price": 600,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/xN7V8z2/605-A8737-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/sf0j2h1/605-A8727-300x300.jpg"
   },
   {
     "id": 33,
-    "name": "Men's Button-down Shirt in Black",
-    "category": "Button-down",
-    "price": 1300,
-    "imageOne": "https://i.ibb.co.com/C5Y30xs/3-300x300.png",
-    "imageTwo": "https://i.ibb.co.com/8zQ4JCC/605-A0992-copy.jpg"
+    "name": "Men's Printed Shirt in Blue",
+    "category": "Printed-Shirts",
+    "price": 700,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/vfHxdPH/605-A8591-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/NCwT2X9/605-A8580-300x300.jpg"
   },
   {
     "id": 34,
-    "name": "Men's Button-down Shirt in White",
-    "category": "Button-down",
-    "price": 1250,
-    "imageOne": "https://i.ibb.co.com/hCpyfT0/1-300x300.png",
-    "imageTwo": "https://i.ibb.co.com/gmrg9L8/605-A0990-copy.jpg"
+    "name": "Men's Printed Shirt in Red",
+    "category": "Printed-Shirts",
+    "price": 750,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/7rF7G7Q/605-A8586-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/fpmp9xL/605-A8575-300x300.jpg"
   },
   {
     "id": 35,
-    "name": "Men's Button-down Shirt in Olive Green",
-    "category": "Button-down",
-    "price": 1400,
-    "imageOne": "https://i.ibb.co.com/HFySHyF/605-A9991-copy-2-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/W2rK6kN/605-A9950-copy-Copy-copy.jpg"
+    "name": "Men's Casual Shirt in Green",
+    "category": "Casual-Shirts",
+    "price": 800,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/FkP0F37/605-A8657-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/WrzGLZL/605-A8648-300x300.jpg"
   },
   {
     "id": 36,
-    "name": "Men's Cuban Shirt in White",
-    "category": "Cubans",
-    "price": 1500,
-    "imageOne": "https://i.ibb.co.com/xLHKmHn/605-A0256-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/xHQ7mW3/605-A0251-copy.jpg"
+    "name": "Men's Casual Shirt in Beige",
+    "category": "Casual-Shirts",
+    "price": 850,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/NBdm5gV/605-A8671-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/Yw3y2LP/605-A8663-300x300.jpg"
   },
   {
     "id": 37,
-    "name": "Men's Cuban Shirt in Light Blue",
-    "category": "Cubans",
-    "price": 1550,
-    "imageOne": "https://i.ibb.co.com/dg0VPLg/605-A0209-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/sFPS7sb/605-A0210-copy-300x300.jpg"
+    "name": "Men's Flannel Shirt in Red",
+    "category": "Flannel-Shirts",
+    "price": 950,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/MVn5Y4Y/605-A5101-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/jZmM0W9/605-A5088-300x300.jpg"
   },
   {
     "id": 38,
-    "name": "Men's Cuban Shirt in Black",
-    "category": "Cubans",
-    "price": 1600,
-    "imageOne": "https://i.ibb.co.com/8Dw1bbK/605-A7029-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/8Dw1bbK/605-A7029-copy-300x300.jpg"
+    "name": "Men's Flannel Shirt in Blue",
+    "category": "Flannel-Shirts",
+    "price": 1000,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/XmjfK5z/605-A5114-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/6mj1d13/605-A5105-300x300.jpg"
   },
   {
     "id": 39,
-    "name": "Men's Cuban Shirt in Olive Green",
-    "category": "Cubans",
-    "price": 1450,
-    "imageOne": "https://i.ibb.co.com/5r4p6SJ/605-A2231-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/GPsfMft/605-A2235-copy.jpg"
+    "name": "Men's Dress Shirt in White",
+    "category": "Dress-Shirts",
+    "price": 1100,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/9Lk4fhP/605-A8054-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/1bQhBB7/605-A8042-300x300.jpg"
   },
   {
     "id": 40,
-    "name": "Men's Cuban Shirt in Navy Blue",
-    "category": "Cubans",
-    "price": 1650,
-    "imageOne": "https://i.ibb.co.com/wBhNgQB/605-A3749-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/h12Y2m4/605-A3748-copy.jpg"
+    "name": "Men's Dress Shirt in Black",
+    "category": "Dress-Shirts",
+    "price": 1200,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/tXLv2Mz/605-A8049-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/TpMzQq9/605-A8038-300x300.jpg"
   },
   {
     "id": 41,
-    "name": "Men's Flannel Shirt in Red and Black",
-    "category": "Flannels",
-    "price": 1700,
-    "imageOne": "https://i.ibb.co.com/Qj6Q9XP/605-A1044-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/ys7rFKj/605-A1162-copy.jpg"
+    "name": "Men's Button-down Shirt in Blue",
+    "category": "Button-Down-Shirts",
+    "price": 950,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/c7dH8fK/605-A5011-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/6V4nzQf/605-A5006-300x300.jpg"
   },
   {
     "id": 42,
-    "name": "Men's Flannel Shirt in Green and Black",
-    "category": "Flannels",
-    "price": 1750,
-    "imageOne": "https://i.ibb.co.com/Y78jrf2/605-A3965-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/RYkgMZr/605-A3944-copy.jpg"
+    "name": "Men's Button-down Shirt in White",
+    "category": "Button-Down-Shirts",
+    "price": 1000,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/qk4dWzH/605-A5002-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/9BzQXSh/605-A4996-300x300.jpg"
   },
   {
     "id": 43,
-    "name": "Men's Flannel Shirt in Blue and White",
-    "category": "Flannels",
-    "price": 1800,
-    "imageOne": "https://i.ibb.co.com/VBCQNV8/605-A5087-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/ZYfbGVm/605-A5092-copy-300x300.jpg"
+    "name": "Men's Shirt in Olive",
+    "category": "Shirts",
+    "price": 850,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/Nx0pV9B/605-A7811-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/5QZfFrw/605-A7802-300x300.jpg"
   },
   {
     "id": 44,
-    "name": "Men's Flannel Shirt in Grey and Black",
-    "category": "Flannels",
-    "price": 1850,
-    "imageOne": "https://i.ibb.co.com/fF2N5c2/Mens-Flannel-shirt-in-Light-ash-and-white-7-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/CW1m9jD/Mens-Flannel-shirt-in-Light-ash-and-white-3.jpg"
+    "name": "Men's Shirt in Charcoal",
+    "category": "Shirts",
+    "price": 900,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/Y5G99XT/605-A7763-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/5BVV28z/605-A7760-300x300.jpg"
   },
   {
     "id": 45,
-    "name": "Men's Flannel Shirt in Brown and Black",
-    "category": "Flannels",
-    "price": 1900,
-    "imageOne": "https://i.ibb.co.com/44PqzZm/Mens-flannel-shirt-in-bottle-green-and-white-5-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/qr5dfhw/605-A1957-copy-1.jpg"
+    "name": "Men's Shirt in Navy",
+    "category": "Shirts",
+    "price": 950,
+    "categoryType": "Shirts",
+    "imageOne": "https://i.ibb.co/com/ZH7FGnD/605-A7734-300x300.jpg",
+    "imageTwo": "https://i.ibb.co/com/8Vsq7zq/605-A7730-300x300.jpg"
   },
   {
     "id": 46,
@@ -365,7 +410,8 @@
     "category": "Premium-T-Shirts",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/MDnG0P3/605-A1967-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/example-image2.jpg"
+    "imageTwo": "https://i.ibb.co.com/example-image2.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 47,
@@ -373,7 +419,8 @@
     "category": "Premium-T-Shirts",
     "price": 1100,
     "imageOne": "https://i.ibb.co.com/DtmvLN7/605-A1881-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/Y06J3bX/605-A1879-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/Y06J3bX/605-A1879-copy-1.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 48,
@@ -381,7 +428,8 @@
     "category": "Premium-T-Shirts",
     "price": 1150,
     "imageOne": "https://i.ibb.co.com/D1wpqF6/605-A1842-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/K0s0Yq7/605-A1818-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/K0s0Yq7/605-A1818-copy-1.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 49,
@@ -389,7 +437,8 @@
     "category": "Premium-T-Shirts",
     "price": 1250,
     "imageOne": "https://i.ibb.co.com/Nm6ZxKs/605-A2141-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/2KKqnLh/605-A2101-copy-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/2KKqnLh/605-A2101-copy-300x300.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 50,
@@ -397,7 +446,8 @@
     "category": "Basic-T-Shirts",
     "price": 900,
     "imageOne": "https://i.ibb.co.com/6Rp4nGw/605-A2101-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/QQj4SfW/605-A2098-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/QQj4SfW/605-A2098-copy.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 51,
@@ -405,7 +455,8 @@
     "category": "Basic-T-Shirts",
     "price": 950,
     "imageOne": "https://i.ibb.co.com/BN5sSyR/605-A2009-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/2cBw9L2/605-A2008-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/2cBw9L2/605-A2008-copy.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 52,
@@ -413,7 +464,8 @@
     "category": "Drop-Tees",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/2cBw9L2/605-A2008-copy.jpghttps://i.ibb.co.com/tX6JG0f/Oversized-Drop-Shoulder-Solid-T-shirt-in-Brown-13-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/G5vrT34/Oversized-Drop-Shoulder-Solid-T-shirt-in-Brown-4.jpg"
+    "imageTwo": "https://i.ibb.co.com/G5vrT34/Oversized-Drop-Shoulder-Solid-T-shirt-in-Brown-4.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 53,
@@ -421,7 +473,8 @@
     "category": "Drop-Tees",
     "price": 1150,
     "imageOne": "https://i.ibb.co.com/6rDFXQy/Oversized-Drop-Shoulder-Solid-T-shirt-in-Dusty-Pink-6-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/cwtbF4Q/Oversized-Drop-Shoulder-Solid-T-shirt-in-Dusty-Pink-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/cwtbF4Q/Oversized-Drop-Shoulder-Solid-T-shirt-in-Dusty-Pink-1.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 54,
@@ -429,7 +482,8 @@
     "category": "Drop-Tees",
     "price": 1300,
     "imageOne": "https://i.ibb.co.com/j8pNZXf/Oversized-Drop-Shoulder-Solid-T-shirt-in-Olive-7-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/JpH8Zk8/Oversized-Drop-Shoulder-Solid-T-shirt-in-Olive-3.jpg"
+    "imageTwo": "https://i.ibb.co.com/JpH8Zk8/Oversized-Drop-Shoulder-Solid-T-shirt-in-Olive-3.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 55,
@@ -437,7 +491,8 @@
     "category": "GG-X-Plaantik",
     "price": 1300,
     "imageOne": "https://i.ibb.co.com/tCL7bpc/retro-shoot-both-web-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/FYXVfDC/Bushra-sitting-retro-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/FYXVfDC/Bushra-sitting-retro-300x300.jpg",
+    "categoryType": "T-shirts"
   },
   {
     "id": 56,
@@ -445,7 +500,8 @@
     "category": "cargo",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/Ptz0t1z/605-A0076-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/GVVgg9G/605-A0075-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/GVVgg9G/605-A0075-copy.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 57,
@@ -453,7 +509,8 @@
     "category": "cargo",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/vv94QrB/605-A0009-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/MC22cGM/605-A0008-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/MC22cGM/605-A0008-copy.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 58,
@@ -461,7 +518,8 @@
     "category": "cargo",
     "price": 1350,
     "imageOne": "https://i.ibb.co.com/Y0WcZBX/605-A5255-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/RTdgj2g/605-A5200-copy-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/RTdgj2g/605-A5200-copy-300x300.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 59,
@@ -469,7 +527,8 @@
     "category": "formal-pants",
     "price": 1450,
     "imageOne": "https://i.ibb.co.com/K55YG64/PPBM-4-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/wMGYKZh/PPBM-2.jpg"
+    "imageTwo": "https://i.ibb.co.com/wMGYKZh/PPBM-2.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 60,
@@ -477,7 +536,8 @@
     "category": "formal-pants",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/C9WL3zv/PPAM3-3-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/1sTMNYF/PPAM3-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/1sTMNYF/PPAM3-1.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 61,
@@ -485,7 +545,8 @@
     "category": "formal-pants",
     "price": 1550,
     "imageOne": "https://i.ibb.co.com/QCgW5fg/605-A8468-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/sQfWD2r/605-A8466-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/sQfWD2r/605-A8466-copy.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 62,
@@ -493,7 +554,8 @@
     "category": "gabardine-pants",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/KyCNf0H/605-A5061-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/M8MHrf1/605-A5073-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/M8MHrf1/605-A5073-copy.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 63,
@@ -501,7 +563,8 @@
     "category": "gabardine-pants",
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/NTzCzXp/MNN07919-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/DRtQmFq/605-A0973-copy-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/DRtQmFq/605-A0973-copy-300x300.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 64,
@@ -509,7 +572,8 @@
     "category": "shorts-pants",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/YkW8RRG/605-A5017-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/8zy2ZGm/605A5016.jpg"
+    "imageTwo": "https://i.ibb.co.com/8zy2ZGm/605A5016.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 65,
@@ -517,12 +581,14 @@
     "category": "shorts-pants",
     "price": 1250,
     "imageOne": "https://i.ibb.co.com/JCTKkDb/605-A5040-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/kXm89yN/605A5039.jpg"
+    "imageTwo": "https://i.ibb.co.com/kXm89yN/605A5039.jpg",
+    "categoryType": "pants"
   },
   {
     "id": 66,
     "name": "Hoodie Blanket black & white",
     "category": "Hoodie-Blanket",
+    "categoryType": "hoodie",
     "price": 1250,
     "imageOne": "https://i.ibb.co.com/JnHryV6/IMG-0635-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/3sD67j0/605-A9606-1.jpg"
@@ -539,6 +605,7 @@
     "id": 67,
     "name": "Turtleneck Sweater Yellow",
     "category": "turtleneck",
+    "categoryType": "turtelneck",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/XWp7tgF/605-A0139-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/84gVRRS/605A0149.jpg"
@@ -547,6 +614,7 @@
     "id": 68,
     "name": "Turtleneck Sweater Green",
     "category": "turtleneck",
+    "categoryType": "turtelneck",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/VqdPk3J/605-A0182-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/4Rrvyh2/605A0192.jpg"
@@ -555,6 +623,7 @@
     "id": 69,
     "name": "Turtleneck Sweater Navy",
     "category": "turtleneck",
+    "categoryType": "turtelneck",
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/1XxjrNg/605-A0345-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/nb7bjcW/605A0354.jpg"
