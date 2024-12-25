@@ -33,7 +33,7 @@ const ScarchFildeC = () => {
         Scarch Hear : {inputValue}
       </h2>
       <div className="max-w-screen-xl mx-auto">
-        <div className="grid justify-center  md:grid-cols-4  grid-cols-2">
+        <div className="grid justify-center  md:grid-cols-4  gap-6 grid-cols-2">
           {searchItems.map((product) => (
             <ProductCard key={product.id} product={product}></ProductCard>
           ))}
