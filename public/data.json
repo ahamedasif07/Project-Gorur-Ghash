@@ -632,6 +632,7 @@
     "id": 70,
     "name": "Boxy Jacket Olive",
     "category": "Boxy-Jacket",
+    "categoryType": "jackets",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/jGQvRmQ/605-A4425-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/XW5h9w9/605A4429.jpg"
@@ -640,6 +641,7 @@
     "id": 71,
     "name": "Boxy Jacket pink",
     "category": "Boxy-Jacket",
+    "categoryType": "jackets",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/rHFQ7t7/605-A8158-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/26R2Ss0/605-A8139-copy-1.jpg"
@@ -648,6 +650,7 @@
     "id": 72,
     "name": "Boxy Jacket Beige",
     "category": "Boxy-Jacket",
+    "categoryType": "jackets",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/cYwGCNf/605-A8241-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/bv0p6km/605-A8235-copy.jpg"
@@ -656,6 +659,7 @@
     "id": 73,
     "name": "Flannels Jacket white",
     "category": "Flannels-Jacket",
+    "categoryType": "jackets",
     "price": 2500,
     "imageOne": "https://i.ibb.co.com/CBjPz8V/605-A2614-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/F0cwJ0h/605A2621.jpg"
@@ -664,6 +668,7 @@
     "id": 74,
     "name": "Flannels Jacket Blue",
     "category": "Flannels-Jacket",
+    "categoryType": "jackets",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/W0Sdk5H/605-A2571-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/B63XxvS/605A2568.jpg"
@@ -672,6 +677,7 @@
     "id": 75,
     "name": "Leather Jacket Black",
     "category": "Leather-Jacket",
+    "categoryType": "jackets",
     "price": 3200,
     "imageOne": "https://i.ibb.co.com/BjyZF3t/605-A8631-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/516VYnz/605-A8635-copy-1.jpg"
@@ -680,6 +686,7 @@
     "id": 76,
     "name": "Leather Jacket Brown",
     "category": "Leather-Jacket",
+    "categoryType": "jackets",
     "price": 3100,
     "imageOne": "https://i.ibb.co.com/YPbGZd6/605-A8683-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/931MMxH/605-A8675-copy.jpg"
@@ -688,6 +695,7 @@
     "id": 77,
     "name": "Textured Jacket Cream",
     "category": "Textured-Jacket",
+    "categoryType": "jackets",
     "price": 3400,
     "imageOne": "https://i.ibb.co.com/WfsWD8f/605-A0781-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/vPRg4vN/605-A0770-copy.jpg"
@@ -696,6 +704,7 @@
     "id": 78,
     "name": "Bomber Jacket Black",
     "category": "Bomber-Jacket",
+    "categoryType": "jackets",
     "price": 3600,
     "imageOne": "https://i.ibb.co.com/kGnyhwP/605-A8605-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/ThkWnx3/605-A8604-copy.jpg"
@@ -704,6 +713,7 @@
     "id": 79,
     "name": "Bomber Jacket Olive",
     "category": "Bomber-Jacket",
+    "categoryType": "jackets",
     "price": 3700,
     "imageOne": "https://i.ibb.co.com/gzqGHTF/605-A8566-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/r70QxjM/605-A8563-copy.jpg"
@@ -712,6 +722,7 @@
     "id": 80,
     "name": "Bomber Jacket Pink",
     "category": "Bomber-Jacket",
+    "categoryType": "jackets",
     "price": 3550,
     "imageOne": "https://i.ibb.co.com/q09jQM9/605-A8442-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/SPbM6GH/605-A8438-copy.jpg"
@@ -720,6 +731,7 @@
     "id": 81,
     "name": "Bomber Jacket Red",
     "category": "Bomber-Jacket",
+    "categoryType": "jackets",
     "price": 3650,
     "imageOne": "https://i.ibb.co.com/JnVZTmP/605-A3901-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/6w71jMc/605A3892.jpg"
@@ -728,14 +740,16 @@
     "id": 82,
     "name": "Bomber Jacket Yellow",
     "category": "Bomber-Jacket",
+    "categoryType": "jackets",
     "price": 3500,
     "imageOne": "https://i.ibb.co.com/Jjw02Zr/605-A8481-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/42Ccx90/605-A8488-copy.jpgs"
+    "imageTwo": "https://i.ibb.co.com/42Ccx90/605-A8488-copy.jpg"
   },
   {
     "id": 83,
     "name": "Chore Jacket Khaki",
     "category": "Chore-Jacket",
+    "categoryType": "jackets",
     "price": 3800,
     "imageOne": "https://i.ibb.co.com/Khaki-chore-jacket-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/HHyL2z6/605-A9168-copy.jpg"
@@ -744,6 +758,7 @@
     "id": 84,
     "name": "Chore Jacket Olive",
     "category": "Chore-Jacket",
+    "categoryType": "jackets",
     "price": 3900,
     "imageOne": "https://i.ibb.co.com/R0sjZJm/605-A9281-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/pyv3Hm6/605-A9210-copy-300x300.jpg"
@@ -752,6 +767,7 @@
     "id": 85,
     "name": "Chore Jacket Blue",
     "category": "Chore-Jacket",
+    "categoryType": "jackets",
     "price": 3850,
     "imageOne": "https://i.ibb.co.com/SVg2xmq/605-A9262-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/7Gdss38/605-A9262-copy.jpg"
@@ -760,6 +776,7 @@
     "id": 86,
     "name": "Cord Jacket Pink",
     "category": "Cord-Jacket",
+    "categoryType": "jackets",
     "price": 4100,
     "imageOne": "https://i.ibb.co.com/5RVktWm/605-A9138-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/b5X0vPL/605-A9137-copy.jpg"
@@ -768,6 +785,7 @@
     "id": 87,
     "name": "Cord Jacket Meron",
     "category": "Cord-Jacket",
+    "categoryType": "jackets",
     "price": 4300,
     "imageOne": "https://i.ibb.co.com/XWn9c3F/605-A7746-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Cbym2wX/605-A7740-copy.jpg"
@@ -776,6 +794,7 @@
     "id": 88,
     "name": "Cord Jacket Beige",
     "category": "Cord-Jacket",
+    "categoryType": "jackets",
     "price": 4000,
     "imageOne": "https://i.ibb.co.com/Hptdvpy/605-A7788-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/60mqx9Q/605-A7781-copy.jpg"
@@ -784,6 +803,7 @@
     "id": 89,
     "name": "Cord Jacket Olive",
     "category": "Cord-Jacket",
+    "categoryType": "jackets",
     "price": 4200,
     "imageOne": "https://i.ibb.co.com/YbZQ4K1/605-A7969-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/MNSZ6gw/605-A7960-copy.jpg"
@@ -792,6 +812,7 @@
     "id": 90,
     "name": "Cord Jacket Brown",
     "category": "Cord-Jacket",
+    "categoryType": "jackets",
     "price": 4150,
     "imageOne": "https://i.ibb.co.com/X7pkn20/605-A7726-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/jVJqdTR/605-A7722-copy.jpg"
@@ -800,6 +821,7 @@
     "id": 91,
     "name": "Cord Jacket Purple",
     "category": "Cord-Jacket",
+    "categoryType": "jackets",
     "price": 4050,
     "imageOne": "https://i.ibb.co.com/Hptdvpy/605-A7788-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/60mqx9Q/605-A7781-copy.jpg"
@@ -808,6 +830,7 @@
     "id": 92,
     "name": "Cord Jacket Maroon",
     "category": "Cord-Jacket",
+    "categoryType": "jackets",
     "price": 4350,
     "imageOne": "https://i.ibb.co.com/P47qPjx/605-A8053-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/P9yxN3t/605-A8044-copy.jpg"
@@ -816,6 +839,7 @@
     "id": 93,
     "name": "Barringtons-jacket blue",
     "category": "harringtons-jacket",
+    "categoryType": "jackets",
     "price": 3350,
     "imageOne": "https://i.ibb.co.com/n38LPfn/605-A1455-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/tJvc11N/605-A1440-1.jpg"
@@ -824,6 +848,7 @@
     "id": 94,
     "name": "Cardigan Set - Meron",
     "category": "Cardigan + Crop Top",
+    "categoryType": "Tops",
     "price": 2800,
     "imageOne": "https://i.ibb.co.com/yBYc3Pj/605-A5020-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/yQ8kq6F/605A5014.jpg"
@@ -832,6 +857,7 @@
     "id": 95,
     "name": "Crop Top - Pink",
     "category": "Cardigan + Crop Top",
+    "categoryType": "Tops",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/jvtW1mQ/605-A5007-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/DVYQ9hv/605A4988.jpg"
@@ -840,6 +866,7 @@
     "id": 96,
     "name": "Crop Top - Blue",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/sP6gBV3/605-A6172-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/7YLH6zk/605-A6161-copy.jpg"
@@ -848,6 +875,7 @@
     "id": 97,
     "name": "Crop Top - PINK",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/y6vyfLk/605-A6340-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/bKCkFVN/605-A6352-copy-300x300.jpg"
@@ -856,6 +884,7 @@
     "id": 98,
     "name": "Crop Top - green",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2500,
     "imageOne": "https://i.ibb.co.com/kx3StkS/605-A6255-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/2yW7T73/605-A6226-copy.jpg"
@@ -864,6 +893,7 @@
     "id": 99,
     "name": "Crop Top - Red",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/VjDBTnS/GSF2-15.jpg",
     "imageTwo": "https://i.ibb.co.com/VjDBTnS/GSF2-15.jpg"
@@ -872,6 +902,7 @@
     "id": 100,
     "name": "Crop Top - Black",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/gZ7GjqB/605-A6401-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/ZNn0HDs/605-A6355-copy.jpg"
@@ -880,6 +911,7 @@
     "id": 101,
     "name": "Crop Top - White",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2200,
     "imageTwo": "https://i.ibb.co.com/M7mYtCQ/GSN2-10.jpg",
     "imageOne": "https://i.ibb.co.com/VVGjcQW/GSN2-17-300x300.jpg"
@@ -888,6 +920,7 @@
     "id": 102,
     "name": "Crop Top - Sky Blue",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2500,
     "imageOne": "https://i.ibb.co.com/8jsTvTJ/GSN-8.jpg",
     "imageTwo": "https://i.ibb.co.com/m6s1sLD/GSN-6-300x300.jpg"
@@ -896,6 +929,7 @@
     "id": 103,
     "name": "Crop Top - Pink",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/prKyqfN/GSP2-11-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/qxtYYDW/GSP2-8.jpg"
@@ -904,17 +938,20 @@
     "id": 104,
     "name": "Crop Top - Pink",
     "category": "Co-Ord-Set",
+    "categoryType": "Tops",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/S0Nnzmv/GSL-9.jpg",
     "imageTwo": "https://i.ibb.co.com/HTDzLg1/GSL-14-300x300.jpg"
   },
+
   {
     "id": 105,
     "name": "Polo Shirt - Blue",
     "category": "women-polos",
     "price": 2500,
     "imageOne": "https://i.ibb.co.com/QHyj43z/605-A5836-copy-1-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/m6vrDF5/605-A5833-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/m6vrDF5/605-A5833-copy-1.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 106,
@@ -922,7 +959,8 @@
     "category": "women-polos",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/nbpNTqD/PKZW-14-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/g9Y8nzT/PKZW-16.jpg"
+    "imageTwo": "https://i.ibb.co.com/g9Y8nzT/PKZW-16.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 107,
@@ -930,7 +968,8 @@
     "category": "women-polos",
     "price": 2600,
     "imageOne": "https://i.ibb.co.com/4ND3hj6/605-A1120-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/n78P7fQ/605-A1096-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/n78P7fQ/605-A1096-copy.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 108,
@@ -938,7 +977,8 @@
     "category": "women-polos",
     "price": 2450,
     "imageOne": "https://i.ibb.co.com/jHxysty/605-A1010-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/YjYQw9f/605-A0990-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/YjYQw9f/605-A0990-copy.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 109,
@@ -946,7 +986,8 @@
     "category": "women-polos",
     "price": 2550,
     "imageOne": "https://i.ibb.co.com/XDY7VrP/605-A1019-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/XDY7VrP/605-A1019-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/XDY7VrP/605-A1019-copy.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 110,
@@ -954,7 +995,8 @@
     "category": "women-polos",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/bN9qKJt/605-A1074-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/dgyg02X/605-A1053-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/dgyg02X/605-A1053-copy.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 111,
@@ -962,7 +1004,8 @@
     "category": "women-polos",
     "price": 2650,
     "imageOne": "https://i.ibb.co.com/z6f7Sy7/605-A2262-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/fQC4kPD/605-A2260-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/fQC4kPD/605-A2260-copy.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 112,
@@ -970,12 +1013,14 @@
     "category": "women-polos",
     "price": 2350,
     "imageOne": "https://i.ibb.co.com/1Xkfxnd/PKMC-12-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/vV6t61q/PKMC-15.jpg"
+    "imageTwo": "https://i.ibb.co.com/vV6t61q/PKMC-15.jpg",
+    "categoryType": "polos"
   },
   {
     "id": 113,
     "name": "Mini Skirt - Black",
     "category": "Skirts",
+    "categoryType": "Skirts",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/kBvH4n4/605-A6094-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/BtSLdtZ/605-A6083-copy.jpg"
@@ -984,6 +1029,7 @@
     "id": 114,
     "name": "Midi Skirt - Floral",
     "category": "Skirts",
+    "categoryType": "Skirts",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/m5PMVR6/605-A6102-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/rQ5cQV5/605-A6096-copy.jpg"
@@ -992,6 +1038,7 @@
     "id": 115,
     "name": "Pencil Skirt - Grey",
     "category": "Skirts",
+    "categoryType": "Skirts",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/Q6h2Ysn/605-A6126-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Wv9BDws/605-A6109-copy.jpg"
@@ -1000,6 +1047,7 @@
     "id": 116,
     "name": "sweatshirts - pink",
     "category": "women-sweatshirts",
+    "categoryType": "sweatshirts",
     "price": 1200,
     "imageOne": "https://i.ibb.co.com/tDxT4bw/605-A4297-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/wC250RH/605A4300.jpg"
@@ -1008,6 +1056,7 @@
     "id": 117,
     "name": "dress - white",
     "category": "dress",
+    "categoryType": "dress",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/TYMzJn1/605-A5119-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/S730jgj/605A5114.jpg"
@@ -1016,6 +1065,7 @@
     "id": 118,
     "name": "dress - blue",
     "category": "dress",
+    "categoryType": "dress",
     "price": 1350,
     "imageOne": "https://i.ibb.co.com/rvr0jcD/605-A5166-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/B4NR9bx/605-A5170-Recovered.jpg"
@@ -1024,6 +1074,7 @@
     "id": 119,
     "name": "dress - yellow",
     "category": "dress",
+    "categoryType": "dress",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/5kSNcCv/605-A5136-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/68t2nz1/605A5151.jpg"
@@ -1032,6 +1083,7 @@
     "id": 120,
     "name": "kimono - floral",
     "category": "kimono",
+    "categoryType": "kimono",
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/k1WjHVR/605-A0923-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/XSq6Q89/605A0986.jpg"
@@ -1040,6 +1092,7 @@
     "id": 121,
     "name": "kimono - blue",
     "category": "kimono",
+    "categoryType": "kimono",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/Z6dsD4F/605-A4924-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/gJ44Zb8/DSC06193-300x300.jpg"
@@ -1048,6 +1101,7 @@
     "id": 122,
     "name": "kimono - pink",
     "category": "kimono",
+    "categoryType": "kimono",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/4JtwYjs/605-A4891-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/P5mGLHt/dimensions-300x300.jpg"
@@ -1056,6 +1110,7 @@
     "id": 123,
     "name": "cord shirt - black",
     "category": "women-cord-shirts",
+    "categoryType": "shirts",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/8D8mDTX/605-A9430-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/WzKy6r4/605A9402.jpg"
@@ -1064,6 +1119,7 @@
     "id": 124,
     "name": "cord shirt - pink",
     "category": "women-cord-shirts",
+    "categoryType": "shirts",
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/njw6kLY/605-A8874-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/fG4N2yZ/605A8881.jpg"
@@ -1072,15 +1128,16 @@
     "id": 125,
     "name": "cord shirt - dusty Blue",
     "category": "women-cord-shirts",
+    "categoryType": "shirts",
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/ZxJ7rML/605-A8944-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/hfqgGSK/605-A8925-copy.jpg"
   },
-
   {
     "id": 124,
     "name": "half sleeve shirt - sky blue",
     "category": "women-half-sleeve",
+    "categoryType": "shirts",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/w7LFwwB/605-A7806-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/PG9KqDj/605-A7810-300x300.jpg"
@@ -1089,6 +1146,7 @@
     "id": 125,
     "name": "half sleeve shirt - coral pink",
     "category": "women-half-sleeve",
+    "categoryType": "shirts",
     "price": 1800,
     "imageOne": "https://i.ibb.co.com/3MbGF8n/605-A7912-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/X3dj5Kk/605-A7914-300x300.jpg"
@@ -1097,15 +1155,16 @@
     "id": 126,
     "name": "half sleeve shirt - mustard yellow",
     "category": "women-half-sleeve",
+    "categoryType": "shirts",
     "price": 1750,
     "imageOne": "https://i.ibb.co.com/ZXPGKRV/605-A7846-1-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/WWRxQMW/605-A7843-1-300x300.jpg"
   },
-
   {
     "id": 126,
     "name": "Rayon Linen Blend Shirt - white",
     "category": "women-Rayon-Linen-Blend-Shirts",
+    "categoryType": "shirts",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/qs5s48c/605-A0133-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/RyPVm2h/605-A0113-copy.jpg"
@@ -1114,6 +1173,7 @@
     "id": 127,
     "name": "Rayon Linen Blend Shirt - light beige",
     "category": "women-Rayon-Linen-Blend-Shirts",
+    "categoryType": "shirts",
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/dgfyVg8/605-A0090-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/C5bshtZ/605-A0068-copy.jpg"
@@ -1122,17 +1182,20 @@
     "id": 128,
     "name": "Rayon Linen Blend Shirt - pastel peach",
     "category": "women-Rayon-Linen-Blend-Shirts",
+    "categoryType": "shirts",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/XV8zNmY/605-A0049-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/xMfZm4b/605-A0064-copy.jpg"
   },
+
   {
     "id": 129,
     "name": "Band Collar Shirt - navy blue",
     "category": "women-band-collar",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/tBCrTNF/605-A5636-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/fx2D8Ly/605-A5627-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/fx2D8Ly/605-A5627-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 130,
@@ -1140,7 +1203,8 @@
     "category": "women-band-collar",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/r0SWhT9/605-A5673-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/DrTDRdj/605-A5674-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/DrTDRdj/605-A5674-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 131,
@@ -1148,7 +1212,8 @@
     "category": "women-band-collar",
     "price": 2250,
     "imageOne": "https://i.ibb.co.com/k9tjc0R/605-A4764-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/Yp9B2C3/605-A4749-copy-scaled.jpg"
+    "imageTwo": "https://i.ibb.co.com/Yp9B2C3/605-A4749-copy-scaled.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 132,
@@ -1156,7 +1221,8 @@
     "category": "women-band-collar",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/RDCz0Cn/605-A4880-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/Kw8wNBq/605A4895.jpg"
+    "imageTwo": "https://i.ibb.co.com/Kw8wNBq/605A4895.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 133,
@@ -1164,7 +1230,8 @@
     "category": "women-band-collar",
     "price": 2150,
     "imageOne": "https://i.ibb.co.com/9ZqJgLD/IMG-1136-Edit-1-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/9ZqJgLD/IMG-1136-Edit-1-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/9ZqJgLD/IMG-1136-Edit-1-300x300.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 134,
@@ -1172,7 +1239,8 @@
     "category": "women-button-down",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/Qp2Z3BW/DSC09603-1-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/Qp2Z3BW/DSC09603-1-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/Qp2Z3BW/DSC09603-1-300x300.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 135,
@@ -1180,7 +1248,8 @@
     "category": "women-button-down",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/HHP56Wj/2-300x300.png",
-    "imageTwo": "https://i.ibb.co.com/bb3CBrX/605-A0990-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/bb3CBrX/605-A0990-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 136,
@@ -1188,7 +1257,8 @@
     "category": "women-button-down",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/z79V1hy/605-A0188-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/M5GT4mQ/605-A0182-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/M5GT4mQ/605-A0182-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 137,
@@ -1196,7 +1266,8 @@
     "category": "women-button-down",
     "price": 2250,
     "imageOne": "https://i.ibb.co.com/7YXnWvS/4-300x300.png",
-    "imageTwo": "https://i.ibb.co.com/XkXPnkM/605-A0992-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/XkXPnkM/605-A0992-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 138,
@@ -1204,7 +1275,8 @@
     "category": "women-Cubans",
     "price": 2250,
     "imageOne": "https://i.ibb.co.com/RNDvJ59/605-A3770-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/RNDvJ59/605-A3770-copy-300x300-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/RNDvJ59/605-A3770-copy-300x300-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 139,
@@ -1212,7 +1284,8 @@
     "category": "women-Cubans",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/6DBgfpm/605-A3808-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/BCm4VHZ/605-A3806-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/BCm4VHZ/605-A3806-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 140,
@@ -1220,7 +1293,8 @@
     "category": "women-Cubans",
     "price": 2400,
     "imageOne": "https://i.ibb.co.com/G37gZSz/605-A5424-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/cL0M3yD/605-A5409-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/cL0M3yD/605-A5409-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 141,
@@ -1228,7 +1302,8 @@
     "category": "women-Cubans",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/4NvLDGW/605-A5361-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/njCsZCx/605-A5357-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/njCsZCx/605-A5357-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 142,
@@ -1236,7 +1311,8 @@
     "category": "women-Cubans",
     "price": 2450,
     "imageOne": "https://i.ibb.co.com/G72GYj7/605-A7081-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/2N1YPVz/605-A7076-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/2N1YPVz/605-A7076-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 143,
@@ -1244,7 +1320,8 @@
     "category": "women-Cubans",
     "price": 2350,
     "imageOne": "https://i.ibb.co.com/hms2trw/605-A0239-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/rcjNSPB/605-A0234-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/rcjNSPB/605-A0234-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 144,
@@ -1252,7 +1329,8 @@
     "category": "women-Cubans",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/qyYr1Tw/605-A7007-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/sFyJHPC/605-A6993-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/sFyJHPC/605-A6993-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 145,
@@ -1260,15 +1338,17 @@
     "category": "women-Cubans",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/NxTZTTq/605-A0274-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/x3SSzCy/605-A0266-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/x3SSzCy/605-A0266-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 146,
-    "name": "Cuban Shirt - ocen blue",
+    "name": "Cuban Shirt - ocean blue",
     "category": "women-Cubans",
     "price": 2150,
     "imageOne": "https://i.ibb.co.com/4S7gJX9/605-A0182-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/j458RMm/605-A0159-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/j458RMm/605-A0159-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 147,
@@ -1276,7 +1356,8 @@
     "category": "women-Cubans",
     "price": 2500,
     "imageOne": "https://i.ibb.co.com/cJQjSS2/605-A0235-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/86cDcph/605-A0229-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/86cDcph/605-A0229-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 148,
@@ -1284,7 +1365,8 @@
     "category": "women-Cubans",
     "price": 2550,
     "imageOne": "https://i.ibb.co.com/JBWFk8x/605-A1166-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/sjtXPsS/605-A1142-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/sjtXPsS/605-A1142-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 149,
@@ -1292,7 +1374,8 @@
     "category": "women-Cubans",
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/WtdTycN/605-A0106-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/cxm24Yk/605-A0093-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/cxm24Yk/605-A0093-copy-1.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 150,
@@ -1300,7 +1383,8 @@
     "category": "women-flannels",
     "price": 1800,
     "imageOne": "https://i.ibb.co.com/9T62zGc/605-A1183-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/2jnLHBq/605-A1183-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/2jnLHBq/605-A1183-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 151,
@@ -1308,7 +1392,8 @@
     "category": "women-flannels",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/nfz9hT9/605-A1129-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/5rh9mWR/605-A1138-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/5rh9mWR/605-A1138-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 152,
@@ -1316,7 +1401,8 @@
     "category": "women-flannels",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/6bqzz0R/605-A1247-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/84yPXC6/605-A1247-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/84yPXC6/605-A1247-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 153,
@@ -1324,7 +1410,8 @@
     "category": "women-flannels",
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/XXW5tbV/605-A4048-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/SKMtJ2J/605-A4035-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/SKMtJ2J/605-A4035-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 154,
@@ -1332,7 +1419,8 @@
     "category": "women-flannels",
     "price": 1750,
     "imageOne": "https://i.ibb.co.com/VThQFrd/605-A3979-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/gT2jGfP/605-A3974-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/gT2jGfP/605-A3974-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 155,
@@ -1340,7 +1428,8 @@
     "category": "women-flannels",
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/hYnmyt8/605-A4104-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/6F2zxr2/605-A4079-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/6F2zxr2/605-A4079-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 156,
@@ -1348,7 +1437,8 @@
     "category": "women-flannels",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/wcN8fYX/605-A3948-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/RYHMYpn/605-A3942-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/RYHMYpn/605-A3942-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 157,
@@ -1356,7 +1446,8 @@
     "category": "women-flannels",
     "price": 1800,
     "imageOne": "https://i.ibb.co.com/DVFXrxm/605-A4279-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/10g1mC2/605-A4261-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/10g1mC2/605-A4261-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 158,
@@ -1364,7 +1455,8 @@
     "category": "women-flannels",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/Jmqm9CL/605-A9990-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/JqFzQFy/605-A9971-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/JqFzQFy/605-A9971-copy.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 159,
@@ -1372,7 +1464,8 @@
     "category": "women-flannels",
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/17ScM5K/605-A4232-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/H4bR6Sy/605-A4237-copy-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/H4bR6Sy/605-A4237-copy-300x300.jpg",
+    "categoryType": "shirts"
   },
   {
     "id": 160,
@@ -1380,7 +1473,8 @@
     "category": "women-premium-tShirt",
     "price": 2200,
     "imageOne": "https://i.ibb.co.com/NCqm354/605-A8959-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/QF3Rj5w/605-A8960-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/QF3Rj5w/605-A8960-copy.jpg",
+    "categoryType": "t-shirts"
   },
   {
     "id": 161,
@@ -1388,7 +1482,8 @@
     "category": "women-premium-tShirt",
     "price": 2150,
     "imageOne": "https://i.ibb.co.com/LnLFR8F/605-A8972-copy-1-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/cDtSLbL/605-A8973-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/cDtSLbL/605-A8973-copy-1.jpg",
+    "categoryType": "t-shirts"
   },
   {
     "id": 162,
@@ -1396,7 +1491,8 @@
     "category": "women-premium-tShirt",
     "price": 2300,
     "imageOne": "https://i.ibb.co.com/T8MsGPq/605-A1906-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/PCKBQkm/605-A1887-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/PCKBQkm/605-A1887-copy.jpg",
+    "categoryType": "t-shirts"
   },
   {
     "id": 163,
@@ -1404,7 +1500,8 @@
     "category": "women-premium-tShirt",
     "price": 2250,
     "imageOne": "https://i.ibb.co.com/ZJ25bPQ/605-A1933-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/p3CwXvd/605-A1924-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/p3CwXvd/605-A1924-copy.jpg",
+    "categoryType": "t-shirts"
   },
   {
     "id": 164,
@@ -1412,12 +1509,14 @@
     "category": "women-premium-tShirt",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/wswZDVd/605-A1860-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/G95Wk35/605-A1850-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/G95Wk35/605-A1850-copy.jpg",
+    "categoryType": "t-shirts"
   },
   {
     "id": 165,
     "name": "Basic Tee - Black",
     "category": "basic-tees",
+    "categoryType": "t-shirts",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/xqg1PVR/605-A2082-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/3y5tgx9/605-A2076-copy.jpg"
@@ -1426,6 +1525,7 @@
     "id": 166,
     "name": "Basic Tee - White",
     "category": "basic-tees",
+    "categoryType": "t-shirts",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/PDtrQFh/605-A1972-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Nm5TBFV/605-A1968-copy.jpg"
@@ -1434,6 +1534,7 @@
     "id": 167,
     "name": "Drop Shoulder Tee - Pink",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1800,
     "imageOne": "https://i.ibb.co.com/Nm5TBFV/605-A1968-copy.jpghttps://i.ibb.co.com/xgv1LmD/Oversized-Drop-Shoulder-Solid-T-shirt-in-Dusty-Pink-12-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/gTyDN7q/Oversized-Drop-Shoulder-Solid-T-shirt-in-Dusty-Pink-8.jpg"
@@ -1442,6 +1543,7 @@
     "id": 168,
     "name": "Drop Shoulder Tee - Grey",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/pbvYnff/Oversized-Drop-Shoulder-Solid-T-shirt-in-Ash-6-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/LPjvnkv/Oversized-Drop-Shoulder-Solid-T-shirt-in-Ash-2.jpg"
@@ -1450,6 +1552,7 @@
     "id": 169,
     "name": "Drop Shoulder Tee - Lavender",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/WyPFy5B/605-A9480-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/2tdsksQ/605-A9479-300x300.jpg"
@@ -1458,6 +1561,7 @@
     "id": 170,
     "name": "Drop Shoulder Tee - Mint ",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/qMSvKwd/605-A1603-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/9Zgznv5/605-A1599-300x300.jpg"
@@ -1466,6 +1570,7 @@
     "id": 171,
     "name": "Drop Shoulder Tee - Beige",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/HrLgPsV/Oversized-Drop-Shoulder-Solid-T-shirt-in-Maroon-17-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/HrLgPsV/Oversized-Drop-Shoulder-Solid-T-shirt-in-Maroon-17-300x300.jpg"
@@ -1474,6 +1579,7 @@
     "id": 172,
     "name": "Drop Shoulder Tee - Black",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/4mtQnrK/Oversized-Drop-Shoulder-Solid-T-shirt-in-Black-9-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/cbTtyQz/Oversized-Drop-Shoulder-Solid-T-shirt-in-Black-6.jpg"
@@ -1482,6 +1588,7 @@
     "id": 173,
     "name": "Drop Shoulder Tee - Navy Blue",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1800,
     "imageTwo": "https://i.ibb.co.com/TbDCggz/Oversized-Drop-Shoulder-Solid-T-shirt-in-Navy-Blue-7.jpg",
     "imageOne": "https://i.ibb.co.com/h9nNKzd/Oversized-Drop-Shoulder-Solid-T-shirt-in-Navy-Blue-9-300x300.jpg"
@@ -1490,6 +1597,7 @@
     "id": 174,
     "name": "Drop Shoulder Tee - cream",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1750,
     "imageOne": "https://i.ibb.co.com/51XqrgL/Oversized-Drop-Shoulder-Solid-T-shirt-in-Off-white-12-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/SdNXjXQ/Oversized-Drop-Shoulder-Solid-T-shirt-in-Off-white-7.jpg"
@@ -1498,6 +1606,7 @@
     "id": 175,
     "name": "Drop Shoulder Tee - Olive Green",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/zmgNTB5/Oversized-Drop-Shoulder-Solid-T-shirt-in-Olive-2-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/d7GfFVQ/Oversized-Drop-Shoulder-Solid-T-shirt-in-Olive-9.jpg"
@@ -1506,6 +1615,7 @@
     "id": 176,
     "name": "Drop Shoulder Tee - Coral",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/bmnB2CY/605-A9434-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/mJSSx4v/605-A9419-300x300.jpg"
@@ -1514,6 +1624,7 @@
     "id": 177,
     "name": "Drop Shoulder Tee - Coral",
     "category": "women-drop-tees",
+    "categoryType": "t-shirts",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/PDK0Kf2/Oversized-Drop-Shoulder-Solid-T-shirt-in-Brown-6-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/ftfcNsF/Oversized-Drop-Shoulder-Solid-T-shirt-in-Brown-1.jpg"
@@ -1522,6 +1633,7 @@
     "id": 178,
     "name": "Classic Tank Top - Broun",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/FmTn5QX/605-A5196-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/9Hn0dx9/605-A5198-copy-300x300.jpg"
@@ -1530,6 +1642,7 @@
     "id": 179,
     "name": "Sporty Tank Top - Black",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1800,
     "imageOne": "https://i.ibb.co.com/YN3440n/605-A7798-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/D15StPr/605A7790.jpg"
@@ -1538,6 +1651,7 @@
     "id": 180,
     "name": "Slim Fit Tank Top - White",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/C5BwcQ3/605-A7788-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/TkLsBqS/605A7769.jpg"
@@ -1546,6 +1660,7 @@
     "id": 181,
     "name": "Racerback Tank Top - Olive",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1750,
     "imageOne": "https://i.ibb.co.com/cg9Wcqp/605-A5345-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/zbR7L3k/605-A5325-copy-300x300.jpg"
@@ -1554,6 +1669,7 @@
     "id": 182,
     "name": "Cotton Tank Top - Pink",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/3S1YZZ4/605-A4971-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/cQz5X3W/605-A3394-300x300.jpg"
@@ -1562,6 +1678,7 @@
     "id": 183,
     "name": "Loose Fit Tank Top - Purple",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/VtxrHc3/605-A4051-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/8c1QmJJ/605-A4124-copy-1.jpg"
@@ -1570,6 +1687,7 @@
     "id": 184,
     "name": "Casual Tank Top - Coral",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/z7cZZV0/605-A5268-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/nCDCrwN/605-A5307-copy-300x300.jpg"
@@ -1578,33 +1696,19 @@
     "id": 185,
     "name": "Graphic Tank Top - Pink",
     "category": "women-tank-top",
+    "categoryType": "t-shirts",
     "price": 1900,
-    "imageOne": "https://i.ibb.co.com/m4FXy37/605-A4046-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/vJgbMcF/605-A4038-copy.jpg"
+    "imageOne": "https://i.ibb.co.com/NnS1c7F/605-A2499-copy-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/q7F9bXw/605-A2536-copy.jpg"
   },
   {
     "id": 186,
-    "name": "Performance Tank Top - white",
+    "name": "Summer Tank Top - White",
     "category": "women-tank-top",
-    "price": 1950,
-    "imageOne": "https://i.ibb.co.com/LdsVxTD/605-A5356-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/bdwRN1c/605-A5369-copy-300x300.jpg"
-  },
-  {
-    "id": 187,
-    "name": "Cropped Tank Top - Lavender",
-    "category": "women-tank-top",
-    "price": 1750,
-    "imageOne": "https://i.ibb.co.com/Ry2WsKH/605-A4084-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/gWnb54X/605-A4067-copy.jpg"
-  },
-  {
-    "id": 188,
-    "name": "Basic Tank Top - cream",
-    "category": "women-tank-top",
-    "price": 1550,
-    "imageOne": "https://i.ibb.co.com/qx03j74/605-A4120-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/LDy5yGs/605-A4092-copy.jpg"
+    "categoryType": "t-shirts",
+    "price": 1650,
+    "imageOne": "https://i.ibb.co.com/zqx9f1G/605-A5860-300x300.jpg",
+    "imageTwo": "https://i.ibb.co.com/7PCmmgd/605-A5922-300x300.jpg"
   },
   {
     "id": 189,
