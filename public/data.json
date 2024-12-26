@@ -1714,6 +1714,7 @@
     "id": 189,
     "name": "Elegant Balloon Sleeve - black",
     "category": "women-Balloon-Sleeve",
+    "categoryType": "tops",
     "price": 1750,
     "imageOne": "https://i.ibb.co.com/5hqDVNL/605-A5070-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/PMpyW6y/605A5062.jpg"
@@ -1722,6 +1723,7 @@
     "id": 190,
     "name": "Floral Balloon Sleeve - white",
     "category": "women-Balloon-Sleeve",
+    "categoryType": "tops",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/Rz6dgJW/605-A5050-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/XXwGLjs/605A5054.jpg"
@@ -1730,6 +1732,7 @@
     "id": 191,
     "name": "Chiffon Flowy Top - Light Pink",
     "category": "flowy-top",
+    "categoryType": "tops",
     "price": 1450,
     "imageOne": "https://i.ibb.co.com/jZfPFPG/TGP2-5-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/sPQfLFh/TGP2-6.jpg"
@@ -1738,6 +1741,7 @@
     "id": 192,
     "name": "Floral Print Top - Meron",
     "category": "flowy-top",
+    "categoryType": "tops",
     "price": 1550,
     "imageOne": "https://i.ibb.co.com/k1Pp5xX/TGM-7-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/WsnzKbW/TGM-8.jpg"
@@ -1746,6 +1750,7 @@
     "id": 193,
     "name": "Boho Flowy Top - Green",
     "category": "flowy-top",
+    "categoryType": "tops",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/rmY1Y0h/TGG-9-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/RPxQSjM/TGG-8.jpg"
@@ -1754,6 +1759,7 @@
     "id": 194,
     "name": "Polka Dot Top - Black",
     "category": "flowy-top",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/c2Lzmdp/TGB2-5-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/pyxmqwc/TGB2-1.jpg"
@@ -1762,6 +1768,7 @@
     "id": 195,
     "name": "Embroidered Flowy Top - Pink",
     "category": "flowy-top",
+    "categoryType": "tops",
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/mhCjwKZ/605-A6070-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/mqXZ0Q4/605-A6053-copy.jpg"
@@ -1770,6 +1777,7 @@
     "id": 196,
     "name": "Geometric Pattern Top - Navy",
     "category": "flowy-top",
+    "categoryType": "tops",
     "price": 1580,
     "imageOne": "https://i.ibb.co.com/Y0d6kwY/605-A8817-1-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/VpBW9Lv/605A8812.jpg"
@@ -1778,6 +1786,7 @@
     "id": 197,
     "name": "Ruffled Sleeve Top - Peach",
     "category": "flowy-top",
+    "categoryType": "tops",
     "price": 1520,
     "imageOne": "https://i.ibb.co.com/9rTvwyb/605-A8747-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Z87Bn4x/605-A8758-copy.jpg"
@@ -1786,6 +1795,7 @@
     "id": 198,
     "name": "Vibrant Crop Top - Red",
     "category": "Crop-Tops",
+    "categoryType": "tops",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/v1JQGyP/605-A5020-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/kXZJsjk/605A5014.jpg"
@@ -1794,6 +1804,7 @@
     "id": 199,
     "name": "Classic Crop Top - Blue",
     "category": "Crop-Tops",
+    "categoryType": "tops",
     "price": 1350,
     "imageOne": "https://i.ibb.co.com/RN4H2Mc/605-A5007-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/p4TJJPT/605A4988.jpg"
@@ -1802,6 +1813,7 @@
     "id": 200,
     "name": "Stylish Crop Top - Gray",
     "category": "Crop-Tops",
+    "categoryType": "tops",
     "price": 1450,
     "imageOne": "https://i.ibb.co.com/XSGzjnb/DSC09852-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/MD9X4TD/DSC09946-300x300.jpg"
@@ -1810,6 +1822,7 @@
     "id": 201,
     "name": "Elegant Crop Top - Gray",
     "category": "Crop-Tops",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/St1YF2L/DSC09807-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/fvDkBD9/DSC09695-300x300.jpg"
@@ -1818,6 +1831,7 @@
     "id": 202,
     "name": "Elegant Silk Top - red",
     "category": "Silk-Top",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/rQDzjT7/Red-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/T1hj9rP/Red-3-300x300.jpg"
@@ -1826,6 +1840,7 @@
     "id": 203,
     "name": "Elegant Silk Top - Black",
     "category": "Silk-Top",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/5Ynmf5f/Black-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/5Ynmf5f/Black-300x300.jpg"
@@ -1834,6 +1849,7 @@
     "id": 204,
     "name": "Elegant Silk Top - Pink",
     "category": "Silk-Top",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/Jsgjx41/Pink-3-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Qr2m1V7/Pink-300x300.jpg"
@@ -1842,6 +1858,7 @@
     "id": 205,
     "name": "Elegant Wrap Top - Black",
     "category": "Wrap-Tops",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/bKxDPVZ/605-A6771-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/c6sMnBp/605A6804.jpg"
@@ -1850,6 +1867,7 @@
     "id": 206,
     "name": "Elegant Wrap Top - Blue",
     "category": "Wrap-Tops",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/RDhsHkK/605-A6756-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/brSv8ct/605A6754.jpg"
@@ -1858,6 +1876,7 @@
     "id": 207,
     "name": "Elegant Wrap Top - Pink",
     "category": "Wrap-Tops",
+    "categoryType": "tops",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/d0t0ff9/DSC04342-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/ZVhwD81/DSC04438-300x300.jpg"
@@ -1867,6 +1886,7 @@
     "id": 208,
     "name": "Classic Cargo Pants - Khaki",
     "category": "Women-Cargo",
+    "categoryType": "Pants",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/yWMV27X/605-A5282-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Phfq9QF/605-A0053-copy-300x300.jpg"
@@ -1875,6 +1895,7 @@
     "id": 209,
     "name": "Stylish Cargo Pants - Beige",
     "category": "Women-Cargo",
+    "categoryType": "Pants",
     "price": 1550,
     "imageOne": "https://i.ibb.co.com/7gZ5fHk/605-A6957-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/k5BfpBw/605-A6955-copy-300x300.jpg"
@@ -1883,6 +1904,7 @@
     "id": 210,
     "name": "Slim Fit Cargo - Black",
     "category": "Women-Cargo",
+    "categoryType": "Pants",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/MD3L4Rc/605-A5236-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/vq2BtB6/605-A5218-copy-300x300.jpg"
@@ -1891,6 +1913,7 @@
     "id": 211,
     "name": "High-Waist Cargo Pants - Navy",
     "category": "Women-Cargo",
+    "categoryType": "Pants",
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/TbgWp3P/605-A0192-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/z8sWzsp/605-A0189-copy.jpg"
@@ -1899,6 +1922,7 @@
     "id": 212,
     "name": "Casual Cargo - Khaki",
     "category": "Women-Cargo",
+    "categoryType": "Pants",
     "price": 1580,
     "imageOne": "https://i.ibb.co.com/m6wPLg2/605-A0005-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/StTYDg7/605-A0004-copy.jpg"
@@ -1907,6 +1931,7 @@
     "id": 213,
     "name": "Casual Corduroy - White",
     "category": "women-casual-cord-pants",
+    "categoryType": "Pants",
     "price": 1640,
     "imageOne": "https://i.ibb.co.com/6mbZGXV/DSC09224-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/2PBW8tT/DSC09304-300x300.jpg"
@@ -1915,6 +1940,7 @@
     "id": 214,
     "name": "Casual Corduroy - Black",
     "category": "women-casual-cord-pants",
+    "categoryType": "Pants",
     "price": 1720,
     "imageOne": "https://i.ibb.co.com/k0NfPXj/DSC09731-1-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/k0NfPXj/DSC09731-1-300x300.jpg"
@@ -1923,15 +1949,16 @@
     "id": 215,
     "name": "Casual Corduroy - Broun",
     "category": "women-casual-cord-pants",
+    "categoryType": "Pants",
     "price": 1690,
     "imageOne": "https://i.ibb.co.com/68JG2NT/DSC09927-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/p13cjgk/DSC09977-300x300.jpg"
   },
-
   {
     "id": 216,
     "name": "Formal Pants - Black",
     "category": "women-formal-pants",
+    "categoryType": "Pants",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/VMv0sMR/605-A3657-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/54j2JJt/605A3668.jpg"
@@ -1940,6 +1967,7 @@
     "id": 217,
     "name": "Formal Pants - Gray",
     "category": "women-formal-pants",
+    "categoryType": "Pants",
     "price": 1920,
     "imageOne": "https://i.ibb.co.com/Mn5dLtx/PPA-AS2-WEB-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/5cbkMTZ/PPA-PS1-WEB-300x300.jpg"
@@ -1948,6 +1976,7 @@
     "id": 218,
     "name": "Formal Pants - Khaki",
     "category": "women-formal-pants",
+    "categoryType": "Pants",
     "price": 1780,
     "imageOne": "https://i.ibb.co.com/ns4mB18/605-A3679-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/DtJ2fRV/605A3692.jpg"
@@ -1956,6 +1985,7 @@
     "id": 219,
     "name": "Formal Pants - Charcoal",
     "category": "women-formal-pants",
+    "categoryType": "Pants",
     "price": 1950,
     "imageOne": "https://i.ibb.co.com/ZXdVyWq/PPB-AS3-WEB-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/XVQHZwr/PPB-PS1-WEB-300x300.jpg"
@@ -1964,6 +1994,7 @@
     "id": 220,
     "name": "Turtleneck - Black",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1850,
     "imageOne": "https://i.ibb.co.com/PM077Wr/605-A0010-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/PthfFyb/605A0005.jpg"
@@ -1972,6 +2003,7 @@
     "id": 221,
     "name": "Turtleneck - White",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1750,
     "imageOne": "https://i.ibb.co.com/HCtBXPw/605-A9969-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/419JdCh/605A9955.jpg"
@@ -1980,6 +2012,7 @@
     "id": 222,
     "name": "Turtleneck - Grey",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/rG7KJV2/605-A0195-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/cTSPSTh/605A0218.jpg"
@@ -1988,6 +2021,7 @@
     "id": 223,
     "name": "Turtleneck - Navy",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1800,
     "imageOne": "https://i.ibb.co.com/dLF9JrW/605-A0324-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/NL3Y7qC/605A0331.jpg"
@@ -1996,6 +2030,7 @@
     "id": 224,
     "name": "Turtleneck - Brown",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/yVGq18g/605-A0057-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/25hS11C/605A0088.jpg"
@@ -2004,6 +2039,7 @@
     "id": 225,
     "name": "Turtleneck - Green",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/W0CtdwL/605-A0161-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/WkrnXKk/605A0177.jpg"
@@ -2012,14 +2048,16 @@
     "id": 226,
     "name": "Turtleneck - Red",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1750,
     "imageOne": "https://i.ibb.co.com/RPhjkHQ/605-A0225-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/f0bBQtq/605A0253.jpg"
   },
   {
     "id": 227,
-    "name": "Turtleneck - pink",
+    "name": "Turtleneck - Pink",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/LxTL7jC/605-A0280-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/jDGLtM6/605A0286.jpg"
@@ -2028,6 +2066,7 @@
     "id": 228,
     "name": "Turtleneck - Yellow",
     "category": "women-Turtleneck",
+    "categoryType": "Turtleneck",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/DVG545L/605-A0118-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/THx1PdK/605A0101.jpg"
@@ -2036,6 +2075,7 @@
     "id": 229,
     "name": "Hoodie - Beige",
     "category": "hoodie",
+    "categoryType": "Hoodie",
     "price": 1900,
     "imageOne": "https://i.ibb.co.com/jwZ7f7b/IMG-0635-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/THx1PdK/605A0101.jpghttps://i.ibb.co.com/3YTcPVb/605-A9606-1.jpg"
@@ -2044,6 +2084,7 @@
     "id": 230,
     "name": "Hoodie - Black",
     "category": "hoodie",
+    "categoryType": "Hoodie",
     "price": 2000,
     "imageOne": "https://i.ibb.co.com/Y4g7Hnd/Whats-App-Image-2021-01-17-at-1-29-12-PM-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/NjkpwXz/Whats-App-Image-2021-01-16-at-8-00-47-PM-300x300.jpg"
@@ -2052,13 +2093,14 @@
     "id": 231,
     "name": "Hoodie - Grey",
     "category": "hoodie",
+    "categoryType": "Hoodie",
     "price": 2100,
     "imageOne": "https://i.ibb.co.com/y5RNW4y/EKH-PS1-IG-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/mGWYgzf/Whats-App-Image-2021-01-21-at-4-26-19-PM-300x300.jpg"
   },
   {
     "id": 232,
-    "name": "Boxy Jacket - Broun",
+    "name": "Boxy Jacket - Brown",
     "category": "women-boxy-jacket",
     "price": 3200,
     "imageOne": "https://i.ibb.co.com/2cfwwpV/605-A1800-copy-300x300.jpg",
@@ -2076,6 +2118,7 @@
     "id": 234,
     "name": "Boxy Jacket - Olive",
     "category": "women-boxy-jacket",
+    "categoryType": "jackets",
     "price": 3500,
     "imageOne": "https://i.ibb.co.com/tbCm9F2/605-A1713-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/rM4smqT/605-A1707-copy.jpg"
@@ -2084,6 +2127,7 @@
     "id": 235,
     "name": "Flannels Jacket - White",
     "category": "women-flannels-jacket",
+    "categoryType": "jackets",
     "price": 3600,
     "imageOne": "https://i.ibb.co.com/XJX1ct3/605-A2590-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/gT1HyzH/605A2606.jpg"
@@ -2092,6 +2136,7 @@
     "id": 236,
     "name": "Leather Jacket - Black",
     "category": "women-leather-jacket",
+    "categoryType": "jackets",
     "price": 4500,
     "imageOne": "https://i.ibb.co.com/gT1HyzH/605A2606.jpghttps://i.ibb.co.com/Tryh7D1/605-A8664-copy-2-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/rbC6Tzz/605-A8667-copy.jpg"
@@ -2100,6 +2145,7 @@
     "id": 237,
     "name": "Leather Jacket - Brown",
     "category": "women-leather-jacket",
+    "categoryType": "jackets",
     "price": 4700,
     "imageOne": "https://i.ibb.co.com/jhmKwHx/605-A8708-copy.jpg",
     "imageTwo": "https://i.ibb.co.com/jhmKwHx/605-A8708-copy.jpg"
@@ -2108,6 +2154,7 @@
     "id": 238,
     "name": "Textured Jacket - Black",
     "category": "women-textured-jacket",
+    "categoryType": "jackets",
     "price": 4900,
     "imageOne": "https://i.ibb.co.com/4VjY7rf/605-A0817-copy-300x300-1.jpg",
     "imageTwo": "https://i.ibb.co.com/f0phrM6/605-A0807-copy.jpg"
@@ -2116,6 +2163,7 @@
     "id": 239,
     "name": "Bomber Jacket - Olive",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/Btw4khn/605-A8579-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/X5LmVwD/605-A8584-copy.jpg"
@@ -2124,6 +2172,7 @@
     "id": 240,
     "name": "Bomber Jacket - Red",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 4700,
     "imageOne": "https://i.ibb.co.com/fDr6MNM/605-A9401-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/6nkqS1K/605-A9391-copy.jpg"
@@ -2132,6 +2181,7 @@
     "id": 241,
     "name": "Bomber Jacket - Burgundy",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 4800,
     "imageOne": "https://i.ibb.co.com/5WGhFxg/605-A1036-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/37rpwbC/605A1014.jpg"
@@ -2140,6 +2190,7 @@
     "id": 242,
     "name": "Bomber Jacket - Charcoal",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 4500,
     "imageOne": "https://i.ibb.co.com/YD0Cfp4/605-A8625-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Lps5BbX/605-A9343-copy.jpg"
@@ -2148,14 +2199,16 @@
     "id": 243,
     "name": "Bomber Jacket - Black",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 5000,
     "imageOne": "https://i.ibb.co.com/DWkSyr9/605-A9354-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Lps5BbX/605-A9343-copy.jpg"
   },
   {
     "id": 244,
-    "name": "Bomber Jacket - pink",
+    "name": "Bomber Jacket - Pink",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 4800,
     "imageOne": "https://i.ibb.co.com/Dgrdxyf/605-A8464-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/TcL2gB2/605-A8474-copy.jpg"
@@ -2164,6 +2217,7 @@
     "id": 245,
     "name": "Bomber Jacket - Brown",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 4900,
     "imageOne": "https://i.ibb.co.com/NrBw6Rq/605-A8544-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/4VkCtX4/605-A8540-copy.jpg"
@@ -2172,14 +2226,16 @@
     "id": 246,
     "name": "Bomber Jacket - Yellow",
     "category": "women-bomber-jacket",
+    "categoryType": "jackets",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/f2ynv3B/605-A8506-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/Czcgfvn/605-A8509-copy.jpg"
   },
   {
     "id": 247,
-    "name": "Chore Jacket - Broun",
+    "name": "Chore Jacket - Brown",
     "category": "women-chore-jacket",
+    "categoryType": "jackets",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/FWv7vKJ/605-A9274-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/StpCStC/605-A9158-copy.jpg"
@@ -2188,6 +2244,7 @@
     "id": 248,
     "name": "Chore Jacket - Blue",
     "category": "women-chore-jacket",
+    "categoryType": "jackets",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/LCNTtrj/605-A9221-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/sRCy4yS/605-A9173-copy.jpg"
@@ -2196,6 +2253,7 @@
     "id": 249,
     "name": "Chore Jacket - Green",
     "category": "women-chore-jacket",
+    "categoryType": "jackets",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/mX6xnp1/605-A9187-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/6NCzyx7/605-A9176-copy.jpg"
@@ -2204,6 +2262,7 @@
     "id": 250,
     "name": "Cord Jacket - Purple",
     "category": "women-cord-jacket",
+    "categoryType": "jackets",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/FxWfPPq/605-A7824-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/njyFp6Z/605-A7815-copy.jpg"
@@ -2214,7 +2273,8 @@
     "category": "women-cord-jacket",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/Syg3ZyX/605-A9054-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/GkspcGS/605-A9041-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/GkspcGS/605-A9041-copy.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 252,
@@ -2222,7 +2282,8 @@
     "category": "women-cord-jacket",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/KGh4WbH/605-A8011-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/w6KVZ7n/605-A8002-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/w6KVZ7n/605-A8002-copy.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 253,
@@ -2230,7 +2291,8 @@
     "category": "women-cord-jacket",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/CsDxH3s/605-A7996-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/JtGYmLv/605-A7984-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/JtGYmLv/605-A7984-copy.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 254,
@@ -2238,7 +2300,8 @@
     "category": "women-cord-jacket",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/L9QKRy7/605-A9093-copy.jpg",
-    "imageTwo": "https://i.ibb.co.com/bXRZds9/605-A9114-copy-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/bXRZds9/605-A9114-copy-300x300.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 255,
@@ -2246,7 +2309,8 @@
     "category": "women-cord-jacket",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/NFJnqmV/605-A0997-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/G36bYNv/605A0989.jpg"
+    "imageTwo": "https://i.ibb.co.com/G36bYNv/605A0989.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 256,
@@ -2254,7 +2318,8 @@
     "category": "women-cord-jacket",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/Fw580MC/605-A7716-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/sHxCr09/605-A7706-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/sHxCr09/605-A7706-copy.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 257,
@@ -2262,7 +2327,8 @@
     "category": "women-cord-jacket",
     "price": 4600,
     "imageOne": "https://i.ibb.co.com/Vw87HQb/605-A7769-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/CtQ6t69/605-A7759-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/CtQ6t69/605-A7759-copy.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 258,
@@ -2270,7 +2336,8 @@
     "category": "kids-hoodies",
     "price": 2500,
     "imageOne": "https://i.ibb.co.com/ygrxVHn/Whats-App-Image-2021-01-21-at-4-26-19-PM-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/HdB7hMH/EKH-PS1-IG-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/HdB7hMH/EKH-PS1-IG-300x300.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 259,
@@ -2278,7 +2345,8 @@
     "category": "kids-hoodies",
     "price": 2600,
     "imageOne": "https://i.ibb.co.com/jMD5RrZ/EKP-AS2-IG-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/GcmpPtJ/Whats-App-Image-2021-01-21-at-4-26-21-PM-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/GcmpPtJ/Whats-App-Image-2021-01-21-at-4-26-21-PM-300x300.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 261,
@@ -2286,7 +2354,8 @@
     "category": "kids-jackets",
     "price": 3000,
     "imageOne": "https://i.ibb.co.com/9wMysZG/Whats-App-Image-2021-01-16-at-8-00-15-PM-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/h1HfF2m/Whats-App-Image-2021-01-17-at-1-30-03-PM-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/h1HfF2m/Whats-App-Image-2021-01-17-at-1-30-03-PM-300x300.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 262,
@@ -2294,7 +2363,8 @@
     "category": "kids-jackets",
     "price": 3200,
     "imageOne": "https://i.ibb.co.com/PNSBKMS/Whats-App-Image-2021-01-17-at-1-29-12-PM-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/JFX2QgQ/Whats-App-Image-2021-01-16-at-8-00-47-PM-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/JFX2QgQ/Whats-App-Image-2021-01-16-at-8-00-47-PM-300x300.jpg",
+    "categoryType": "jackets"
   },
   {
     "id": 263,
@@ -2318,7 +2388,8 @@
     "category": "baseball-cap",
     "price": 1500,
     "imageOne": "https://i.ibb.co.com/7Cp0Cv9/605-A9719-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/BfQYMMz/605-A9713-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/BfQYMMz/605-A9713-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 266,
@@ -2326,7 +2397,8 @@
     "category": "baseball-cap",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/M6dfS83/605-A9744-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/M7j5ccP/605-A9732-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/M7j5ccP/605-A9732-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 267,
@@ -2334,7 +2406,8 @@
     "category": "baseball-cap",
     "price": 1550,
     "imageOne": "https://i.ibb.co.com/smYF6JL/605-A9636-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/qmTPQtW/605-A9670-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/qmTPQtW/605-A9670-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 268,
@@ -2342,7 +2415,8 @@
     "category": "baseball-cap",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/B2vrfwB/605-A9774-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/PGCtyMv/605-A9761-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/PGCtyMv/605-A9761-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 269,
@@ -2350,7 +2424,8 @@
     "category": "baseball-cap",
     "price": 1400,
     "imageOne": "https://i.ibb.co.com/YPGckRB/605-A9810-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/8PcgRPp/605-A9796-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/8PcgRPp/605-A9796-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 270,
@@ -2358,7 +2433,8 @@
     "category": "baseball-cap",
     "price": 1450,
     "imageOne": "https://i.ibb.co.com/sgLL2zG/605-A9731-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/HNJDzcY/605-A9728-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/HNJDzcY/605-A9728-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 271,
@@ -2366,7 +2442,8 @@
     "category": "bucket-hats",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/cvSz4rd/605-A9675-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/hgv0kyp/605-A9697-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/hgv0kyp/605-A9697-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 272,
@@ -2374,7 +2451,8 @@
     "category": "docker-caps",
     "price": 1550,
     "imageOne": "https://i.ibb.co.com/HhGwQLb/605-A9641-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/4K6yjKY/605-A9656-1-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/4K6yjKY/605-A9656-1-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 273,
@@ -2382,7 +2460,8 @@
     "category": "military-caps",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/qWdkjGP/605-A9782-copy-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/R3N6ctD/605-A9777-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/R3N6ctD/605-A9777-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 274,
@@ -2390,16 +2469,17 @@
     "category": "news-boy-hat",
     "price": 1650,
     "imageOne": "https://i.ibb.co.com/J2Y94fB/605-A1217-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/BfFH4c9/605-A1218-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/BfFH4c9/605-A1218-copy.jpg",
+    "categoryType": "accessories"
   },
-
   {
     "id": 275,
     "name": "Men Bracelet - Black Leather",
     "category": "men-bracelet",
     "price": 1250,
     "imageOne": "https://i.ibb.co.com/gMSffDV/605-A9611-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/vjmv8FH/605A9608.jpg"
+    "imageTwo": "https://i.ibb.co.com/vjmv8FH/605A9608.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 276,
@@ -2407,7 +2487,8 @@
     "category": "men-bracelet",
     "price": 1350,
     "imageOne": "https://i.ibb.co.com/q1QNknc/605A9616.jpg",
-    "imageTwo": "https://i.ibb.co.com/VqLpCsL/605-A0344-2-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/VqLpCsL/605-A0344-2-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 277,
@@ -2415,7 +2496,8 @@
     "category": "men-bracelet",
     "price": 1150,
     "imageOne": "https://i.ibb.co.com/fpKTgx9/605-A9603-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/fpKTgx9/605-A9603-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/fpKTgx9/605-A9603-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 278,
@@ -2423,7 +2505,8 @@
     "category": "men-chain",
     "price": 1800,
     "imageOne": "https://i.ibb.co.com/gmCb5wx/605-A9521-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/5Khjp7g/605-A0387-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/5Khjp7g/605-A0387-1.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 279,
@@ -2431,7 +2514,8 @@
     "category": "men-chain",
     "price": 1600,
     "imageOne": "https://i.ibb.co.com/9Yp2sF5/605-A9520-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/vLN9YqS/605A0510.jpg"
+    "imageTwo": "https://i.ibb.co.com/vLN9YqS/605A0510.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 280,
@@ -2439,7 +2523,8 @@
     "category": "men-chain",
     "price": 1700,
     "imageOne": "https://i.ibb.co.com/P59bp7L/605-A9506-300x300-1.jpg",
-    "imageTwo": "https://i.ibb.co.com/TMyKsmX/605-A0380-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/TMyKsmX/605-A0380-1.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 281,
@@ -2447,7 +2532,8 @@
     "category": "socks",
     "price": 200,
     "imageOne": "https://i.ibb.co.com/rHfDjjR/4-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/3YM1dqB/21-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/3YM1dqB/21-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 282,
@@ -2455,7 +2541,8 @@
     "category": "socks",
     "price": 150,
     "imageOne": "https://i.ibb.co.com/Gp9Jn71/1-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/7ShfWWb/605A0389.jpg"
+    "imageTwo": "https://i.ibb.co.com/7ShfWWb/605A0389.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 283,
@@ -2463,7 +2550,8 @@
     "category": "socks",
     "price": 250,
     "imageOne": "https://i.ibb.co.com/bB5tTSF/605-A0444-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/VjchhYP/605A0381.jpg"
+    "imageTwo": "https://i.ibb.co.com/VjchhYP/605A0381.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 284,
@@ -2471,7 +2559,8 @@
     "category": "socks",
     "price": 180,
     "imageOne": "https://i.ibb.co.com/9rFg6L1/605-A0467-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/rvPFwb7/605A0393.jpg"
+    "imageTwo": "https://i.ibb.co.com/rvPFwb7/605A0393.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 285,
@@ -2479,7 +2568,8 @@
     "category": "socks",
     "price": 160,
     "imageOne": "https://i.ibb.co.com/LNg12M7/5-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/6Y0WXX8/605A0377.jpg"
+    "imageTwo": "https://i.ibb.co.com/6Y0WXX8/605A0377.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 286,
@@ -2487,7 +2577,8 @@
     "category": "socks",
     "price": 230,
     "imageOne": "https://i.ibb.co.com/4Vpr53d/7-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/dfHWwHD/605A0384.jpg"
+    "imageTwo": "https://i.ibb.co.com/dfHWwHD/605A0384.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 287,
@@ -2495,7 +2586,8 @@
     "category": "socks",
     "price": 300,
     "imageOne": "https://i.ibb.co.com/xjKFQmR/605-A0464-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/TcJfLbd/605A0387.jpg"
+    "imageTwo": "https://i.ibb.co.com/TcJfLbd/605A0387.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 288,
@@ -2503,7 +2595,8 @@
     "category": "wallet",
     "price": 300,
     "imageOne": "https://i.ibb.co.com/wKpzmDY/605-A6483-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/KsHZmB2/605-A6470-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/KsHZmB2/605-A6470-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 289,
@@ -2511,7 +2604,8 @@
     "category": "women-chokers",
     "price": 300,
     "imageOne": "https://i.ibb.co.com/7N4rDfS/605-A1203-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/0Qn58CP/605A1202.jpg"
+    "imageTwo": "https://i.ibb.co.com/0Qn58CP/605A1202.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 290,
@@ -2519,7 +2613,8 @@
     "category": "ear-cuffs",
     "price": 300,
     "imageOne": "https://i.ibb.co.com/7WRrJQV/605-A0303-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/7v6yLM0/605-A0310-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/7v6yLM0/605-A0310-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 291,
@@ -2527,7 +2622,8 @@
     "category": "Ear-Cuffs",
     "price": 300,
     "imageOne": "https://i.ibb.co.com/PrGLXQK/605-A0299-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/HGv7j71/605-A0328-copy-1.jpg"
+    "imageTwo": "https://i.ibb.co.com/HGv7j71/605-A0328-copy-1.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 292,
@@ -2535,7 +2631,8 @@
     "category": "women-finger-ring",
     "price": 300,
     "imageOne": "https://i.ibb.co.com/Wcgz3LN/605-A0288-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/Wcgz3LN/605-A0288-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/Wcgz3LN/605-A0288-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 293,
@@ -2543,7 +2640,8 @@
     "category": "women-finger-ring",
     "price": 300,
     "imageOne": "https://i.ibb.co.com/Hn40vP2/605-A0327-copy-2.jpg",
-    "imageTwo": "https://i.ibb.co.com/Hn40vP2/605-A0327-copy-2.jpg"
+    "imageTwo": "https://i.ibb.co.com/Hn40vP2/605-A0327-copy-2.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 294,
@@ -2551,7 +2649,8 @@
     "category": "stud-earrings",
     "price": 250,
     "imageOne": "https://i.ibb.co.com/ypnxpkb/605-A9939-copy-2-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/c8wgD1R/605-A9939-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/c8wgD1R/605-A9939-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 295,
@@ -2559,7 +2658,8 @@
     "category": "stud-earrings",
     "price": 350,
     "imageOne": "https://i.ibb.co.com/cwj7GTg/605-A0326-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/sJsRQmb/605-A0313-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/sJsRQmb/605-A0313-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 296,
@@ -2567,7 +2667,8 @@
     "category": "stud-earrings",
     "price": 600,
     "imageOne": "https://i.ibb.co.com/HgWnRsh/605-A9458-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/LQFm1GQ/605-A9900-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/LQFm1GQ/605-A9900-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 297,
@@ -2575,7 +2676,8 @@
     "category": "stud-earrings",
     "price": 200,
     "imageOne": "https://i.ibb.co.com/Z2hhqY0/605-A9459-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/KLVrdvW/605-A9892-copy.jpg"
+    "imageTwo": "https://i.ibb.co.com/KLVrdvW/605-A9892-copy.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 298,
@@ -2583,7 +2685,8 @@
     "category": "stud-earrings",
     "price": 150,
     "imageOne": "https://i.ibb.co.com/RgZ6fZQ/605-A9453-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/W588xf7/605-A9457-copy-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/W588xf7/605-A9457-copy-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 299,
@@ -2591,7 +2694,8 @@
     "category": "stud-earrings",
     "price": 280,
     "imageOne": "https://i.ibb.co.com/GnG2Gr0/605-A9451-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/3MHpcgL/605A9451.jpg"
+    "imageTwo": "https://i.ibb.co.com/3MHpcgL/605A9451.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 300,
@@ -2599,7 +2703,8 @@
     "category": "stud-earrings",
     "price": 320,
     "imageOne": "https://i.ibb.co.com/d0Fhcvj/605-A9447-copy-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/b1LfSdB/605A9447.jpg"
+    "imageTwo": "https://i.ibb.co.com/b1LfSdB/605A9447.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 301,
@@ -2607,7 +2712,8 @@
     "category": "earrings",
     "price": 400,
     "imageOne": "https://i.ibb.co.com/b1LfSdB/605A9447.jpghttps://i.ibb.co.com/j3Z4nyK/605-A9489-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/993kB8H/605A9485.jpg"
+    "imageTwo": "https://i.ibb.co.com/993kB8H/605A9485.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 302,
@@ -2615,7 +2721,8 @@
     "category": "earrings",
     "price": 350,
     "imageOne": "https://i.ibb.co.com/WDGD7Pt/605-A9479-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/Yct0pQV/605A9481.jpg"
+    "imageTwo": "https://i.ibb.co.com/Yct0pQV/605A9481.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 303,
@@ -2623,7 +2730,8 @@
     "category": "earrings",
     "price": 500,
     "imageOne": "https://i.ibb.co.com/d2rKsH0/605-A9476-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/55Lc8kY/605A9478.jpg"
+    "imageTwo": "https://i.ibb.co.com/55Lc8kY/605A9478.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 304,
@@ -2631,7 +2739,8 @@
     "category": "earrings",
     "price": 420,
     "imageOne": "https://i.ibb.co.com/qpCC8H5/605-A9496-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/VDJV06w/605A9496.jpg"
+    "imageTwo": "https://i.ibb.co.com/VDJV06w/605A9496.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 305,
@@ -2639,7 +2748,8 @@
     "category": "earrings",
     "price": 280,
     "imageOne": "https://i.ibb.co.com/TLs3J92/605-A9495-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/CzKrCS2/605A9495.jpg"
+    "imageTwo": "https://i.ibb.co.com/CzKrCS2/605A9495.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 306,
@@ -2647,7 +2757,8 @@
     "category": "earrings",
     "price": 600,
     "imageOne": "https://i.ibb.co.com/BrD9hxL/605-A9492-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/6B88z6q/605A9492.jpg"
+    "imageTwo": "https://i.ibb.co.com/6B88z6q/605A9492.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 307,
@@ -2655,7 +2766,8 @@
     "category": "earrings",
     "price": 250,
     "imageOne": "https://i.ibb.co.com/tm4x9z0/605-A9581-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/MSmgSQR/605A9578.jpg"
+    "imageTwo": "https://i.ibb.co.com/MSmgSQR/605A9578.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 308,
@@ -2663,7 +2775,8 @@
     "category": "earrings",
     "price": 700,
     "imageOne": "https://i.ibb.co.com/KmbjxzX/605-A9493-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/QKzNjST/605A9493.jpg"
+    "imageTwo": "https://i.ibb.co.com/QKzNjST/605A9493.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 309,
@@ -2671,7 +2784,8 @@
     "category": "earrings",
     "price": 320,
     "imageOne": "https://i.ibb.co.com/stp8yz6/605-A9573-300x300.jpg",
-    "imageTwo": "https://i.ibb.co.com/5TCY5vY/605A0308.jpg"
+    "imageTwo": "https://i.ibb.co.com/5TCY5vY/605A0308.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 310,
@@ -2679,7 +2793,8 @@
     "category": "earrings",
     "price": 550,
     "imageOne": "https://i.ibb.co.com/Jr4bqL1/605A0330.jpg",
-    "imageTwo": "https://i.ibb.co.com/3znc9t2/605-A0329-300x300.jpg"
+    "imageTwo": "https://i.ibb.co.com/3znc9t2/605-A0329-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 311,
@@ -2687,7 +2802,8 @@
     "category": "tote-bags",
     "price": 620,
     "imageOne": "https://i.postimg.cc/Dwq4TmJf/605-A1011-300x300.jpg",
-    "imageTwo": "https://i.postimg.cc/yNsgYBcm/605A1012.jpg"
+    "imageTwo": "https://i.postimg.cc/yNsgYBcm/605A1012.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 312,
@@ -2695,7 +2811,8 @@
     "category": "tote-bags",
     "price": 480,
     "imageOne": "https://i.postimg.cc/QMmBFPJR/605-A6704-copy-300x300.jpg",
-    "imageTwo": "https://i.postimg.cc/wvB1LVW3/web-edit-front-face-300x300.jpg"
+    "imageTwo": "https://i.postimg.cc/wvB1LVW3/web-edit-front-face-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 313,
@@ -2703,7 +2820,8 @@
     "category": "tote-bags",
     "price": 700,
     "imageOne": "https://i.postimg.cc/DZY8gXD6/605-A6710-copy-1-300x300.jpg",
-    "imageTwo": "https://i.postimg.cc/DZY8gXD6/605-A6710-copy-1-300x300.jpg"
+    "imageTwo": "https://i.postimg.cc/DZY8gXD6/605-A6710-copy-1-300x300.jpg",
+    "categoryType": "accessories"
   },
   {
     "id": 314,
@@ -2711,6 +2829,7 @@
     "category": "tote-bags",
     "price": 540,
     "imageOne": "https://i.postimg.cc/HWRr8bbs/605-A6703-copy-300x300.jpg",
-    "imageTwo": "https://i.postimg.cc/KvTRP457/frostine-front-pose-for-web-300x300.jpg"
+    "imageTwo": "https://i.postimg.cc/KvTRP457/frostine-front-pose-for-web-300x300.jpg",
+    "categoryType": "accessories"
   }
 ]
