@@ -192,9 +192,9 @@ const NabVar = () => {
                     </div>
                   </span>
                 </Link>
-                <span className="text-[21px]">
+                <Link href="/login" className="text-[21px]">
                   <FaUser />
-                </span>
+                </Link>
                 <Link
                   href="/scarch"
                   onClick={() => setIsSearch(!isSearch)}
