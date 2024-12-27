@@ -18,8 +18,9 @@ const ScarchFildeC = () => {
     if (data && inputValue) {
       const searchCategory = data.filter(
         (product) =>
-          product.category.toLowerCase().trim() ===
-          inputValue.toLowerCase().trim()
+          product.categoryType &&
+          product.categoryType.toLowerCase().trim() ===
+            inputValue.toLowerCase().trim()
       );
       setSearchItems(searchCategory);
     } else {
@@ -30,9 +31,9 @@ const ScarchFildeC = () => {
   return (
     <div>
       <h2 className="text-2xl font-bold md:py-7 py-4 md:text-5xl text-center">
-        Scarch Hear : {inputValue}
+        Scarch Result : {inputValue}
       </h2>
-      <div className="max-w-screen-xl mx-auto">
+      <div className="max-w-screen-lg px-4 mx-auto">
         <div className="grid justify-center  md:grid-cols-4  gap-6 grid-cols-2">
           {searchItems.map((product) => (
             <ProductCard key={product.id} product={product}></ProductCard>

@@ -2102,6 +2102,7 @@
     "id": 232,
     "name": "Boxy Jacket - Brown",
     "category": "women-boxy-jacket",
+    "categoryType": "jackets",
     "price": 3200,
     "imageOne": "https://i.ibb.co.com/2cfwwpV/605-A1800-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/y4RQhsk/605-A1784-copy.jpg"
@@ -2111,6 +2112,7 @@
     "name": "Boxy Jacket - White",
     "category": "women-boxy-jacket",
     "price": 3300,
+    "categoryType": "jackets",
     "imageOne": "https://i.ibb.co.com/0XV17hg/605-A1736-copy-300x300.jpg",
     "imageTwo": "https://i.ibb.co.com/x8HXbf4/605-A1729-copy.jpg"
   },
