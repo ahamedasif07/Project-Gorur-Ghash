@@ -38,15 +38,12 @@ const LoginForm = () => {
       const data = await res.json();
       console.log("Login successful:", data);
       // Redirect or handle success
+      router.push("/dashboard"); // Example: Navigate to the dashboard after login
     } catch (err) {
       setError(err.message || "Something went wrong.");
     } finally {
       setLoading(false);
     }
-  };
-
-  const navigateToSignUp = () => {
-    router.push("/register"); // Navigate to the registration page
   };
 
   return (
@@ -92,10 +89,9 @@ const LoginForm = () => {
 
         <div className="mt-4 text-center">
           <p className="text-gray-600">
-            Don't have an account?{" "}
+            Don&apos;t have an account?{" "}
             <Link
-              href="registation"
-              onClick={navigateToSignUp}
+              href="/registation"
               className="text-yellow-500 font-bold hover:underline"
             >
               Sign Up
