@@ -3,6 +3,7 @@ import React from "react";
 import Section from "../Section/Section";
 import ProductCatagoryCard from "../ProductCatagoryCard/ProductCatagoryCard";
 import { useDataContext } from "../Shared/DataFetching/DataProvider";
+import ProgressBar from "../Shared/ProgressBar";
 
 const CatagoryContainer = ({
   productCategories,
@@ -35,10 +36,9 @@ const CatagoryContainer = ({
                 Filter by price
               </h2>
             </div>
-            <div className="flex items-center  mt-2 px-6">
-              <p className="h-[14px] rounded-full w-[14px] bg-[#4E4E4E]"></p>
-              <p className="h-[4px]  w-[200px] bg-[#4E4E4E]"></p>
-              <p className="h-[14px] rounded-full w-[14px] bg-[#4E4E4E]"></p>
+            {/* progress bar */}
+            <div>
+              <ProgressBar />
             </div>
             <div className="flex  gap-7 items-center  mt-2 px-6">
               <p className="bg-[#FBDD02] py-1 px-2 rounded-md">Filter</p>
