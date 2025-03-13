@@ -3,6 +3,7 @@ import React from "react";
 
 import Section from "../Section/Section";
 import ProductCard from "./ProductCard";
+import ProgressBar from "./ProgressBar";
 
 const DisplayCatagoryProducts = ({
   filtaredProducts,
@@ -32,10 +33,14 @@ const DisplayCatagoryProducts = ({
                 Filter by Price
               </h2>
             </div>
-            <div className="flex items-center mt-2 px-6">
+            {/* progress bar */}
+            {/* <div className="flex items-center mt-2 px-6">
               <p className="h-[14px] rounded-full w-[14px] bg-[#4E4E4E]"></p>
-              <p className="h-[4px] w-[200px] bg-[#4E4E4E]"></p>
+              <p className="h-[4px] w-[200px] bg-[#df2222]"></p>
               <p className="h-[14px] rounded-full w-[14px] bg-[#4E4E4E]"></p>
+            </div> */}
+            <div>
+              <ProgressBar />
             </div>
             <div className="flex gap-7 items-center mt-2 px-6">
               <p className="bg-[#FBDD02] py-1 px-2 rounded-md">Filter</p>
