@@ -24,15 +24,28 @@ const MainCatagoris = () => {
         data-aos="fade-up"
         className="flex md:max-w-screen-lg px-4 justify-center pt-[30px] pb-[20px] mx-auto gap-5"
       >
-        <Link href="/men" className="w-full">
-          <Image src={menBaner} alt="image" layout="responsive" />
-        </Link>
-        <Link href="/asserocies" className="w-full">
-          <Image src={accossriesBaner} alt="image" layout="responsive" />
-        </Link>
-        <Link href="/women" className="w-full">
-          <Image src={WomenBaner} alt="image" layout="responsive" />
-        </Link>
+        <div className="">
+          <Link href="/men" className="block w-full h-full">
+            <Image src={menBaner} alt="image" fill className="object-cover" />
+          </Link>
+        </div>
+
+        <div className="relative w-full aspect-[3/1]">
+          <Link href="/asserocies" className="block w-full h-full">
+            <Image
+              src={accossriesBaner}
+              alt="image"
+              fill
+              className="object-cover"
+            />
+          </Link>
+        </div>
+
+        <div className="relative w-full aspect-[3/1]">
+          <Link href="/women" className="block w-full h-full">
+            <Image src={WomenBaner} alt="image" fill className="object-cover" />
+          </Link>
+        </div>
       </div>
     </div>
   );

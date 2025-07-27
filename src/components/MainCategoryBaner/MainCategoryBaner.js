@@ -15,10 +15,15 @@ const MainCategoryBaner = ({ BanerImage, path }) => {
     });
   }, []);
   return (
-    <div>
+    <div className="px-4 pt-4">
       <Link href={path}>
-        <div data-aos="fade-up" className={`pt-4 px-4`}>
-          <Image src={BanerImage} alt="category-Baner"></Image>
+        <div data-aos="fade-up" className="relative w-full aspect-[4/1] ">
+          <Image
+            src={BanerImage}
+            alt="category-Baner"
+            fill
+            className="object-fil"
+          />
         </div>
       </Link>
     </div>
